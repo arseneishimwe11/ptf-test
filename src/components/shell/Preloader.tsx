@@ -9,10 +9,11 @@ import { useReducedMotion } from "@/lib/media";
 const SEEN_KEY = "av-loader-seen";
 
 /**
- * Splash → hero handoff as one choreographed sequence (the Lyniq idea):
- * a mono counter runs 000→100, the wordmark sits beneath it, then two
- * stacked panels wipe upward and the hero's masked lines inherit the beat.
- * Shown once per session; skipped entirely under reduced motion.
+ * The loader → hero handoff as one gated sequence (observed on Lyniq ⭐ and
+ * Sensoria): a solid ACCENT screen holds the wordmark while a tiny mono
+ * counter ticks 000→100 in the corner, then the whole panel wipes upward on
+ * the anticipation-settle curve the hero entrance keys off. Shown once per
+ * session; skipped entirely under reduced motion.
  */
 export default function Preloader() {
   const { done, markDone } = useLoader();
@@ -39,7 +40,7 @@ export default function Preloader() {
   useEffect(() => {
     if (show !== true) return;
     const controls = animate(0, 100, {
-      duration: 1.5,
+      duration: 1.3,
       ease: [0.65, 0, 0.35, 1],
       onUpdate: (v) => {
         if (counterRef.current) {
@@ -58,36 +59,34 @@ export default function Preloader() {
       {show === true && !exiting && (
         <motion.div
           key="preloader"
-          className="fixed inset-0 z-[100] flex items-center justify-center"
+          className="fixed inset-0 z-[100] flex items-center justify-center bg-accent px-[clamp(1.25rem,4vw,2rem)]"
           aria-hidden
-          exit={{ transition: { duration: 0 } }}
+          exit={reduced ? { opacity: 0 } : { y: "-100%" }}
+          transition={{ duration: 1.0, ease: [0.92, -0.02, 0.38, 1] }}
         >
-          {/* two stacked panels — the wipe */}
-          <motion.div
-            className="absolute inset-x-0 top-0 h-1/2 bg-surface"
-            exit={reduced ? { opacity: 0 } : { y: "-100%" }}
-            transition={{ duration: 0.9, ease: [0.87, 0, 0.13, 1] }}
-          />
-          <motion.div
-            className="absolute inset-x-0 bottom-0 h-1/2 bg-surface"
-            exit={reduced ? { opacity: 0 } : { y: "100%" }}
-            transition={{ duration: 0.9, ease: [0.87, 0, 0.13, 1] }}
-          />
-          <motion.div
-            className="relative z-10 flex flex-col items-center gap-3"
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            transition={{ duration: 0.35 }}
+          {/* wordmark, centered */}
+          <motion.span
+            className="display text-[clamp(3rem,12vw,9rem)] text-[#0f0e0c]"
+            initial={{ opacity: 0, y: reduced ? 0 : 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, ease: [0.16, 1.04, 0.32, 0.98] }}
           >
-            <span
-              ref={counterRef}
-              className="tabular font-mono text-6xl tracking-tight text-ink md:text-7xl"
-            >
-              000
+            {siteData.identity.initials}
+            <span className="align-top text-[0.42em]">®</span>
+          </motion.span>
+
+          {/* corner instrument readout */}
+          <div className="absolute inset-x-[clamp(1.25rem,4vw,2rem)] bottom-8 flex items-end justify-between text-[#0f0e0c]">
+            <span className="font-mono text-xs uppercase tracking-[0.18em] opacity-70">
+              {siteData.identity.role}
             </span>
-            <span className="eyebrow">{siteData.identity.name}</span>
-          </motion.div>
+            <span className="flex items-baseline gap-1 font-mono text-sm">
+              <span ref={counterRef} className="tabular">
+                000
+              </span>
+              <span className="opacity-70">/100</span>
+            </span>
+          </div>
         </motion.div>
       )}
     </AnimatePresence>

@@ -1,30 +1,60 @@
 @import "tailwindcss";
 
+/* ================================================================== */
+/* Design tokens — DESIGN_DNA.md v2 §2                                 */
 /* ------------------------------------------------------------------ */
-/* Design tokens (see DESIGN_DNA.md §4)                                */
-/* ------------------------------------------------------------------ */
+/* Semantic color tokens are contextual: the DARK values live on       */
+/* :root (via @theme), and `.band-paper` re-declares the same custom   */
+/* properties so every `text-ink` / `bg-surface` / `border-line`       */
+/* utility flips automatically inside a paper band. This is how the    */
+/* observed alternating light/dark section rhythm is achieved with     */
+/* one set of utilities.                                               */
+/* ================================================================== */
 @theme {
-  --color-ground: #0c0b09; /* warm near-black */
-  --color-surface: #161411;
-  --color-raised: #1e1b17;
-  --color-line: rgba(237, 232, 223, 0.12);
-  --color-ink: #ede8df; /* warm off-white */
-  --color-muted: #8a8578;
-  --color-accent: #e8642c; /* burnt amber */
-  --color-accent-soft: rgba(232, 100, 44, 0.14);
+  --color-ground: #0f0e0c; /* dark band ground (hero, skills, contact, footer) */
+  --color-surface: #191714; /* raised card on dark */
+  --color-raised: #211e1a;
+  --color-line: rgba(244, 242, 237, 0.12);
+  --color-ink: #f4f2ed; /* warm paper-white on dark */
+  --color-muted: #9a938a; /* warm gray, ≥4.5:1 on ground */
+  --color-accent: #ff471a; /* signal orange-red */
+  --color-accent-soft: rgba(255, 71, 26, 0.12);
 
   --radius-tick: 2px;
-  --radius-card: 20px;
+  --radius-tile: 8px;
+  --radius-card: 14px;
+  --radius-pill: 999px;
 
-  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  /* Measured easing families (see DESIGN_DNA §2 — derived, not copied) */
+  --ease-hover: cubic-bezier(0.44, 0, 0.56, 1); /* sine-in-out, 0.3s hovers */
+  --ease-enter: cubic-bezier(0.16, 1.04, 0.32, 0.98); /* decel + ~4% overshoot */
+  --ease-wipe: cubic-bezier(0.92, -0.02, 0.38, 1); /* anticipation → settle */
+  --ease-calm: cubic-bezier(0.4, 0, 0.2, 1); /* reduced-motion envelope */
 }
 
 /* Font vars come from next/font on <body>, so they must be inlined into
    utilities rather than emitted on :root (where they can't resolve). */
 @theme inline {
-  --font-display: var(--font-fraunces);
-  --font-sans: var(--font-grotesk);
+  --font-sans: var(--font-archivo);
   --font-mono: var(--font-jetbrains);
+}
+
+/* Paper band: same tokens, light values. Applied per-section. */
+.band-paper {
+  --color-ground: #f4f2ed;
+  --color-surface: #ffffff;
+  --color-raised: #ece8e0;
+  --color-line: rgba(16, 16, 16, 0.12);
+  --color-ink: #101010;
+  --color-muted: #6b6459;
+  background: var(--color-ground);
+  color: var(--color-ink);
+}
+
+/* Dark band: explicit for sections that sit on the default ground. */
+.band-dark {
+  background: var(--color-ground);
+  color: var(--color-ink);
 }
 
 /* ------------------------------------------------------------------ */
@@ -32,7 +62,7 @@
 /* ------------------------------------------------------------------ */
 html {
   scroll-behavior: smooth; /* fallback when Lenis is off */
-  background: var(--color-ground);
+  background: #0f0e0c;
 }
 
 html.lenis,
@@ -46,14 +76,15 @@ html.lenis body {
 body {
   background: var(--color-ground);
   color: var(--color-ink);
-  font-family: var(--font-grotesk);
+  font-family: var(--font-archivo), system-ui, sans-serif;
+  font-weight: 450;
   -webkit-font-smoothing: antialiased;
   overflow-x: clip;
 }
 
 ::selection {
   background: var(--color-accent);
-  color: var(--color-ground);
+  color: #0f0e0c;
 }
 
 :focus-visible {
@@ -62,35 +93,64 @@ body {
   border-radius: var(--radius-tick);
 }
 
-/* Layout primitives */
+/* ------------------------------------------------------------------ */
+/* Layout primitives                                                   */
+/* ------------------------------------------------------------------ */
 .container-site {
   margin-inline: auto;
   width: 100%;
-  max-width: 1440px;
-  padding-inline: clamp(1.25rem, 4vw, 4rem);
+  max-width: 1400px;
+  padding-inline: clamp(1.25rem, 4vw, 2rem);
 }
 
 .section-pad {
-  padding-block: clamp(6rem, 12vw, 10rem);
+  padding-block: clamp(5rem, 10vw, 7.5rem); /* 120px base */
+}
+.section-pad-lg {
+  padding-block: clamp(7rem, 13vw, 11rem); /* 176px showpiece */
 }
 
 .hairline {
   border-top: 1px solid var(--color-line);
 }
 
-.eyebrow {
-  font-family: var(--font-jetbrains);
-  font-size: 0.72rem;
-  letter-spacing: 0.22em;
+/* ------------------------------------------------------------------ */
+/* Type system — Archivo (display/UI/body) + JetBrains Mono (labels)   */
+/* ------------------------------------------------------------------ */
+
+/* Giant uppercase statement — hero, contact, footer ghost (Majd/Davies) */
+.display {
+  font-family: var(--font-archivo), system-ui, sans-serif;
+  font-weight: 800;
   text-transform: uppercase;
-  color: var(--color-muted);
+  letter-spacing: -0.035em;
+  line-height: 0.88;
 }
 
-.display {
-  font-family: var(--font-fraunces);
-  font-variation-settings: "opsz" 144;
+/* Section headings — bold grotesk, sentence case, tight tracking */
+.heading {
+  font-family: var(--font-archivo), system-ui, sans-serif;
+  font-weight: 680;
+  letter-spacing: -0.03em;
+  line-height: 1.02;
+}
+
+/* Editorial pull-quote — light large grotesk (the counter-voice, no serif) */
+.quote {
+  font-family: var(--font-archivo), system-ui, sans-serif;
+  font-weight: 400;
   letter-spacing: -0.02em;
-  line-height: 0.98;
+  line-height: 1.18;
+}
+
+/* Instrument-panel micro-label (mono, the "software" texture) */
+.eyebrow,
+.mono-label {
+  font-family: var(--font-jetbrains), ui-monospace, monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-muted);
 }
 
 .tabular {
@@ -105,13 +165,44 @@ body {
   z-index: 200;
   padding: 0.5rem 1rem;
   background: var(--color-accent);
-  color: var(--color-ground);
-  border-radius: 999px;
-  font-size: 0.85rem;
+  color: #0f0e0c;
+  border-radius: var(--radius-pill);
+  font-family: var(--font-jetbrains), ui-monospace, monospace;
+  font-size: 0.8rem;
   transform: translateY(-300%);
   transition: transform 0.2s;
 }
 .skip-link:focus-visible {
+  transform: translateY(0);
+}
+
+/* ------------------------------------------------------------------ */
+/* Rolling-text link (observed on Majd/Hanza): label slides up, a       */
+/* duplicate rises into place. Wrap text in .roll > span pairs.         */
+/* ------------------------------------------------------------------ */
+.roll {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+}
+.roll > span {
+  display: block;
+  transition: transform 0.42s var(--ease-hover);
+}
+.roll > span:last-child {
+  position: absolute;
+  inset: 0;
+  transform: translateY(100%);
+}
+.roll:hover > span:first-child,
+a:hover .roll > span:first-child,
+button:hover .roll > span:first-child {
+  transform: translateY(-100%);
+}
+.roll:hover > span:last-child,
+a:hover .roll > span:last-child,
+button:hover .roll > span:last-child {
   transform: translateY(0);
 }
 
@@ -129,7 +220,7 @@ body {
 .marquee-track {
   display: flex;
   width: max-content;
-  animation: marquee-x 36s linear infinite;
+  animation: marquee-x 42s linear infinite;
   will-change: transform;
 }
 .marquee:hover .marquee-track {
@@ -141,15 +232,15 @@ body {
   background:
     radial-gradient(
       120% 160% at 18% 0%,
-      hsl(var(--cover-hue, 18) 72% 58% / 0.5) 0%,
+      hsl(var(--cover-hue, 11) 92% 56% / 0.55) 0%,
       transparent 52%
     ),
     radial-gradient(
       130% 140% at 90% 110%,
-      hsl(calc(var(--cover-hue, 18) + 40) 60% 40% / 0.42) 0%,
+      hsl(calc(var(--cover-hue, 11) + 32) 70% 42% / 0.45) 0%,
       transparent 55%
     ),
-    linear-gradient(160deg, #23201b 0%, #12100d 68%);
+    linear-gradient(158deg, #211d18 0%, #100e0b 70%);
 }
 .cover-noise::after {
   content: "";
@@ -174,17 +265,34 @@ body {
   animation: pulse-soft 2.4s ease-in-out infinite;
 }
 
+/* Footer underscore block-cursor blink (Davies terminal metaphor) */
+@keyframes caret-blink {
+  0%,
+  48% {
+    opacity: 1;
+  }
+  50%,
+  100% {
+    opacity: 0;
+  }
+}
+.caret-blink {
+  animation: caret-blink 1.1s steps(1) infinite;
+}
+
 /* ------------------------------------------------------------------ */
-/* Reduced motion — ClearPath-calm fallback (see DESIGN_DNA.md)        */
+/* Reduced motion — ClearPath-calm envelope (measured, DESIGN_DNA §3)   */
 /* ------------------------------------------------------------------ */
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
   }
-  .marquee-track {
+  .marquee-track,
+  .pulse-dot,
+  .caret-blink {
     animation: none;
   }
-  .pulse-dot {
-    animation: none;
+  .roll > span {
+    transition: none;
   }
 }

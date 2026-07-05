@@ -9,6 +9,7 @@ import { useReducedMotion } from "@/lib/media";
 import Eyebrow from "@/components/ui/Eyebrow";
 import Reveal from "@/components/ui/Reveal";
 import CountUp from "@/components/ui/CountUp";
+import WordReveal from "@/components/ui/WordReveal";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -40,25 +41,34 @@ export default function About() {
   );
 
   return (
-    <section ref={root} id="about" className="section-pad">
+    <section
+      ref={root}
+      id="about"
+      className="band-paper relative z-10 section-pad"
+    >
       <div className="container-site">
-        <Eyebrow>{about.eyebrow}</Eyebrow>
+        <Eyebrow index="01">{about.eyebrow}</Eyebrow>
 
-        <div className="grid gap-16 md:grid-cols-12">
+        {/* Manifesto — scroll-linked word fill (the Majd moment) */}
+        <WordReveal
+          text={about.paragraphs[0]}
+          className="heading max-w-4xl text-[clamp(1.6rem,3.4vw,2.75rem)] text-ink"
+        />
+
+        <div className="mt-24 grid gap-16 md:grid-cols-12">
           {/* Portrait — generated composition. [PLACEHOLDER IMAGE]: swap for a
               real photo via next/image; keep the 4:5 ratio. */}
           <div className="md:col-span-5">
             <div className="md:sticky md:top-28">
-              <div className="relative aspect-[4/5] overflow-hidden rounded-card bg-surface">
+              <div className="relative aspect-[4/5] overflow-hidden rounded-card">
                 <div
                   data-portrait
                   className="cover-gradient cover-noise absolute -inset-y-[8%] inset-x-0"
-                  style={{ "--cover-hue": 18 } as React.CSSProperties}
+                  style={{ "--cover-hue": 11 } as React.CSSProperties}
                 />
-                <div className="absolute inset-0 flex items-end p-6">
-                  <span className="eyebrow">
-                    {siteData.identity.name} — {siteData.identity.location}
-                  </span>
+                <div className="absolute inset-x-0 bottom-0 flex items-center justify-between p-6 font-mono text-[0.62rem] uppercase tracking-[0.16em] text-[#f4f2ed]/80">
+                  <span>{siteData.identity.name}</span>
+                  <span>{siteData.identity.location}</span>
                 </div>
               </div>
             </div>
@@ -66,27 +76,27 @@ export default function About() {
 
           <div className="md:col-span-7">
             <Reveal>
-              <h2 className="display max-w-xl text-4xl md:text-6xl">
+              <h2 className="heading max-w-xl text-3xl md:text-5xl">
                 {about.heading}
               </h2>
             </Reveal>
 
-            <div className="mt-10 max-w-xl space-y-6">
-              {about.paragraphs.map((p, i) => (
-                <Reveal key={i} delay={0.08 * (i + 1)}>
-                  <p className="leading-relaxed text-muted">{p}</p>
-                </Reveal>
-              ))}
+            <div className="mt-8 max-w-xl">
+              <Reveal delay={0.08}>
+                <p className="leading-relaxed text-muted">
+                  {about.paragraphs[1]}
+                </p>
+              </Reveal>
             </div>
 
             <dl className="mt-14 grid grid-cols-1 gap-8 sm:grid-cols-3">
               {about.stats.map((stat, i) => (
                 <Reveal key={stat.label} delay={0.08 * i}>
                   <div className="hairline pt-5">
-                    <dd className="display text-5xl text-ink">
+                    <dd className="display text-5xl text-ink md:text-6xl">
                       <CountUp to={stat.value} suffix={stat.suffix} />
                     </dd>
-                    <dt className="mt-2 text-sm text-muted">{stat.label}</dt>
+                    <dt className="mt-3 text-sm text-muted">{stat.label}</dt>
                   </div>
                 </Reveal>
               ))}
@@ -107,7 +117,7 @@ export default function About() {
                         </p>
                         <p className="mt-1 text-sm text-muted">{job.note}</p>
                       </div>
-                      <p className="font-mono text-xs tracking-[0.15em] text-muted sm:pt-1">
+                      <p className="font-mono text-xs tracking-[0.14em] text-muted sm:pt-1">
                         {job.period}
                       </p>
                     </li>

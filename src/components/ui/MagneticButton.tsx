@@ -45,7 +45,6 @@ export default function MagneticButton({
     <motion.a
       ref={ref}
       href={href}
-      data-cursor="link"
       className={className}
       style={active ? { x: sx, y: sy } : undefined}
       onPointerMove={onMove}

@@ -4,8 +4,9 @@ import { useEffect, useState } from "react";
 import { siteData } from "@/content/site-data";
 
 /**
- * Editorial close (Lyniq/Platform® treatment): a giant wordmark clipped at
- * the baseline, colophon meta, live local-time readout, back-to-top.
+ * Editorial close (observed on Majd/Lyniq/Hanza): a giant clipped ghost
+ * wordmark with a Davies-style blinking terminal underscore, a mono colophon,
+ * a live local-time readout and a back-to-top with a rolling-text hover.
  */
 export default function Footer() {
   const { identity, footer } = siteData;
@@ -25,37 +26,38 @@ export default function Footer() {
   }, [identity.timezone]);
 
   return (
-    <footer className="relative overflow-hidden pt-10">
+    <footer className="band-dark relative z-10 overflow-hidden pt-10">
       <div className="container-site">
         <div className="hairline flex flex-col gap-6 py-10 sm:flex-row sm:items-center sm:justify-between">
-          <p className="text-sm text-muted">
+          <p className="font-mono text-xs tracking-[0.12em] text-muted">
             {footer.colophon} · © {new Date().getFullYear()}
           </p>
-          <p className="font-mono text-xs tracking-[0.15em] text-muted">
+          <p className="font-mono text-xs tracking-[0.12em] text-muted">
             {identity.timezoneLabel}{" "}
             <span className="tabular text-ink" suppressHydrationWarning>
               {time ?? "--:--:--"}
             </span>
           </p>
           <div className="flex items-center gap-8">
-            <p className="font-mono text-xs tracking-[0.15em] text-muted">
+            <p className="font-mono text-xs tracking-[0.12em] text-muted">
               {footer.note}
             </p>
             <a
               href="#top"
-              data-cursor="link"
-              className="font-mono text-xs uppercase tracking-[0.2em] text-muted transition-colors hover:text-accent"
+              className="roll font-mono text-xs uppercase tracking-[0.18em] text-muted"
             >
-              Top ↑
+              <span>Top ↑</span>
+              <span className="text-accent">Top ↑</span>
             </a>
           </div>
         </div>
       </div>
 
-      {/* Giant clipped wordmark */}
+      {/* Giant clipped ghost wordmark with a blinking terminal underscore */}
       <div aria-hidden className="pointer-events-none select-none">
-        <p className="display -mb-[0.24em] whitespace-nowrap text-center text-[clamp(4rem,17vw,17rem)] leading-none text-ink/[0.06]">
-          {identity.name}
+        <p className="display -mb-[0.18em] flex items-baseline justify-center whitespace-nowrap text-center text-[clamp(4rem,17vw,15rem)] text-ink/[0.06]">
+          {identity.initials}
+          <span className="caret-blink ml-[0.06em] text-accent/50">_</span>
         </p>
       </div>
     </footer>

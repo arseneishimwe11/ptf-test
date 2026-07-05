@@ -9,10 +9,12 @@ import { useReducedMotion } from "@/lib/media";
 const SECTION_IDS = ["about", "work", "skills", "contact"];
 
 /**
- * Fixed bar that stays out of the content's way: transparent at the top,
- * glass after 48px, slides away on scroll-down and returns on scroll-up
- * (the Lyniq/Platform® "content is the star" pattern). Mobile gets a
- * full-screen sheet with staggered links.
+ * Fixed slim bar: transparent over the dark hero, dark glass after 48px,
+ * slides away on scroll-down and returns on scroll-up (the "content is the
+ * star" pattern). Links carry mono `0N /` indices and there's a live
+ * availability pill — the instrument-panel wayfinding observed on Davies
+ * (indexed links) and Jayden (availability chip). Mobile gets a full-screen
+ * sheet with staggered uppercase links.
  */
 export default function Nav() {
   const { done } = useLoader();
@@ -62,10 +64,10 @@ export default function Nav() {
   return (
     <>
       <motion.header
-        className={`fixed inset-x-0 top-0 z-[80] transition-colors duration-500 ${
+        className={`fixed inset-x-0 top-0 z-[80] band-dark transition-colors duration-500 ${
           scrolled
             ? "border-b border-line bg-ground/80 backdrop-blur-md"
-            : "border-b border-transparent"
+            : "border-b border-transparent !bg-transparent"
         }`}
         initial={reduced ? false : { y: -80, opacity: 0 }}
         animate={{
@@ -76,31 +78,43 @@ export default function Nav() {
       >
         <nav
           aria-label="Primary"
-          className="container-site flex h-[72px] items-center justify-between"
+          className="container-site flex h-[64px] items-center justify-between"
         >
-          <a
-            href="#top"
-            data-cursor="link"
-            className="font-display text-xl tracking-tight"
-            aria-label={`${siteData.identity.name} — back to top`}
-          >
-            {siteData.identity.initials}
-            <span className="text-accent">.</span>
-          </a>
+          <div className="flex items-center gap-5">
+            <a
+              href="#top"
+              className="text-lg font-bold uppercase tracking-tight text-ink"
+              aria-label={`${siteData.identity.name} — back to top`}
+            >
+              {siteData.identity.initials}
+              <span className="text-accent">®</span>
+            </a>
+            <span className="hidden items-center gap-2 rounded-full border border-line px-3 py-1 lg:flex">
+              <span
+                aria-hidden
+                className="pulse-dot h-1.5 w-1.5 rounded-full bg-[#3fcf6b]"
+              />
+              <span className="font-mono text-[0.62rem] uppercase tracking-[0.16em] text-muted">
+                Available
+              </span>
+            </span>
+          </div>
 
-          <ul className="hidden items-center gap-8 md:flex">
-            {siteData.nav.links.map((link) => {
+          <ul className="hidden items-center gap-7 md:flex">
+            {siteData.nav.links.map((link, i) => {
               const isActive = active === link.href.slice(1);
               return (
                 <li key={link.href} className="relative">
                   <a
                     href={link.href}
-                    data-cursor="link"
-                    className={`text-sm transition-colors duration-300 ${
+                    className={`group flex items-baseline gap-1.5 font-mono text-xs uppercase tracking-[0.12em] transition-colors duration-300 ${
                       isActive ? "text-ink" : "text-muted hover:text-ink"
                     }`}
                   >
-                    {link.label}
+                    <span className="text-[0.62rem] text-accent">
+                      0{i + 1}
+                    </span>
+                    <span>{link.label}</span>
                   </a>
                   {isActive && (
                     <motion.span
@@ -114,10 +128,10 @@ export default function Nav() {
             <li>
               <a
                 href={siteData.nav.cta.href}
-                data-cursor="link"
-                className="rounded-full border border-line px-5 py-2 text-sm transition-colors duration-300 hover:border-accent hover:text-accent"
+                className="roll rounded-full bg-ink px-5 py-2 font-mono text-xs uppercase tracking-[0.12em] text-ground"
               >
-                {siteData.nav.cta.label}
+                <span>{siteData.nav.cta.label}</span>
+                <span className="px-5 text-accent">{siteData.nav.cta.label}</span>
               </a>
             </li>
           </ul>
@@ -147,7 +161,7 @@ export default function Nav() {
       <AnimatePresence>
         {open && (
           <motion.div
-            className="fixed inset-0 z-[70] flex flex-col justify-center bg-ground/95 backdrop-blur-lg md:hidden"
+            className="fixed inset-0 z-[70] flex flex-col justify-center band-dark bg-ground/95 backdrop-blur-lg md:hidden"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
@@ -157,13 +171,17 @@ export default function Nav() {
               {[...siteData.nav.links, siteData.nav.cta].map((link, i) => (
                 <motion.li
                   key={link.href + link.label}
+                  className="flex items-baseline gap-4"
                   initial={reduced ? false : { opacity: 0, y: 24 }}
                   animate={{ opacity: 1, y: 0 }}
-                  transition={{ delay: 0.06 * i, duration: 0.5, ease: [0.16, 1, 0.3, 1] }}
+                  transition={{ delay: 0.06 * i, duration: 0.5, ease: [0.16, 1.04, 0.32, 0.98] }}
                 >
+                  <span className="font-mono text-sm text-accent">
+                    {i < siteData.nav.links.length ? `0${i + 1}` : "→"}
+                  </span>
                   <a
                     href={link.href}
-                    className="display block py-3 text-5xl"
+                    className="display block py-2 text-5xl text-ink"
                     onClick={() => setOpen(false)}
                   >
                     {link.label}

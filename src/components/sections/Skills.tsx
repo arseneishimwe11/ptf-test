@@ -4,33 +4,36 @@ import Reveal from "@/components/ui/Reveal";
 import Marquee from "@/components/ui/Marquee";
 
 /**
- * Capability map: Platform®-style bento grammar (mixed-size tiles, one gap
- * system) + a Lyniq-style ticker as the section's divider + the numbered
- * process strip. Server component — motion comes from Reveal/CSS only.
+ * Capability map on a dark band: Platform®-style bento (sharp 8px tiles, 1px
+ * lines, `//` mono kickers) + a marquee divider + the numbered process strip.
+ * Server component — motion comes from Reveal/CSS only.
  */
 export default function Skills() {
   const { skills } = siteData;
 
   return (
-    <section id="skills" className="section-pad">
+    <section id="skills" className="band-dark relative z-10 section-pad">
       <div className="container-site">
-        <Eyebrow>{skills.eyebrow}</Eyebrow>
+        <Eyebrow index="03">{skills.eyebrow}</Eyebrow>
         <Reveal>
-          <h2 className="display mb-16 max-w-2xl text-4xl md:text-6xl">
+          <h2 className="heading mb-16 max-w-2xl text-4xl md:text-6xl">
             {skills.heading}
           </h2>
         </Reveal>
 
         {/* Bento */}
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
           {skills.bento.map((tile, i) => (
             <Reveal
               key={tile.title}
               delay={0.06 * i}
               className={tile.size === "wide" ? "sm:col-span-2" : ""}
             >
-              <div className="flex h-full flex-col justify-between gap-8 rounded-card border border-line bg-surface p-7 transition-colors duration-500 hover:border-accent/40">
+              <div className="flex h-full flex-col justify-between gap-8 rounded-tile border border-line bg-surface p-7 transition-colors duration-500 hover:border-accent/40">
                 <div>
+                  <div className="mb-4 flex items-center gap-2 font-mono text-[0.62rem] uppercase tracking-[0.16em] text-accent">
+                    {`// ${String(i + 1).padStart(2, "0")}`}
+                  </div>
                   <h3 className="mb-3 text-lg text-ink">{tile.title}</h3>
                   <p className="text-sm leading-relaxed text-muted">{tile.body}</p>
                 </div>
@@ -39,7 +42,7 @@ export default function Skills() {
                     {tile.items.map((item) => (
                       <li
                         key={item}
-                        className="rounded-full bg-raised px-3 py-1 font-mono text-[0.68rem] tracking-[0.12em] text-muted"
+                        className="rounded-full bg-raised px-3 py-1 font-mono text-[0.68rem] tracking-[0.1em] text-muted"
                       >
                         {item}
                       </li>

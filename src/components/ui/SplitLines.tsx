@@ -14,6 +14,8 @@ interface SplitLinesProps {
   /** Base delay in seconds before the first line. */
   delay?: number;
   as?: "h1" | "h2" | "p";
+  /** Line indices rendered in the accent color (Platform two-tone device). */
+  accentLines?: readonly number[];
 }
 
 const lineVariants = {
@@ -35,16 +37,18 @@ export default function SplitLines({
   play,
   delay = 0,
   as: Tag = "h2",
+  accentLines = [],
 }: SplitLinesProps) {
   const reduced = useReducedMotion();
   const controlled = play !== undefined;
   const MotionTag = motion[Tag];
+  const isAccent = (i: number) => accentLines.includes(i);
 
   if (reduced) {
     return (
       <Tag className={className}>
         {lines.map((line, i) => (
-          <span key={i} className="block">
+          <span key={i} className={`block ${isAccent(i) ? "text-accent" : ""}`}>
             {line}
           </span>
         ))}
@@ -66,9 +70,9 @@ export default function SplitLines({
       {lines.map((line, i) => (
         <span key={i} className="block overflow-hidden pb-[0.08em]">
           <motion.span
-            className="block will-change-transform"
+            className={`block will-change-transform ${isAccent(i) ? "text-accent" : ""}`}
             variants={lineVariants}
-            transition={{ duration: 1, ease: [0.16, 1, 0.3, 1] }}
+            transition={{ duration: 0.9, ease: [0.16, 1.04, 0.32, 0.98] }}
           >
             {line}
           </motion.span>

@@ -48,11 +48,15 @@ export default function Work() {
   );
 
   return (
-    <section ref={root} id="work" className="section-pad">
+    <section
+      ref={root}
+      id="work"
+      className="band-paper relative z-10 section-pad"
+    >
       <div className="container-site">
-        <Eyebrow>{work.eyebrow}</Eyebrow>
+        <Eyebrow index="02">{work.eyebrow}</Eyebrow>
         <Reveal>
-          <h2 className="display mb-16 max-w-2xl text-4xl md:text-6xl">
+          <h2 className="heading mb-16 max-w-2xl text-4xl md:text-6xl">
             {work.heading}
           </h2>
         </Reveal>

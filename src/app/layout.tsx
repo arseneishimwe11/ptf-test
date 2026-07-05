@@ -1,23 +1,19 @@
 import type { Metadata, Viewport } from "next";
-import { Fraunces, Space_Grotesk, JetBrains_Mono } from "next/font/google";
+import { Archivo, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { siteData } from "@/content/site-data";
 import { LoaderProvider } from "@/components/providers/LoaderContext";
 import SmoothScroll from "@/components/providers/SmoothScroll";
 import Preloader from "@/components/shell/Preloader";
-import Cursor from "@/components/shell/Cursor";
 
-const fraunces = Fraunces({
-  variable: "--font-fraunces",
-  subsets: ["latin"],
-  axes: ["opsz"],
-});
-
-const grotesk = Space_Grotesk({
-  variable: "--font-grotesk",
+// One grotesk at the full variable weight range (100–900) carries display,
+// UI and body — the observed genre convention (Majd's Archivo, Lyniq's Inter).
+const archivo = Archivo({
+  variable: "--font-archivo",
   subsets: ["latin"],
 });
 
+// Mono is promoted to a full instrument-panel layer (indices, readouts, labels).
 const jetbrains = JetBrains_Mono({
   variable: "--font-jetbrains",
   subsets: ["latin"],
@@ -34,7 +30,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#0c0b09",
+  themeColor: "#0f0e0c",
 };
 
 export default function RootLayout({
@@ -44,16 +40,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${fraunces.variable} ${grotesk.variable} ${jetbrains.variable}`}
-      >
+      <body className={`${archivo.variable} ${jetbrains.variable}`}>
         <a href="#main" className="skip-link">
           Skip to content
         </a>
         <LoaderProvider>
           <SmoothScroll>
             <Preloader />
-            <Cursor />
             {children}
           </SmoothScroll>
         </LoaderProvider>

@@ -1,8 +1,20 @@
-# PLAN — Build Plan (Phase 4)
+# PLAN — Build Plan (updated for DESIGN_DNA v2)
 
 Stack (locked): Next 15.5 (App Router) · TypeScript · Tailwind v4 · Framer Motion 12
 · GSAP 3 + ScrollTrigger · Lenis · React Three Fiber 9 (hero shader only) ·
-`next/font` (Fraunces, Space Grotesk, JetBrains Mono).
+`next/font` (**Archivo variable + JetBrains Mono** — Fraunces & Space Grotesk
+dropped after the real audit showed the genre is grotesk-first; see
+DESIGN_DNA v2 §0).
+
+> **v2 note:** the type system is now one grotesk (Archivo 100–900) for
+> display/UI/body + JetBrains Mono promoted to a full instrument-panel layer.
+> Sections alternate **paper/dark bands** (`.band-paper` / `.band-dark` in
+> globals.css re-declare the semantic color tokens, so `text-ink`/`bg-surface`
+> flip automatically). Accent is signal orange-red `#ff471a`. The custom
+> cursor was **removed** (0/9 references had one). The hero is `position:
+> sticky` and the next band scrolls over it (observed on Lyniq). Build stays
+> green: `pnpm build` needs font fetch, so run it with
+> `NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=<proxy CA>` behind an egress proxy.
 
 ## Page section order (single page)
 
@@ -19,29 +31,29 @@ Stack (locked): Next 15.5 (App Router) · TypeScript · Tailwind v4 · Framer Mo
 ## Component tree
 
 ```
-app/layout.tsx            fonts + metadata + <SmoothScroll> + <Cursor> + <Preloader gate>
+app/layout.tsx            Archivo+JetBrains fonts + metadata + <SmoothScroll> + <Preloader gate>
 app/page.tsx              <Nav/> <main> <Hero/> <About/> <Work/> <Skills/> <Testimonials/> <Contact/> </main> <Footer/>
-app/globals.css           @theme tokens, base, marquee keyframes, reduced-motion + a11y rules
+app/globals.css           @theme tokens (dark) + .band-paper overrides, band utils, named easings, type system, marquee/roll/caret keyframes, reduced-motion + a11y
 
 components/
   providers/SmoothScroll.tsx   Lenis + gsap.ticker bridge; ScrollTrigger sync; anchors
   providers/LoaderContext.tsx  loaderDone flag → hero waits for wipe
-  shell/Preloader.tsx          counter + wordmark + 2-panel wipe
-  shell/Cursor.tsx             dot + spring ring; data-cursor="view|link" morphs
-  shell/Nav.tsx                glass-on-scroll, hide-on-down, active-section state
-  shell/Footer.tsx             giant clipped wordmark, local time, back-to-top
-  sections/Hero.tsx            statement headline + meta row + scroll cue
-  sections/HeroCanvas.tsx      R3F full-screen shader plane (dynamic, ssr:false)
-  sections/About.tsx           portrait (generated), bio, stats, experience rows
-  sections/Work.tsx            sticky-stack project cards (GSAP scrub)
-  sections/ProjectCard.tsx     gradient cover + case-study meta; next/image-ready
-  sections/Skills.tsx          bento grid + tech marquee + process steps 01–04
-  sections/Testimonials.tsx    serif pull-quotes
-  sections/Contact.tsx         full-viewport CTA, oversized email link
-  ui/Eyebrow.tsx  ui/Reveal.tsx  ui/SplitLines.tsx  ui/Marquee.tsx  ui/CountUp.tsx  ui/MagneticButton.tsx
+  shell/Preloader.tsx          accent splash + wordmark + mono counter + upward wipe
+  shell/Nav.tsx                mono 0N/ indexed links, availability pill, glass-on-scroll, hide-on-down
+  shell/Footer.tsx             ghost wordmark + blinking terminal underscore, local time, back-to-top
+  sections/Hero.tsx            sticky pin, uppercase statement (accent line), mono meta w/ live time
+  sections/HeroCanvas.tsx      R3F single-hue flow-field shader (dynamic, ssr:false; pause-by-scroll)
+  sections/About.tsx           WordReveal manifesto, sticky portrait, stats, experience rows (paper)
+  sections/Work.tsx            sticky-stack project cards (GSAP scrub) (paper)
+  sections/ProjectCard.tsx     hue cover + glass caption bar + case-study meta; next/image-ready
+  sections/Skills.tsx          dark bento (// NN kickers) + tech marquee + process steps 01–04
+  sections/Testimonials.tsx    grotesk pull-quotes, hairline cards (paper)
+  sections/Contact.tsx         dark showpiece CTA, oversized email link (accent line)
+  ui/Eyebrow.tsx  ui/Reveal.tsx  ui/SplitLines.tsx  ui/WordReveal.tsx  ui/Marquee.tsx  ui/CountUp.tsx  ui/MagneticButton.tsx
+                               (Cursor.tsx removed — 0/9 refs had a custom cursor)
 
-content/site-data.ts      single typed schema, all dummy content, // TODO markers
-lib/usePointerFine.ts     pointer-fine + reduced-motion media hooks
+content/site-data.ts      single typed schema, all dummy content, // TODO markers (unchanged)
+lib/media.ts              useMedia / useReducedMotion / usePointerFine hooks
 ```
 
 ## Per-component spec — role · motion · breakpoints
