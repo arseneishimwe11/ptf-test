@@ -48,11 +48,7 @@ export default function Work() {
   );
 
   return (
-    <section
-      ref={root}
-      id="work"
-      className="band-paper relative z-10 section-pad"
-    >
+    <section ref={root} id="work" className="band-dark section-pad">
       <div className="container-site">
         <Eyebrow index="02">{work.eyebrow}</Eyebrow>
         <Reveal>

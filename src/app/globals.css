@@ -11,14 +11,14 @@
 /* one set of utilities.                                               */
 /* ================================================================== */
 @theme {
-  --color-ground: #0f0e0c; /* dark band ground (hero, skills, contact, footer) */
-  --color-surface: #191714; /* raised card on dark */
-  --color-raised: #211e1a;
-  --color-line: rgba(244, 242, 237, 0.12);
-  --color-ink: #f4f2ed; /* warm paper-white on dark */
-  --color-muted: #9a938a; /* warm gray, ≥4.5:1 on ground */
-  --color-accent: #ff471a; /* signal orange-red */
-  --color-accent-soft: rgba(255, 71, 26, 0.12);
+  --color-ground: #0c0b09; /* warm near-black (hero, skills, contact, footer) */
+  --color-surface: #161411; /* raised card on dark */
+  --color-raised: #1e1b17;
+  --color-line: rgba(237, 232, 223, 0.12);
+  --color-ink: #ede8df; /* warm off-white on dark */
+  --color-muted: #8a8578; /* warm gray, ≥4.5:1 on ground */
+  --color-accent: #e8642c; /* burnt amber */
+  --color-accent-soft: rgba(232, 100, 44, 0.14);
 
   --radius-tick: 2px;
   --radius-tile: 8px;
@@ -36,6 +36,7 @@
    utilities rather than emitted on :root (where they can't resolve). */
 @theme inline {
   --font-sans: var(--font-archivo);
+  --font-display: var(--font-bricolage);
   --font-mono: var(--font-jetbrains);
 }
 
@@ -62,7 +63,7 @@
 /* ------------------------------------------------------------------ */
 html {
   scroll-behavior: smooth; /* fallback when Lenis is off */
-  background: #0f0e0c;
+  background: #0c0b09;
 }
 
 html.lenis,
@@ -84,7 +85,7 @@ body {
 
 ::selection {
   background: var(--color-accent);
-  color: #0f0e0c;
+  color: #0c0b09;
 }
 
 :focus-visible {
@@ -118,21 +119,22 @@ body {
 /* Type system — Archivo (display/UI/body) + JetBrains Mono (labels)   */
 /* ------------------------------------------------------------------ */
 
-/* Giant uppercase statement — hero, contact, footer ghost (Majd/Davies) */
+/* Giant uppercase statement — hero, contact, footer ghost (Majd/Davies).
+   Titles are set in Bricolage Grotesque; body/UI stay Archivo. */
 .display {
-  font-family: var(--font-archivo), system-ui, sans-serif;
+  font-family: var(--font-bricolage), system-ui, sans-serif;
   font-weight: 800;
   text-transform: uppercase;
-  letter-spacing: -0.035em;
-  line-height: 0.88;
+  letter-spacing: -0.03em;
+  line-height: 0.9;
 }
 
-/* Section headings — bold grotesk, sentence case, tight tracking */
+/* Section headings — Bricolage, sentence case, tight tracking */
 .heading {
-  font-family: var(--font-archivo), system-ui, sans-serif;
-  font-weight: 680;
-  letter-spacing: -0.03em;
-  line-height: 1.02;
+  font-family: var(--font-bricolage), system-ui, sans-serif;
+  font-weight: 640;
+  letter-spacing: -0.02em;
+  line-height: 1.04;
 }
 
 /* Editorial pull-quote — light large grotesk (the counter-voice, no serif) */
@@ -165,7 +167,7 @@ body {
   z-index: 200;
   padding: 0.5rem 1rem;
   background: var(--color-accent);
-  color: #0f0e0c;
+  color: #0c0b09;
   border-radius: var(--radius-pill);
   font-family: var(--font-jetbrains), ui-monospace, monospace;
   font-size: 0.8rem;
@@ -232,15 +234,15 @@ button:hover .roll > span:last-child {
   background:
     radial-gradient(
       120% 160% at 18% 0%,
-      hsl(var(--cover-hue, 11) 92% 56% / 0.55) 0%,
+      hsl(var(--cover-hue, 18) 72% 58% / 0.5) 0%,
       transparent 52%
     ),
     radial-gradient(
       130% 140% at 90% 110%,
-      hsl(calc(var(--cover-hue, 11) + 32) 70% 42% / 0.45) 0%,
+      hsl(calc(var(--cover-hue, 18) + 40) 60% 40% / 0.42) 0%,
       transparent 55%
     ),
-    linear-gradient(158deg, #211d18 0%, #100e0b 70%);
+    linear-gradient(160deg, #23201b 0%, #12100d 68%);
 }
 .cover-noise::after {
   content: "";

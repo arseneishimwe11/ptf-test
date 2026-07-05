@@ -53,11 +53,14 @@ export default function Footer() {
         </div>
       </div>
 
-      {/* Giant clipped ghost wordmark with a blinking terminal underscore */}
-      <div aria-hidden className="pointer-events-none select-none">
-        <p className="display -mb-[0.18em] flex items-baseline justify-center whitespace-nowrap text-center text-[clamp(4rem,17vw,15rem)] text-ink/[0.06]">
-          {identity.initials}
-          <span className="caret-blink ml-[0.06em] text-accent/50">_</span>
+      {/* Giant ghost wordmark, sized to fit the container width */}
+      <div
+        aria-hidden
+        className="container-site pointer-events-none select-none pb-8 pt-4"
+      >
+        <p className="display whitespace-nowrap text-center leading-[0.82] text-[clamp(2.25rem,12.5vw,10.5rem)] text-ink/[0.07]">
+          {identity.wordmark}
+          <span className="align-top text-[0.4em] text-accent/50">®</span>
         </p>
       </div>
     </footer>

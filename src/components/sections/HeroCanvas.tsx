@@ -6,11 +6,11 @@ import * as THREE from "three";
 
 /**
  * The site's single WebGL accent (DESIGN_DNA: "one shader, one place").
- * An original domain-warped fbm flow field — slow embers of the signal
- * orange-red drifting through near-black — with gentle pointer influence.
- * One hue on dark, matching the observed genre (Jayden/Davies/Platform run
- * a single-hue ambient layer, never a rainbow). Budgeted: DPR ≤ 1.5,
- * antialias off, rendering paused whenever the hero is off-screen.
+ * An original domain-warped fbm flow field — slow amber embers drifting
+ * through warm darkness — with gentle pointer influence. One hue on dark,
+ * matching the observed genre (Jayden/Davies/Platform run a single-hue
+ * ambient layer, never a rainbow). Budgeted: DPR ≤ 1.5, antialias off,
+ * rendering paused whenever the hero is off-screen.
  */
 
 const vertex = /* glsl */ `
@@ -68,15 +68,15 @@ const fragment = /* glsl */ `
     );
     float f = fbm(p + 1.8 * r);
 
-    vec3 ground = vec3(0.059, 0.055, 0.047);   // #0f0e0c
-    vec3 ember  = vec3(1.000, 0.278, 0.102);   // #ff471a
-    vec3 smoke  = vec3(0.170, 0.150, 0.125);   // warm mid
+    vec3 ground = vec3(0.047, 0.043, 0.035);   // #0c0b09
+    vec3 ember  = vec3(0.910, 0.392, 0.173);   // #e8642c
+    vec3 smoke  = vec3(0.180, 0.160, 0.130);   // warm mid
 
     vec3 col = ground;
     col = mix(col, smoke, smoothstep(0.25, 0.85, f));
-    // accent only in the hottest, thinnest band — accent, not wallpaper
+    // amber only in the hottest, thinnest band — accent, not wallpaper
     float band = smoothstep(0.55, 0.78, f) * smoothstep(0.95, 0.72, f);
-    col = mix(col, ember, band * 0.42);
+    col = mix(col, ember, band * 0.38);
 
     // vignette keeps the headline zone quiet
     float vig = smoothstep(1.45, 0.35, length(p));
@@ -134,22 +134,22 @@ function FlowField() {
 }
 
 export default function HeroCanvas() {
+  const wrapper = useRef<HTMLDivElement>(null);
   const [onScreen, setOnScreen] = useState(true);
 
-  // Pause the frameloop once the hero is scrolled past. The hero section is
-  // `position: sticky`, so it always intersects the viewport — an
-  // IntersectionObserver would never fire. Gate on scroll position instead:
-  // once the next band has covered the hero, stop rendering.
+  // Pause the frameloop when the hero scrolls out of view.
   useEffect(() => {
-    const onScroll = () =>
-      setOnScreen(window.scrollY < window.innerHeight * 0.9);
-    onScroll();
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
+    if (!wrapper.current) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => setOnScreen(entry.isIntersecting),
+      { threshold: 0 },
+    );
+    observer.observe(wrapper.current);
+    return () => observer.disconnect();
   }, []);
 
   return (
-    <div className="absolute inset-0" aria-hidden>
+    <div ref={wrapper} className="absolute inset-0" aria-hidden>
       <Canvas
         dpr={[1, 1.5]}
         frameloop={onScreen ? "always" : "never"}

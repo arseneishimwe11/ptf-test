@@ -18,7 +18,7 @@ export default function Contact() {
       className="band-dark relative z-10 section-pad-lg flex min-h-svh flex-col justify-center"
     >
       <div className="container-site">
-        <Eyebrow index="05">{contact.eyebrow}</Eyebrow>
+        <Eyebrow index="06">{contact.eyebrow}</Eyebrow>
 
         <SplitLines
           lines={contact.headline}

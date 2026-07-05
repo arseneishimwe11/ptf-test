@@ -62,7 +62,8 @@ export interface ProcessStep {
 export const siteData = {
   identity: {
     name: "Adrian Vale", // TODO: replace with real content
-    initials: "AV", // TODO: replace with real content
+    initials: "IA", // TODO: replace with real content
+    wordmark: "Ishimwe A", // footer ghost wordmark. TODO: replace with real content
     role: "Software Engineer", // TODO: replace with real content
     tagline: "Systems that feel effortless.", // TODO: replace with real content
     location: "Berlin, Germany", // TODO: replace with real content
@@ -299,6 +300,33 @@ export const siteData = {
     ] as Testimonial[], // TODO: replace with real content
   },
 
+  faq: {
+    eyebrow: "FAQ",
+    heading: "Questions, answered.", // TODO: replace with real content
+    items: [
+      {
+        q: "What kind of work are you best suited for?",
+        a: "Ambitious product and platform work — real-time systems, performance-critical frontends, design systems, and the glue between them. If it needs to be fast, resilient and pleasant to use, that's my lane.",
+      },
+      {
+        q: "Do you work solo or embed with a team?",
+        a: "Both. I can own a slice end-to-end as an individual contributor, or embed with an existing team and lift its velocity — reviewing, mentoring and setting the architectural direction as I go.",
+      },
+      {
+        q: "What does a typical engagement look like?",
+        a: "A week of discovery to pin down constraints and the metric that matters, then vertical slices shipped weekly with real data early. You see working software, not decks, from the second week on.",
+      },
+      {
+        q: "Which stacks do you reach for?",
+        a: "TypeScript and React/Next.js on the front, Rust or Go for services, Postgres and event streaming for data, and boring, observable infrastructure underneath. I pick the tool the problem asks for, not the one on the sticker.",
+      },
+      {
+        q: "Are you available right now?",
+        a: "I take on a small number of select projects at a time so each gets real attention. Reach out with what you're building and I'll tell you honestly where I'm at.",
+      },
+    ], // TODO: replace with real content
+  },
+
   contact: {
     eyebrow: "Contact",
     headline: ["Let's build", "something good."], // TODO: replace with real content
@@ -312,7 +340,7 @@ export const siteData = {
   },
 
   footer: {
-    colophon: "Designed & built by Adrian Vale", // TODO: replace with real content
+    colophon: "Designed & built by Ishimwe A", // TODO: replace with real content
     note: "Next.js · Tailwind · GSAP · Lenis · R3F", // TODO: replace with real content
   },
 } as const;

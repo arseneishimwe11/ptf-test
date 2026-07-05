@@ -48,8 +48,7 @@ export default function Hero() {
   });
 
   // Leaving the hero: headline drifts up and the ambient layer dims — depth
-  // without moving anything the user is still reading. The section itself is
-  // sticky (observed on Lyniq: the next band scrolls up over the pinned hero).
+  // without moving anything the user is still reading.
   useGSAP(
     () => {
       if (reduced) return;
@@ -72,7 +71,7 @@ export default function Hero() {
     <section
       ref={root}
       id="top"
-      className="band-dark sticky top-0 z-0 flex h-svh flex-col justify-end overflow-hidden"
+      className="band-dark relative flex min-h-svh flex-col justify-end overflow-hidden"
     >
       {/* Ambient layer: shader when motion is allowed, still gradient when not */}
       {!reduced && <HeroCanvas />}
@@ -97,7 +96,7 @@ export default function Hero() {
           play={done}
           delay={0.2}
           accentLines={[hero.headline.length - 1]}
-          className="display text-[clamp(2.75rem,10.5vw,9.5rem)]"
+          className="display text-[clamp(2.25rem,7.5vw,6.75rem)]"
         />
 
         <div className="mt-12 flex flex-col gap-10 md:flex-row md:items-end md:justify-between">

@@ -66,7 +66,7 @@ export default function Preloader() {
         >
           {/* wordmark, centered */}
           <motion.span
-            className="display text-[clamp(3rem,12vw,9rem)] text-[#0f0e0c]"
+            className="display text-[clamp(3rem,12vw,9rem)] text-[#0c0b09]"
             initial={{ opacity: 0, y: reduced ? 0 : 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, ease: [0.16, 1.04, 0.32, 0.98] }}
@@ -76,7 +76,7 @@ export default function Preloader() {
           </motion.span>
 
           {/* corner instrument readout */}
-          <div className="absolute inset-x-[clamp(1.25rem,4vw,2rem)] bottom-8 flex items-end justify-between text-[#0f0e0c]">
+          <div className="absolute inset-x-[clamp(1.25rem,4vw,2rem)] bottom-8 flex items-end justify-between text-[#0c0b09]">
             <span className="font-mono text-xs uppercase tracking-[0.18em] opacity-70">
               {siteData.identity.role}
             </span>

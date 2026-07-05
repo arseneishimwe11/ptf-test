@@ -1,15 +1,21 @@
 import type { Metadata, Viewport } from "next";
-import { Archivo, JetBrains_Mono } from "next/font/google";
+import { Archivo, Bricolage_Grotesque, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { siteData } from "@/content/site-data";
 import { LoaderProvider } from "@/components/providers/LoaderContext";
 import SmoothScroll from "@/components/providers/SmoothScroll";
 import Preloader from "@/components/shell/Preloader";
+import Cursor from "@/components/shell/Cursor";
 
-// One grotesk at the full variable weight range (100–900) carries display,
-// UI and body — the observed genre convention (Majd's Archivo, Lyniq's Inter).
+// Archivo carries UI and body copy at the full variable weight range.
 const archivo = Archivo({
   variable: "--font-archivo",
+  subsets: ["latin"],
+});
+
+// Bricolage Grotesque is the display face for every title (hero + sections).
+const bricolage = Bricolage_Grotesque({
+  variable: "--font-bricolage",
   subsets: ["latin"],
 });
 
@@ -30,7 +36,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#0f0e0c",
+  themeColor: "#0c0b09",
 };
 
 export default function RootLayout({
@@ -40,13 +46,16 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${archivo.variable} ${jetbrains.variable}`}>
+      <body
+        className={`${archivo.variable} ${bricolage.variable} ${jetbrains.variable}`}
+      >
         <a href="#main" className="skip-link">
           Skip to content
         </a>
         <LoaderProvider>
           <SmoothScroll>
             <Preloader />
+            <Cursor />
             {children}
           </SmoothScroll>
         </LoaderProvider>
