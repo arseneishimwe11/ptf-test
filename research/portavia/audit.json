@@ -1,0 +1,853 @@
+{
+  "url": "https://portavia.framer.website/",
+  "capturedAt": "2026-07-05T00:19:32.118Z",
+  "network": {
+    "desktop-1440": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/motion.BrGL9g3z.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/augiA20Il.zgGZbFn3.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/rolldown-runtime.C0sJWP3_.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/UezruUh9E.PMQ0nOZi.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/djOUw0pzb.Ba0XbwO5.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/l9KTJXLB2.BE6tj7jj.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/script_main.Cy3HlJ1i.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/TTqvVnbYq.C-ak9hef.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/vW1JQClGO.CRCvUqT1.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/Phosphor.DCaQtlH-.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/ZRloE2uUu.xefMY87I.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/W4OPXwR7T.BrRLKpWp.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/ZEOox1xX9.BbLd05zJ.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/EBQDvGnCv.Yllmut_P.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/l1lRiQK3K.BZchkuEw.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/tugztfBTGrDdLQJ3Tmf7J8Fl7YJJuGAbXLVsp8Cp77U.DxqEnFlg.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/XQy7SVc02.WjWAVa3O.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/react.4dZOLiON.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/shared-lib.D3HZMtLa.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/ZMWq6ryX_.DtWpLLYw.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/framer.DACIF36L.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/PX9hIOIVM.CKlvnwpo.mjs",
+        "https://framer.com/edit/init.mjs",
+        "https://framerusercontent.com/modules/wGPkVi78OBaBdQPbmTaL/hJEjRLKE5cKh0Vu97Wix/InstagramLogo.js",
+        "https://framerusercontent.com/modules/iyU0mnNPVSINhMlkwMHq/f0ndXRLllNK0RFoyFtXv/NavArrowDown.js"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2",
+        "https://framerusercontent.com/assets/v2q8JTTTs7McDMSEhnxAIBqd0.woff2",
+        "https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2",
+        "https://fonts.gstatic.com/s/antonio/v22/gNMEW3NwSYq_9WD3yHQiFQ.woff2"
+      ],
+      "other": []
+    },
+    "tablet-834": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/XQy7SVc02.WjWAVa3O.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/ZMWq6ryX_.DtWpLLYw.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/motion.BrGL9g3z.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/vW1JQClGO.CRCvUqT1.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/ZEOox1xX9.BbLd05zJ.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/Phosphor.DCaQtlH-.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/shared-lib.D3HZMtLa.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/djOUw0pzb.Ba0XbwO5.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/TTqvVnbYq.C-ak9hef.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/augiA20Il.zgGZbFn3.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/tugztfBTGrDdLQJ3Tmf7J8Fl7YJJuGAbXLVsp8Cp77U.DxqEnFlg.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/l9KTJXLB2.BE6tj7jj.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/EBQDvGnCv.Yllmut_P.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/W4OPXwR7T.BrRLKpWp.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/script_main.Cy3HlJ1i.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/UezruUh9E.PMQ0nOZi.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/ZRloE2uUu.xefMY87I.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/l1lRiQK3K.BZchkuEw.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/rolldown-runtime.C0sJWP3_.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/react.4dZOLiON.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/framer.DACIF36L.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/PX9hIOIVM.CKlvnwpo.mjs",
+        "https://framer.com/edit/init.mjs",
+        "https://framerusercontent.com/modules/wGPkVi78OBaBdQPbmTaL/hJEjRLKE5cKh0Vu97Wix/InstagramLogo.js",
+        "https://framerusercontent.com/modules/CWmJi40DgoJTvWe8CcZO/4C75dvTvt4Dh2OTGDOJS/DribbbleLogo.js"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2",
+        "https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2",
+        "https://fonts.gstatic.com/s/antonio/v22/gNMEW3NwSYq_9WD3yHQiFQ.woff2",
+        "https://framerusercontent.com/assets/v2q8JTTTs7McDMSEhnxAIBqd0.woff2"
+      ],
+      "other": []
+    },
+    "mobile-390": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/motion.BrGL9g3z.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/rolldown-runtime.C0sJWP3_.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/shared-lib.D3HZMtLa.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/EBQDvGnCv.Yllmut_P.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/djOUw0pzb.Ba0XbwO5.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/Phosphor.DCaQtlH-.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/XQy7SVc02.WjWAVa3O.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/ZEOox1xX9.BbLd05zJ.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/l1lRiQK3K.BZchkuEw.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/TTqvVnbYq.C-ak9hef.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/framer.DACIF36L.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/ZRloE2uUu.xefMY87I.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/script_main.Cy3HlJ1i.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/vW1JQClGO.CRCvUqT1.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/UezruUh9E.PMQ0nOZi.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/tugztfBTGrDdLQJ3Tmf7J8Fl7YJJuGAbXLVsp8Cp77U.DxqEnFlg.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/l9KTJXLB2.BE6tj7jj.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/W4OPXwR7T.BrRLKpWp.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/augiA20Il.zgGZbFn3.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/ZMWq6ryX_.DtWpLLYw.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/react.4dZOLiON.mjs",
+        "https://framerusercontent.com/sites/6sq2txEVLtl3aI5BEOutNn/PX9hIOIVM.CKlvnwpo.mjs",
+        "https://framer.com/edit/init.mjs",
+        "https://framerusercontent.com/modules/wGPkVi78OBaBdQPbmTaL/hJEjRLKE5cKh0Vu97Wix/InstagramLogo.js",
+        "https://framerusercontent.com/modules/1ZkvldSvzWBNrFZf8aH8/sHjGZ67L04PXTqKUbxnu/XLogo.js"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/antonio/v22/gNMEW3NwSYq_9WD3yHQiFQ.woff2",
+        "https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2",
+        "https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2",
+        "https://framerusercontent.com/assets/v2q8JTTTs7McDMSEhnxAIBqd0.woff2"
+      ],
+      "other": []
+    }
+  },
+  "breakpoints": {
+    "tablet-834": {
+      "h1size": "96px",
+      "h1lh": "105.6px",
+      "scrollHeight": 10654
+    },
+    "mobile-390": {
+      "h1size": "56px",
+      "h1lh": "61.6px",
+      "scrollHeight": 10506
+    }
+  },
+  "entranceAnimations": {
+    "at400ms": [],
+    "at1200ms": []
+  },
+  "scrollAnimations": [
+    {
+      "step": 2,
+      "anims": []
+    },
+    {
+      "step": 5,
+      "anims": []
+    }
+  ],
+  "navScrolled": {
+    "visibleTop": 20,
+    "bg": "rgba(255, 255, 255, 0.9)",
+    "backdrop": "blur(5px)",
+    "transform": "none"
+  },
+  "hoverNavLink": {
+    "before": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "transition": "all"
+    },
+    "after": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none"
+    }
+  },
+  "audit": {
+    "title": "Portavia",
+    "desc": "Portavia is a clean Framer template for showcasing creative work. Perfect for designers and creatives.",
+    "bodyBg": "#ffffff",
+    "htmlBg": "#000000 @0",
+    "scrollHeight": 10478,
+    "textColors": [
+      "#303030 ×81",
+      "#ffffff ×32",
+      "#000000 ×19",
+      "#5e67e6 ×18",
+      "#000000 @0.4 ×1",
+      "#0000ee ×1"
+    ],
+    "backgrounds": [
+      "#5e67e6 ×17",
+      "#f5f5f5 ×8",
+      "#ffffff ×6",
+      "#000000 ×3",
+      "#0bde66 ×2",
+      "#303030 ×2",
+      "#ffffff @0.9 ×1"
+    ],
+    "fonts": [
+      "Inter 300 ×74",
+      "Antonio 400 ×23",
+      "Antonio 700 ×23",
+      "Inter 600 ×14",
+      "sans-serif 400 ×11",
+      "Inter 400 ×7"
+    ],
+    "loadedFonts": [
+      "Antonio 400 normal (unloaded)",
+      "Antonio 400 normal (loaded)",
+      "Antonio 700 normal (unloaded)",
+      "Antonio 700 normal (loaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (loaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 300 normal (unloaded)",
+      "Inter 300 normal (unloaded)",
+      "Inter 300 normal (unloaded)",
+      "Inter 300 normal (unloaded)",
+      "Inter 300 normal (unloaded)",
+      "Inter 300 normal (loaded)",
+      "Inter 300 normal (unloaded)",
+      "Inter 300 italic (unloaded)",
+      "Inter 300 italic (unloaded)",
+      "Inter 300 italic (unloaded)",
+      "Inter 300 italic (unloaded)",
+      "Inter 300 italic (unloaded)",
+      "Inter 300 italic (unloaded)",
+      "Inter 300 italic (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (loaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Antonio Placeholder normal normal (error)",
+      "Inter Placeholder normal normal (error)"
+    ],
+    "radii": [
+      "99px ×41",
+      "20px ×26",
+      "11px ×2",
+      "28px ×1",
+      "568.066% ×1",
+      "8px ×1",
+      "999px ×1",
+      "9px ×1",
+      "43px ×1",
+      "22px ×1",
+      "10px ×1"
+    ],
+    "transitions": [
+      "color 0.2s cubic-bezier(0.5, 0, 0.88, 0.77) ×6",
+      "background, box-shadow 0s ease ×4"
+    ],
+    "typeSample": {
+      "h1": {
+        "font": "Antonio",
+        "size": "120px",
+        "weight": "700",
+        "lh": "132px",
+        "ls": "-3.6px",
+        "tt": "uppercase",
+        "color": "rgb(48, 48, 48)",
+        "text": "digital"
+      },
+      "h2": {
+        "font": "Antonio",
+        "size": "60px",
+        "weight": "700",
+        "lh": "78px",
+        "ls": "normal",
+        "tt": "uppercase",
+        "color": "rgb(48, 48, 48)",
+        "text": "what I can do for you"
+      },
+      "h3": {
+        "font": "Antonio",
+        "size": "32px",
+        "weight": "400",
+        "lh": "41.6px",
+        "ls": "normal",
+        "tt": "uppercase",
+        "color": "rgb(48, 48, 48)",
+        "text": "1. ui/ux design"
+      },
+      "h4": {
+        "font": "Antonio",
+        "size": "26px",
+        "weight": "400",
+        "lh": "33.8px",
+        "ls": "normal",
+        "tt": "uppercase",
+        "color": "rgb(94, 103, 230)",
+        "text": "My Story"
+      },
+      "p": {
+        "font": "Inter",
+        "size": "16px",
+        "weight": "300",
+        "lh": "24px",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(48, 48, 48)",
+        "text": "Available for work"
+      },
+      "a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": "Available for workAvailable for work"
+      },
+      "nav a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": "Available for workAvailable for work"
+      },
+      "button": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "Submit"
+      },
+      "footer": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "Email :designer@example.comCall Today :+1 (555) 123-4567Social :© Copyright 2025"
+      }
+    },
+    "biggestText": {
+      "px": 120,
+      "font": "Antonio",
+      "weight": "700",
+      "lh": "132px",
+      "ls": "-3.6px",
+      "text": "digital"
+    },
+    "sections": [
+      {
+        "name": "Noise BG",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "OutterWraper",
+        "y": 0,
+        "h": 2700,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Sticky Wrap",
+        "y": 0,
+        "h": 2700,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Sticky Container",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 0,
+        "h": 2700,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Hero",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 0,
+        "h": 900,
+        "w": 1200,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1200px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Service",
+        "y": 900,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 1088,
+        "h": 524,
+        "w": 1200,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1200px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "About",
+        "y": 1800,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 1977,
+        "h": 546,
+        "w": 1200,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1200px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Project",
+        "y": 2700,
+        "h": 3893,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 2700,
+        "h": 3893,
+        "w": 1200,
+        "padT": "120px",
+        "padB": "120px",
+        "maxW": "1200px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Featured Project Wrap",
+        "y": 3039,
+        "h": 3347,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Featured Project - 1",
+        "y": 3039,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 3039,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Project Item",
+        "y": 3039,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Project Cover",
+        "y": 3039,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Overlay Gradient",
+        "y": 3039,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Project Info",
+        "y": 3039,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Featured Project - 2",
+        "y": 3906,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 3906,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Project Item",
+        "y": 3906,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Project Cover",
+        "y": 3906,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Overlay Gradient",
+        "y": 3906,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Project Info",
+        "y": 3906,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Featured Project - 3",
+        "y": 4772,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 4772,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Project Item",
+        "y": 4772,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Project Cover",
+        "y": 4772,
+        "h": 747,
+        "w": 1120,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      }
+    ],
+    "nav": {
+      "name": "Desktop / Closed",
+      "position": "relative",
+      "top": "0px",
+      "bg": "#ffffff @0.9",
+      "backdrop": "blur(5px)",
+      "h": 56,
+      "transform": "none",
+      "transition": "all"
+    },
+    "fixedEls": [
+      {
+        "tag": "div",
+        "name": "Noise BG",
+        "pos": "fixed",
+        "z": "0",
+        "size": "1440x900",
+        "pe": "auto",
+        "mix": "color-dodge"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "10",
+        "size": "229x56",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Sticky Container",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1440x900",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Featured Project - 1",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1120x747",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Featured Project - 2",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1120x747",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Featured Project - 3",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1120x747",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Featured Project - 4",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1120x747",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "FAQ Column / Sticky",
+        "pos": "sticky",
+        "z": "1",
+        "size": "440x284",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Get Template ( you can delete )",
+        "pos": "fixed",
+        "z": "1",
+        "size": "138x36",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "New Release ( you can delete )",
+        "pos": "fixed",
+        "z": "1",
+        "size": "138x224",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "1",
+        "size": "40x20",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Default",
+        "pos": "fixed",
+        "z": "13",
+        "size": "16x16",
+        "pe": "none",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "2147483647",
+        "size": "1440x78",
+        "pe": "none",
+        "mix": "normal"
+      }
+    ],
+    "hoverRules": [
+      "[data-framer-component-type=\"Text\"] a:hover, [data-framer-component-type=\"Text\"] { --font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family))); --font-style: var(--framer-link-hover-font-style,v }",
+      "a.framer-text:hover, a.framer-text:hover span.framer-text:not([data-text-fill]), { font-family: var(--framer-link-hover-font-family,var(--framer-blockquote-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placehol }",
+      "a.framer-text:hover, span.framer-text[data-nested-link]:hover { text-decoration-line: var(--framer-link-hover-text-decoration,var(--framer-blockquote-text-decoration,var(--framer-link-text-decoration,var(--framer-text-decora }",
+      "code.framer-text a.framer-text:hover, code.framer-text a.framer-text:hover span. { font-family: var(--framer-code-font-family,var(--framer-font-family,Inter,Inter Placeholder,sans-serif)); font-style: var(--framer-blockquote-font-style,var(--f }",
+      "a.framer-text[data-framer-page-link-current]:hover, a.framer-text[data-framer-pa { font-family: var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeh }",
+      "a.framer-text[data-framer-page-link-current]:hover, span.framer-text[data-framer { text-decoration-line: var(--framer-link-hover-text-decoration,var(--framer-link-current-text-decoration,var(--framer-link-text-decoration,var(--framer-text-deco }",
+      "code.framer-text a.framer-text[data-framer-page-link-current]:hover, code.framer { font-family: var(--framer-code-font-family,var(--framer-font-family,Inter,Inter Placeholder,sans-serif)); font-style: var(--framer-code-font-style,var(--framer- }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a:hover, [data-framer-componen { font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeholder,sans-serif))); font-style: var(- }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a[data-framer-page-link-curren { font-family: var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeh }",
+      "[data-framer-component-type=\"Text\"] a:hover, [data-framer-component-type=\"Text\"] { --font-family: var(--framer-link-hover-font-family, var(--framer-link-font-family, var(--framer-font-family))); --font-style: var(--framer-link-hover-font-style }",
+      "a.framer-text:hover, a.framer-text:hover span.framer-text:not([data-text-fill]), { font-family: var(--framer-link-hover-font-family, var(--framer-blockquote-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Pla }",
+      "a.framer-text:hover, span.framer-text[data-nested-link]:hover { text-decoration-line: var(--framer-link-hover-text-decoration, var(--framer-blockquote-text-decoration, var(--framer-link-text-decoration, var(--framer-text-dec }",
+      "code.framer-text a.framer-text:hover, code.framer-text a.framer-text:hover span. { font-family: var(--framer-code-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif)); font-style: var(--framer-blockquote-font-style, va }",
+      "a.framer-text[data-framer-page-link-current]:hover, a.framer-text[data-framer-pa { font-family: var(--framer-link-hover-font-family, var(--framer-link-current-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter P }",
+      "a.framer-text[data-framer-page-link-current]:hover, span.framer-text[data-framer { text-decoration-line: var(--framer-link-hover-text-decoration, var(--framer-link-current-text-decoration, var(--framer-link-text-decoration, var(--framer-text-d }",
+      "code.framer-text a.framer-text[data-framer-page-link-current]:hover, code.framer { font-family: var(--framer-code-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif)); font-style: var(--framer-code-font-style, var(--fr }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a:hover, [data-framer-componen { font-family: var(--framer-link-hover-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif))); font-style:  }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a[data-framer-page-link-curren { font-family: var(--framer-link-hover-font-family, var(--framer-link-current-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter P }"
+    ],
+    "hints": {
+      "canvas": [],
+      "video": 1,
+      "lenis": true,
+      "gsap": false,
+      "scrollTrigger": false,
+      "three": false,
+      "framerGlobals": [
+        "__framer_onRewriteBreakpoints",
+        "__framer_importFromPackage",
+        "__framer_events",
+        "__framer_editorBarDependencies",
+        "__send_framer_event"
+      ],
+      "scrollBehavior": "auto",
+      "bodyCursor": "auto",
+      "linkCursor": "pointer"
+    }
+  }
+}

@@ -1,0 +1,895 @@
+{
+  "url": "https://hanza-template.framer.website/",
+  "capturedAt": "2026-07-05T00:15:18.819Z",
+  "network": {
+    "desktop-1440": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/rolldown-runtime.VnHjG-ER.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/vVecoPcT0.DN4fcXaS.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/x9nNkfERy.Bw9pO_PJ.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/PXwXH2jZy.BTMeBMU0.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/framer.98z4Oj_b.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/rXHCePIVl.DOvjMJq4.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/motion.4eWhkn1T.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/shared-lib.CBpBxpuM.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/UtdSlmlBd.Cn9V9P5B.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/bBXam8LO7.DgIA88cu.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/x6GgEcFEe.BXmUSrQo.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/g9hHY4XyY.CpmwRROE.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/VpI7X80Hv.DEi1JEs9.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/TIqjCbrVl.JjmUf8gX.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/JmBzpki7E.7DHuT2bX.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/wyx2RucCx.NcxxIWcl.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/Zl7a5SN3N.UgsMGyQ6.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/augiA20Il.CeYR-O4V.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/YAP816Y5n.gYDT8Nx0.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/text_reveal_scroll_helper.CoN8NP8q.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/szJtSwdtx.Dw8Ykaqn.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/RqA98sj2J.CSM_vr6c.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/TfHFgjHBc.CTCXGdDQ.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/VeSmwCu7Z.D0qFs7Vp.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/sTaswLpxV.CeGHHGFS.mjs"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/geistmono/v6/or3nQ6H-1_WfwkMZI_qYFrcdmg.woff2",
+        "https://fonts.gstatic.com/s/geist/v5/gyByhwUxId8gMEwcGFU.woff2",
+        "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v3/FwZJ7-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsfPbPdw.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    },
+    "tablet-834": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/rolldown-runtime.VnHjG-ER.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/vVecoPcT0.DN4fcXaS.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/Ixnk8jYwe.EhnJEDfI.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/bBXam8LO7.DgIA88cu.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/oB66qiGwW.5JlZD1zB.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/MLs8e6SZC.D6Ir3i-k.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/RqA98sj2J.CSM_vr6c.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/shared-lib.CBpBxpuM.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/UtdSlmlBd.Cn9V9P5B.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/xZndidUCt.CrqVmNu1.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/x9nNkfERy.Bw9pO_PJ.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/PXwXH2jZy.BTMeBMU0.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/sTaswLpxV.CeGHHGFS.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/motion.4eWhkn1T.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/rXHCePIVl.DOvjMJq4.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/A2vOXJAfw.DFxfVLeL.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/TfHFgjHBc.CTCXGdDQ.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/YAP816Y5n.gYDT8Nx0.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/framer.98z4Oj_b.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/augiA20Il.CeYR-O4V.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/ZHCOlryY6.6uLfX7cu.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/TIqjCbrVl.JjmUf8gX.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/VpI7X80Hv.DEi1JEs9.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/x6GgEcFEe.BXmUSrQo.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/ParallaxImage_prod.iICZ9GY9.mjs"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/geistmono/v6/or3nQ6H-1_WfwkMZI_qYFrcdmg.woff2",
+        "https://fonts.gstatic.com/s/geist/v5/gyByhwUxId8gMEwcGFU.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v3/FwZJ7-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsfPbPdw.woff2",
+        "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    },
+    "mobile-390": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/rolldown-runtime.VnHjG-ER.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/Zl7a5SN3N.UgsMGyQ6.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/bBXam8LO7.DgIA88cu.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/TIqjCbrVl.JjmUf8gX.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/augiA20Il.CeYR-O4V.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/VpI7X80Hv.DEi1JEs9.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/JmBzpki7E.7DHuT2bX.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/g9hHY4XyY.CpmwRROE.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/UtdSlmlBd.Cn9V9P5B.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/szJtSwdtx.Dw8Ykaqn.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/ParallaxImage_prod.iICZ9GY9.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/xZndidUCt.CrqVmNu1.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/ZHCOlryY6.6uLfX7cu.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/YAP816Y5n.gYDT8Nx0.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/TfHFgjHBc.CTCXGdDQ.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/fVxnimdqP.B9ZuNH4w.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/UgfdWEwPX.DoXnNoNq.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/YckFIlg3V.CHcDch4s.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/qSW6g1N1G.DLiBL7xK.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/text_reveal_scroll_helper.CoN8NP8q.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/VeSmwCu7Z.D0qFs7Vp.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/qW68NZm8z.mpwtdgkb.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/KRPJcJ7e1.BcVmFTXA.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/Video.D9e-mK9d.mjs",
+        "https://framerusercontent.com/sites/6qXPZt1wPKRXYwwbLMUHFc/VhoqqnQxw.BvSkIHgE.mjs"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+        "https://fonts.gstatic.com/s/geistmono/v6/or3nQ6H-1_WfwkMZI_qYFrcdmg.woff2",
+        "https://fonts.gstatic.com/s/geist/v5/gyByhwUxId8gMEwcGFU.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v3/FwZJ7-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsfPbPdw.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    }
+  },
+  "breakpoints": {
+    "tablet-834": {
+      "scrollHeight": 16385
+    },
+    "mobile-390": {
+      "scrollHeight": 18342
+    }
+  },
+  "entranceAnimations": {
+    "at400ms": [
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 400,
+        "delay": 1400,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-1mpqic7-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 400,
+        "delay": 1400,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-1mpqic7-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 400,
+        "delay": 1200,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-yjz1a1-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 400,
+        "delay": 1200,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-yjz1a1-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      }
+    ],
+    "at1200ms": []
+  },
+  "scrollAnimations": [
+    {
+      "step": 2,
+      "anims": []
+    },
+    {
+      "step": 5,
+      "anims": []
+    }
+  ],
+  "navScrolled": {
+    "visibleTop": -12240,
+    "bg": "rgba(0, 0, 0, 0)",
+    "backdrop": "none",
+    "transform": "none"
+  },
+  "hoverNavLink": {
+    "before": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "transition": "all"
+    },
+    "after": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none"
+    }
+  },
+  "audit": {
+    "title": "Hanza® - Portfolio & Agency Framer Template",
+    "desc": "Hanza is a modern portfolio and agency Framer template for designers, developers, freelancers, and creative studios. Built to present selected work, services, case studies, testimonials, pricing, blog content, and contact pages.",
+    "bodyBg": "#ffffff",
+    "htmlBg": "#000000 @0",
+    "scrollHeight": 16340,
+    "textColors": [
+      "#121212 ×299",
+      "#ffffff @0.6 ×228",
+      "#121212 @0.6 ×226",
+      "#ffffff ×223",
+      "#000000 ×21",
+      "#0000ee ×1"
+    ],
+    "backgrounds": [
+      "#ff6044 ×125",
+      "#ffffff ×52",
+      "#ffffff @0.05 ×42",
+      "#fcfcfc ×32",
+      "#f3f3f3 ×32",
+      "#121212 ×30",
+      "#ffffff @0.2 ×29",
+      "#e8e8e8 ×21",
+      "#191919 ×19",
+      "#fafafa ×6",
+      "#000000 @0.2 ×4",
+      "#000000 ×4",
+      "#000000 @0.4 ×1"
+    ],
+    "fonts": [
+      "Zalando Sans 500 ×822",
+      "Geist Mono 500 ×109",
+      "Zalando Sans 400 ×52",
+      "sans-serif 400 ×11",
+      "Geist 600 ×4"
+    ],
+    "loadedFonts": [
+      "Geist 400 normal (unloaded)",
+      "Geist 400 normal (unloaded)",
+      "Geist 400 normal (unloaded)",
+      "Geist 400 normal (unloaded)",
+      "Geist 400 normal (unloaded)",
+      "Geist 600 normal (unloaded)",
+      "Geist 600 normal (unloaded)",
+      "Geist 600 normal (unloaded)",
+      "Geist 600 normal (unloaded)",
+      "Geist 600 normal (loaded)",
+      "Zalando Sans 400 italic (unloaded)",
+      "Zalando Sans 400 italic (unloaded)",
+      "Zalando Sans 400 italic (unloaded)",
+      "Zalando Sans 500 italic (unloaded)",
+      "Zalando Sans 500 italic (unloaded)",
+      "Zalando Sans 500 italic (unloaded)",
+      "Zalando Sans 700 italic (unloaded)",
+      "Zalando Sans 700 italic (unloaded)",
+      "Zalando Sans 700 italic (unloaded)",
+      "Zalando Sans 400 normal (unloaded)",
+      "Zalando Sans 400 normal (unloaded)",
+      "Zalando Sans 400 normal (loaded)",
+      "Zalando Sans 500 normal (unloaded)",
+      "Zalando Sans 500 normal (unloaded)",
+      "Zalando Sans 500 normal (loaded)",
+      "Zalando Sans 700 normal (unloaded)",
+      "Zalando Sans 700 normal (unloaded)",
+      "Zalando Sans 700 normal (unloaded)",
+      "Geist Mono 500 italic (unloaded)",
+      "Geist Mono 500 italic (unloaded)",
+      "Geist Mono 500 italic (unloaded)",
+      "Geist Mono 500 italic (unloaded)",
+      "Geist Mono 500 italic (unloaded)",
+      "Geist Mono 500 italic (unloaded)",
+      "Geist Mono 700 italic (unloaded)",
+      "Geist Mono 700 italic (unloaded)",
+      "Geist Mono 700 italic (unloaded)",
+      "Geist Mono 700 italic (unloaded)",
+      "Geist Mono 700 italic (unloaded)",
+      "Geist Mono 700 italic (unloaded)",
+      "Geist Mono 500 normal (unloaded)",
+      "Geist Mono 500 normal (unloaded)",
+      "Geist Mono 500 normal (unloaded)",
+      "Geist Mono 500 normal (unloaded)",
+      "Geist Mono 500 normal (unloaded)",
+      "Geist Mono 500 normal (loaded)",
+      "Geist Mono 700 normal (unloaded)",
+      "Geist Mono 700 normal (unloaded)",
+      "Geist Mono 700 normal (unloaded)",
+      "Geist Mono 700 normal (unloaded)",
+      "Geist Mono 700 normal (unloaded)",
+      "Geist Mono 700 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (loaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Zalando Sans Placeholder normal normal (error)",
+      "Geist Placeholder normal normal (error)",
+      "Inter Placeholder normal normal (error)"
+    ],
+    "radii": [
+      "500px ×25",
+      "100px ×3",
+      "450px ×3",
+      "10px ×3",
+      "11px ×2",
+      "8px ×1"
+    ],
+    "transitions": [
+      "background, box-shadow 0s ease ×3"
+    ],
+    "typeSample": {
+      "h2": {
+        "font": "Zalando Sans",
+        "size": "80px",
+        "weight": "500",
+        "lh": "72px",
+        "ls": "-2.4px",
+        "tt": "uppercase",
+        "color": "rgb(18, 18, 18)",
+        "text": "Case Studies."
+      },
+      "h3": {
+        "font": "Zalando Sans",
+        "size": "12px",
+        "weight": "500",
+        "lh": "14.4px",
+        "ls": "normal",
+        "tt": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "text": "Goodwell"
+      },
+      "h4": {
+        "font": "Zalando Sans",
+        "size": "22px",
+        "weight": "500",
+        "lh": "28.6px",
+        "ls": "-0.66px",
+        "tt": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "text": "Plan your website with me."
+      },
+      "p": {
+        "font": "Zalando Sans",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.5px",
+        "tt": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "text": "Menu"
+      },
+      "a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": ""
+      },
+      "nav a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": "Home"
+      },
+      "button": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "Form incomplete"
+      },
+      "footer": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "Get in Touch/hanzaHanza Novák ProfessionDesigner & Framer ExpertLocationPrague, "
+      }
+    },
+    "biggestText": {
+      "px": 80,
+      "font": "Zalando Sans",
+      "weight": "500",
+      "lh": "72px",
+      "ls": "-2.4px",
+      "text": "C"
+    },
+    "sections": [
+      {
+        "name": "Main Wrapper",
+        "y": 0,
+        "h": 14666,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Section Hero",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Image Wrapper",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#121212"
+      },
+      {
+        "name": "Content",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "64px",
+        "padB": "64px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Inverse (L)",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Noise",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Overlay",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0.2"
+      },
+      {
+        "name": "Section About",
+        "y": 996,
+        "h": 1828,
+        "w": 1440,
+        "padT": "80px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#fcfcfc"
+      },
+      {
+        "name": "Inner",
+        "y": 1076,
+        "h": 1748,
+        "w": 1344,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Default (L)",
+        "y": 996,
+        "h": 1828,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Section Portfolio",
+        "y": 2824,
+        "h": 2870,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#fcfcfc"
+      },
+      {
+        "name": "Desktop",
+        "y": 2994,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 2994,
+        "h": 900,
+        "w": 1440,
+        "padT": "64px",
+        "padB": "64px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Bottom",
+        "y": 3382,
+        "h": 448,
+        "w": 1344,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Image Wrapper",
+        "y": 2994,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Inverse (L)",
+        "y": 2994,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Overlay",
+        "y": 2994,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0.2"
+      },
+      {
+        "name": "Noise",
+        "y": 2994,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 3894,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 3894,
+        "h": 900,
+        "w": 1440,
+        "padT": "64px",
+        "padB": "64px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Bottom",
+        "y": 4282,
+        "h": 448,
+        "w": 1344,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Image Wrapper",
+        "y": 3894,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Inverse (L)",
+        "y": 3894,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Overlay",
+        "y": 3894,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0.2"
+      },
+      {
+        "name": "Noise",
+        "y": 3894,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 4794,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 4794,
+        "h": 900,
+        "w": 1440,
+        "padT": "64px",
+        "padB": "64px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Bottom",
+        "y": 5182,
+        "h": 448,
+        "w": 1344,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Image Wrapper",
+        "y": 4794,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Inverse (L)",
+        "y": 4794,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      }
+    ],
+    "nav": {
+      "name": "Inverse (L)",
+      "position": "relative",
+      "top": "0px",
+      "bg": "#000000 @0",
+      "backdrop": "none",
+      "h": 98,
+      "transform": "none",
+      "transition": "all"
+    },
+    "fixedEls": [
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "8",
+        "size": "1440x120",
+        "pe": "none",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "336x585",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "96x14",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "94x14",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Column",
+        "pos": "sticky",
+        "z": "1",
+        "size": "672x450",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Column",
+        "pos": "sticky",
+        "z": "1",
+        "size": "672x280",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Top",
+        "pos": "sticky",
+        "z": "auto",
+        "size": "336x1244",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "336x586",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "9",
+        "size": "138x159",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "2147483647",
+        "size": "1440x78",
+        "pe": "none",
+        "mix": "normal"
+      }
+    ],
+    "hoverRules": [
+      "[data-framer-component-type=\"Text\"] a:hover, [data-framer-component-type=\"Text\"] { --font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family))); --font-style: var(--framer-link-hover-font-style,v }",
+      "a.framer-text:hover, a.framer-text:hover span.framer-text:not([data-text-fill]), { font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-blockquote-font-family,var(--framer }",
+      "a.framer-text:hover, span.framer-text[data-nested-link]:hover { color: var(--framer-link-hover-text-color,var(--framer-link-text-color,var(--framer-blockquote-text-color,var(--framer-text-color,#000)))); text-decoration-line }",
+      "code.framer-text a.framer-text:hover, code.framer-text span.framer-text[data-nes { color: var(--framer-link-hover-text-color,var(--framer-link-text-color,var(--framer-blockquote-text-color,var(--framer-code-text-color,var(--framer-text-color,# }",
+      "a.framer-text[data-framer-page-link-current]:hover, a.framer-text[data-framer-pa { color: inherit; font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-f }",
+      "a.framer-text[data-framer-page-link-current]:hover, span.framer-text[data-framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-text-color,#000)))); text-decoration-li }",
+      "code.framer-text a.framer-text[data-framer-page-link-current]:hover, code.framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-code-text-color,var(--framer-text-color }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a:hover, [data-framer-componen { font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeholder,sans-serif))); font-style: var(- }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a[data-framer-page-link-curren { font-family: var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeh }",
+      ".framer-form-text-input-clear:hover, .framer-form-text-input-clear:focus-visible { color: var(--framer-input-font-color); }"
+    ],
+    "hints": {
+      "canvas": [],
+      "video": 2,
+      "lenis": true,
+      "gsap": false,
+      "scrollTrigger": false,
+      "three": false,
+      "framerGlobals": [
+        "__send_framer_event",
+        "__framer_events",
+        "__framer_importFromPackage",
+        "__framer_editorBarDependencies"
+      ],
+      "scrollBehavior": "auto",
+      "bodyCursor": "auto",
+      "linkCursor": "pointer"
+    }
+  }
+}

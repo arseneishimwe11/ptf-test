@@ -1,0 +1,2841 @@
+{
+  "url": "https://lyniq.framer.website/",
+  "capturedAt": "2026-07-05T00:13:15.262Z",
+  "network": {
+    "desktop-1440": {
+      "scripts": [
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/qKzOUOhz5.5ftW37JH.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/SX7TmRT4a.B0MYH1OT.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/ozPjcS5mp.Baf0QqGu.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/IAEAiqtru.-mqIdSMQ.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/sw01V2bJD.CpWm9jnd.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/rXPb48_DN.IPkcr3Ll.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/rolldown-runtime.VnHjG-ER.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/Phosphor.DgBKN23U.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/Zn0HI2r8i.jckQkzxl.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/jNXIpkS6r.DoUc-ArL.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/MtwLtlNi4.C7IQBYXm.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/motion.CqLKNsdV.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/YIWnW45d9.5eCU6OQY.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/DyECzRfVJ.DOrY_vrL.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/yzK88K2oHyAnvoo6cP1C9VQlBH6sNKR_sk2UZ4QIJro.nhoLrco5.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/McSGfJuih.BnLiUUMA.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/framer.ClNXkAea.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/DPl1XeZ47.B36-YB63.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/uQRBhygQf.B8llsudG.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/shared-lib.RpXH5snu.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/zSSdVVb1R.DG3Ldv1-.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/augiA20Il.C8fudBwk.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/RwM1qgENQ.k7NewcOc.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/MNTz_j57q.CBjUYeBj.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/react.q1C1Zpoi.mjs"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/AWXLDXTI2CYJ5SHK74YUPGPFS5S5BWLL/M6ZJD4UOFNT4DPUXGTK7T46JZ3W3QW64/2TXZKBJMJVP3NQX7K7MGJDQFMD4ZMJR7.woff2",
+        "https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2",
+        "https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2",
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://fonts.gstatic.com/s/geist/v5/gyByhwUxId8gMEwcGFU.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    },
+    "tablet-834": {
+      "scripts": [
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/rolldown-runtime.VnHjG-ER.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/react.q1C1Zpoi.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/motion.CqLKNsdV.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/IAEAiqtru.-mqIdSMQ.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/jNXIpkS6r.DoUc-ArL.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/shared-lib.RpXH5snu.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/Phosphor.DgBKN23U.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/Zn0HI2r8i.jckQkzxl.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/rXPb48_DN.IPkcr3Ll.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/SX7TmRT4a.B0MYH1OT.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/ozPjcS5mp.Baf0QqGu.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/uQRBhygQf.B8llsudG.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/YIWnW45d9.5eCU6OQY.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/DyECzRfVJ.DOrY_vrL.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/augiA20Il.C8fudBwk.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/MNTz_j57q.CBjUYeBj.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/DPl1XeZ47.B36-YB63.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/qKzOUOhz5.5ftW37JH.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/framer.ClNXkAea.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/RwM1qgENQ.k7NewcOc.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/sw01V2bJD.CpWm9jnd.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/McSGfJuih.BnLiUUMA.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/zSSdVVb1R.DG3Ldv1-.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/MtwLtlNi4.C7IQBYXm.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/yzK88K2oHyAnvoo6cP1C9VQlBH6sNKR_sk2UZ4QIJro.nhoLrco5.mjs"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/AWXLDXTI2CYJ5SHK74YUPGPFS5S5BWLL/M6ZJD4UOFNT4DPUXGTK7T46JZ3W3QW64/2TXZKBJMJVP3NQX7K7MGJDQFMD4ZMJR7.woff2",
+        "https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2",
+        "https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2",
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://fonts.gstatic.com/s/geist/v5/gyByhwUxId8gMEwcGFU.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    },
+    "mobile-390": {
+      "scripts": [
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/sw01V2bJD.CpWm9jnd.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/Phosphor.DgBKN23U.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/rolldown-runtime.VnHjG-ER.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/IAEAiqtru.-mqIdSMQ.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/MtwLtlNi4.C7IQBYXm.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/shared-lib.RpXH5snu.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/McSGfJuih.BnLiUUMA.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/SX7TmRT4a.B0MYH1OT.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/react.q1C1Zpoi.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/motion.CqLKNsdV.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/ozPjcS5mp.Baf0QqGu.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/YIWnW45d9.5eCU6OQY.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/DPl1XeZ47.B36-YB63.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/RwM1qgENQ.k7NewcOc.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/uQRBhygQf.B8llsudG.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/zSSdVVb1R.DG3Ldv1-.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/jNXIpkS6r.DoUc-ArL.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/DyECzRfVJ.DOrY_vrL.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/Zn0HI2r8i.jckQkzxl.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/rXPb48_DN.IPkcr3Ll.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/qKzOUOhz5.5ftW37JH.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/framer.ClNXkAea.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/MNTz_j57q.CBjUYeBj.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/augiA20Il.C8fudBwk.mjs",
+        "https://framerusercontent.com/sites/5kj0S8gDMWYNPEPmYNuaP6/yzK88K2oHyAnvoo6cP1C9VQlBH6sNKR_sk2UZ4QIJro.nhoLrco5.mjs"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/AWXLDXTI2CYJ5SHK74YUPGPFS5S5BWLL/M6ZJD4UOFNT4DPUXGTK7T46JZ3W3QW64/2TXZKBJMJVP3NQX7K7MGJDQFMD4ZMJR7.woff2",
+        "https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2",
+        "https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2",
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://fonts.gstatic.com/s/geist/v5/gyByhwUxId8gMEwcGFU.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    }
+  },
+  "breakpoints": {
+    "tablet-834": {
+      "h1size": "15px",
+      "h1lh": "19.5px",
+      "scrollHeight": 16519
+    },
+    "mobile-390": {
+      "h1size": "15px",
+      "h1lh": "19.5px",
+      "scrollHeight": 19228
+    }
+  },
+  "entranceAnimations": {
+    "at400ms": [
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 0,
+        "easing": "cubic-bezier(0.96, -0.02, 0.38, 1.01)",
+        "iterations": 1,
+        "target": "div[Logo].framer-1ehj7ej",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 580,
+        "delay": 400,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-q6nwym",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.017241379310344827,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.034482758620689655,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05172413793103448,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06896551724137931,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.08620689655172414,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 580,
+        "delay": 400,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-q6nwym",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.017241379310344827,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.034482758620689655,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05172413793103448,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06896551724137931,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.08620689655172414,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 360,
+        "delay": 600,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Why great web design is more than just looks].framer-isyott",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.027777777777777776,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05555555555555555,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.08333333333333333,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.1111111111111111,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.1388888888888889,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 360,
+        "delay": 600,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Why great web design is more than just looks].framer-isyott",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.027777777777777776,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05555555555555555,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.08333333333333333,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.1111111111111111,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.1388888888888889,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1750,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-fyydzk-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1750,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-fyydzk-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Projects number].framer-18ia252 hidden-233qk8",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Projects number].framer-18ia252 hidden-233qk8",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1500,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[©19-24].framer-5s8aef",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1500,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[©19-24].framer-5s8aef",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1330,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1330,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1330,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1330,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Categories].framer-15rlu0l",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Categories].framer-15rlu0l",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[We create digital designs that help brands move faster and convert better. Your business deserves more than just a website. It needs results.].framer-1srzfh1",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[We create digital designs that help brands move faster and convert better. Your business deserves more than just a website. It needs results.].framer-1srzfh1",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1150,
+        "easing": "cubic-bezier(0.05, 0.65, 0.22, 0.96)",
+        "iterations": 1,
+        "target": "div[BG].framer-1tl276o",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Delete me!].framer-bv12sz-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.016666666666666666,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03333333333333333,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06666666666666667,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.08333333333333333,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Delete me!].framer-bv12sz-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.016666666666666666,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03333333333333333,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06666666666666667,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.08333333333333333,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1500,
+        "delay": 0,
+        "easing": "cubic-bezier(0.68, 0, 0.16, 0.97)",
+        "iterations": 1,
+        "target": "div.framer-50czeo",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      }
+    ],
+    "at1200ms": [
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1750,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-fyydzk-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1750,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-fyydzk-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Projects number].framer-18ia252 hidden-233qk8",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Projects number].framer-18ia252 hidden-233qk8",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1500,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[©19-24].framer-5s8aef",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1500,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[©19-24].framer-5s8aef",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1330,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1330,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1330,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1330,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Categories].framer-15rlu0l",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Categories].framer-15rlu0l",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[We create digital designs that help brands move faster and convert better. Your business deserves more than just a website. It needs results.].framer-1srzfh1",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[We create digital designs that help brands move faster and convert better. Your business deserves more than just a website. It needs results.].framer-1srzfh1",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "svg.[object SVGAnimatedString]",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1150,
+        "easing": "cubic-bezier(0.05, 0.65, 0.22, 0.96)",
+        "iterations": 1,
+        "target": "div[BG].framer-1tl276o",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Delete me!].framer-bv12sz-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.016666666666666666,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03333333333333333,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06666666666666667,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.08333333333333333,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Delete me!].framer-bv12sz-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.016666666666666666,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03333333333333333,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06666666666666667,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.08333333333333333,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1750,
+        "easing": "linear(0 0%, 0.0154 0.8403361344537815%, 0.0481 1.680672268907563%, 0.0869 2.5210084033613445%, 0.1271 3.3613445378151257%, 0.1667 4.201680672268907%, 0.2051 5.042016806722688%, 0.242 5.882352941176469%, 0.2772 6.72268907563025%, 0.3108 7.563025210084032%, 0.3429 8.403361344537814%, 0.3735 9.243697478991596%, 0.4027 10.084033613445378%, 0.4305 10.92436974789916%, 0.457 11.764705882352942%, 0.4823 12.605042016806724%, 0.5064 13.445378151260506%, 0.5294 14.285714285714288%, 0.5513 15.12605042016807%, 0.5722 15.966386554621852%, 0.5922 16.806722689075634%, 0.6112 17.647058823529417%, 0.6293 18.4873949579832%, 0.6465 19.32773109243698%, 0.663 20.168067226890763%, 0.6787 21.008403361344545%, 0.6937 21.848739495798327%, 0.7079 22.68907563025211%, 0.7215 23.52941176470589%, 0.7345 24.369747899159673%, 0.7469 25.210084033613455%, 0.7587 26.050420168067237%, 0.7699 26.89075630252102%, 0.7806 27.7310924369748%, 0.7908 28.571428571428584%, 0.8006 29.411764705882366%, 0.8099 30.252100840336148%, 0.8187 31.09243697478993%, 0.8272 31.932773109243712%, 0.8352 32.77310924369749%, 0.8429 33.61344537815127%, 0.8502 34.45378151260505%, 0.8572 35.294117647058826%, 0.8638 36.134453781512605%, 0.8702 36.97478991596638%, 0.8762 37.81512605042016%, 0.882 38.65546218487394%, 0.8875 39.49579831932772%, 0.8927 40.3361344537815%, 0.8977 41.176470588235276%, 0.9025 42.016806722689054%, 0.907 42.85714285714283%, 0.9114 43.69747899159661%, 0.9155 44.53781512605039%, 0.9194 45.37815126050417%, 0.9232 46.21848739495795%, 0.9268 47.058823529411725%, 0.9302 47.89915966386551%, 0.9334 48.7394957983193%, 0.9365 49.579831932773075%, 0.9395 50.420168067226854%, 0.9423 51.26050420168064%, 0.945 52.100840336134425%, 0.9476 52.9411764705882%, 0.95 53.78151260504198%, 0.9523 54.62184873949577%, 0.9545 55.46218487394955%, 0.9567 56.30252100840333%, 0.9587 57.14285714285711%, 0.9606 57.983193277310896%, 0.9624 58.82352941176468%, 0.9642 59.66386554621846%, 0.9659 60.50420168067224%, 0.9674 61.344537815126024%, 0.969 62.18487394957981%, 0.9704 63.02521008403359%, 0.9718 63.86554621848737%, 0.9731 64.70588235294115%, 0.9744 65.54621848739492%, 0.9755 66.3865546218487%, 0.9767 67.22689075630248%, 0.9778 68.06722689075626%, 0.9788 68.90756302521004%, 0.9798 69.74789915966382%, 0.9807 70.5882352941176%, 0.9816 71.42857142857137%, 0.9825 72.26890756302515%, 0.9833 73.10924369747893%, 0.9841 73.94957983193271%, 0.9848 74.78991596638649%, 0.9855 75.63025210084027%, 0.9862 76.47058823529404%, 0.9868 77.31092436974782%, 0.9875 78.1512605042016%, 0.988 78.99159663865538%, 0.9886 79.83193277310916%, 0.9891 80.67226890756294%, 0.9896 81.51260504201672%, 0.9901 82.3529411764705%, 0.9906 83.19327731092429%, 0.991 84.03361344537808%, 0.9914 84.87394957983186%, 0.9918 85.71428571428564%, 0.9922 86.55462184873943%, 0.9926 87.39495798319322%, 0.9929 88.235294117647%, 0.9933 89.07563025210078%, 0.9936 89.91596638655457%, 0.9939 90.75630252100837%, 0.9942 91.59663865546214%, 0.9944 92.43697478991592%, 0.9947 93.27731092436971%, 0.9949 94.11764705882351%, 0.9952 94.95798319327729%, 0.9954 95.79831932773106%, 0.9956 96.63865546218486%, 1 97.47899159663865%, 1 98.31932773109243%, 1 99.15966386554621%, 1 100%)",
+        "iterations": 1,
+        "target": "div.framer-fyydzk-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1700,
+        "easing": "linear(0 0%, 0.0154 0.8403361344537815%, 0.0481 1.680672268907563%, 0.0869 2.5210084033613445%, 0.1271 3.3613445378151257%, 0.1667 4.201680672268907%, 0.2051 5.042016806722688%, 0.242 5.882352941176469%, 0.2772 6.72268907563025%, 0.3108 7.563025210084032%, 0.3429 8.403361344537814%, 0.3735 9.243697478991596%, 0.4027 10.084033613445378%, 0.4305 10.92436974789916%, 0.457 11.764705882352942%, 0.4823 12.605042016806724%, 0.5064 13.445378151260506%, 0.5294 14.285714285714288%, 0.5513 15.12605042016807%, 0.5722 15.966386554621852%, 0.5922 16.806722689075634%, 0.6112 17.647058823529417%, 0.6293 18.4873949579832%, 0.6465 19.32773109243698%, 0.663 20.168067226890763%, 0.6787 21.008403361344545%, 0.6937 21.848739495798327%, 0.7079 22.68907563025211%, 0.7215 23.52941176470589%, 0.7345 24.369747899159673%, 0.7469 25.210084033613455%, 0.7587 26.050420168067237%, 0.7699 26.89075630252102%, 0.7806 27.7310924369748%, 0.7908 28.571428571428584%, 0.8006 29.411764705882366%, 0.8099 30.252100840336148%, 0.8187 31.09243697478993%, 0.8272 31.932773109243712%, 0.8352 32.77310924369749%, 0.8429 33.61344537815127%, 0.8502 34.45378151260505%, 0.8572 35.294117647058826%, 0.8638 36.134453781512605%, 0.8702 36.97478991596638%, 0.8762 37.81512605042016%, 0.882 38.65546218487394%, 0.8875 39.49579831932772%, 0.8927 40.3361344537815%, 0.8977 41.176470588235276%, 0.9025 42.016806722689054%, 0.907 42.85714285714283%, 0.9114 43.69747899159661%, 0.9155 44.53781512605039%, 0.9194 45.37815126050417%, 0.9232 46.21848739495795%, 0.9268 47.058823529411725%, 0.9302 47.89915966386551%, 0.9334 48.7394957983193%, 0.9365 49.579831932773075%, 0.9395 50.420168067226854%, 0.9423 51.26050420168064%, 0.945 52.100840336134425%, 0.9476 52.9411764705882%, 0.95 53.78151260504198%, 0.9523 54.62184873949577%, 0.9545 55.46218487394955%, 0.9567 56.30252100840333%, 0.9587 57.14285714285711%, 0.9606 57.983193277310896%, 0.9624 58.82352941176468%, 0.9642 59.66386554621846%, 0.9659 60.50420168067224%, 0.9674 61.344537815126024%, 0.969 62.18487394957981%, 0.9704 63.02521008403359%, 0.9718 63.86554621848737%, 0.9731 64.70588235294115%, 0.9744 65.54621848739492%, 0.9755 66.3865546218487%, 0.9767 67.22689075630248%, 0.9778 68.06722689075626%, 0.9788 68.90756302521004%, 0.9798 69.74789915966382%, 0.9807 70.5882352941176%, 0.9816 71.42857142857137%, 0.9825 72.26890756302515%, 0.9833 73.10924369747893%, 0.9841 73.94957983193271%, 0.9848 74.78991596638649%, 0.9855 75.63025210084027%, 0.9862 76.47058823529404%, 0.9868 77.31092436974782%, 0.9875 78.1512605042016%, 0.988 78.99159663865538%, 0.9886 79.83193277310916%, 0.9891 80.67226890756294%, 0.9896 81.51260504201672%, 0.9901 82.3529411764705%, 0.9906 83.19327731092429%, 0.991 84.03361344537808%, 0.9914 84.87394957983186%, 0.9918 85.71428571428564%, 0.9922 86.55462184873943%, 0.9926 87.39495798319322%, 0.9929 88.235294117647%, 0.9933 89.07563025210078%, 0.9936 89.91596638655457%, 0.9939 90.75630252100837%, 0.9942 91.59663865546214%, 0.9944 92.43697478991592%, 0.9947 93.27731092436971%, 0.9949 94.11764705882351%, 0.9952 94.95798319327729%, 0.9954 95.79831932773106%, 0.9956 96.63865546218486%, 1 97.47899159663865%, 1 98.31932773109243%, 1 99.15966386554621%, 1 100%)",
+        "iterations": 1,
+        "target": "div[Projects number].framer-18ia252 hidden-233qk8",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1500,
+        "easing": "linear(0 0%, 0.0154 0.8403361344537815%, 0.0481 1.680672268907563%, 0.0869 2.5210084033613445%, 0.1271 3.3613445378151257%, 0.1667 4.201680672268907%, 0.2051 5.042016806722688%, 0.242 5.882352941176469%, 0.2772 6.72268907563025%, 0.3108 7.563025210084032%, 0.3429 8.403361344537814%, 0.3735 9.243697478991596%, 0.4027 10.084033613445378%, 0.4305 10.92436974789916%, 0.457 11.764705882352942%, 0.4823 12.605042016806724%, 0.5064 13.445378151260506%, 0.5294 14.285714285714288%, 0.5513 15.12605042016807%, 0.5722 15.966386554621852%, 0.5922 16.806722689075634%, 0.6112 17.647058823529417%, 0.6293 18.4873949579832%, 0.6465 19.32773109243698%, 0.663 20.168067226890763%, 0.6787 21.008403361344545%, 0.6937 21.848739495798327%, 0.7079 22.68907563025211%, 0.7215 23.52941176470589%, 0.7345 24.369747899159673%, 0.7469 25.210084033613455%, 0.7587 26.050420168067237%, 0.7699 26.89075630252102%, 0.7806 27.7310924369748%, 0.7908 28.571428571428584%, 0.8006 29.411764705882366%, 0.8099 30.252100840336148%, 0.8187 31.09243697478993%, 0.8272 31.932773109243712%, 0.8352 32.77310924369749%, 0.8429 33.61344537815127%, 0.8502 34.45378151260505%, 0.8572 35.294117647058826%, 0.8638 36.134453781512605%, 0.8702 36.97478991596638%, 0.8762 37.81512605042016%, 0.882 38.65546218487394%, 0.8875 39.49579831932772%, 0.8927 40.3361344537815%, 0.8977 41.176470588235276%, 0.9025 42.016806722689054%, 0.907 42.85714285714283%, 0.9114 43.69747899159661%, 0.9155 44.53781512605039%, 0.9194 45.37815126050417%, 0.9232 46.21848739495795%, 0.9268 47.058823529411725%, 0.9302 47.89915966386551%, 0.9334 48.7394957983193%, 0.9365 49.579831932773075%, 0.9395 50.420168067226854%, 0.9423 51.26050420168064%, 0.945 52.100840336134425%, 0.9476 52.9411764705882%, 0.95 53.78151260504198%, 0.9523 54.62184873949577%, 0.9545 55.46218487394955%, 0.9567 56.30252100840333%, 0.9587 57.14285714285711%, 0.9606 57.983193277310896%, 0.9624 58.82352941176468%, 0.9642 59.66386554621846%, 0.9659 60.50420168067224%, 0.9674 61.344537815126024%, 0.969 62.18487394957981%, 0.9704 63.02521008403359%, 0.9718 63.86554621848737%, 0.9731 64.70588235294115%, 0.9744 65.54621848739492%, 0.9755 66.3865546218487%, 0.9767 67.22689075630248%, 0.9778 68.06722689075626%, 0.9788 68.90756302521004%, 0.9798 69.74789915966382%, 0.9807 70.5882352941176%, 0.9816 71.42857142857137%, 0.9825 72.26890756302515%, 0.9833 73.10924369747893%, 0.9841 73.94957983193271%, 0.9848 74.78991596638649%, 0.9855 75.63025210084027%, 0.9862 76.47058823529404%, 0.9868 77.31092436974782%, 0.9875 78.1512605042016%, 0.988 78.99159663865538%, 0.9886 79.83193277310916%, 0.9891 80.67226890756294%, 0.9896 81.51260504201672%, 0.9901 82.3529411764705%, 0.9906 83.19327731092429%, 0.991 84.03361344537808%, 0.9914 84.87394957983186%, 0.9918 85.71428571428564%, 0.9922 86.55462184873943%, 0.9926 87.39495798319322%, 0.9929 88.235294117647%, 0.9933 89.07563025210078%, 0.9936 89.91596638655457%, 0.9939 90.75630252100837%, 0.9942 91.59663865546214%, 0.9944 92.43697478991592%, 0.9947 93.27731092436971%, 0.9949 94.11764705882351%, 0.9952 94.95798319327729%, 0.9954 95.79831932773106%, 0.9956 96.63865546218486%, 1 97.47899159663865%, 1 98.31932773109243%, 1 99.15966386554621%, 1 100%)",
+        "iterations": 1,
+        "target": "div[©19-24].framer-5s8aef",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1350,
+        "easing": "linear(0 0%, 0.0154 0.8403361344537815%, 0.0481 1.680672268907563%, 0.0869 2.5210084033613445%, 0.1271 3.3613445378151257%, 0.1667 4.201680672268907%, 0.2051 5.042016806722688%, 0.242 5.882352941176469%, 0.2772 6.72268907563025%, 0.3108 7.563025210084032%, 0.3429 8.403361344537814%, 0.3735 9.243697478991596%, 0.4027 10.084033613445378%, 0.4305 10.92436974789916%, 0.457 11.764705882352942%, 0.4823 12.605042016806724%, 0.5064 13.445378151260506%, 0.5294 14.285714285714288%, 0.5513 15.12605042016807%, 0.5722 15.966386554621852%, 0.5922 16.806722689075634%, 0.6112 17.647058823529417%, 0.6293 18.4873949579832%, 0.6465 19.32773109243698%, 0.663 20.168067226890763%, 0.6787 21.008403361344545%, 0.6937 21.848739495798327%, 0.7079 22.68907563025211%, 0.7215 23.52941176470589%, 0.7345 24.369747899159673%, 0.7469 25.210084033613455%, 0.7587 26.050420168067237%, 0.7699 26.89075630252102%, 0.7806 27.7310924369748%, 0.7908 28.571428571428584%, 0.8006 29.411764705882366%, 0.8099 30.252100840336148%, 0.8187 31.09243697478993%, 0.8272 31.932773109243712%, 0.8352 32.77310924369749%, 0.8429 33.61344537815127%, 0.8502 34.45378151260505%, 0.8572 35.294117647058826%, 0.8638 36.134453781512605%, 0.8702 36.97478991596638%, 0.8762 37.81512605042016%, 0.882 38.65546218487394%, 0.8875 39.49579831932772%, 0.8927 40.3361344537815%, 0.8977 41.176470588235276%, 0.9025 42.016806722689054%, 0.907 42.85714285714283%, 0.9114 43.69747899159661%, 0.9155 44.53781512605039%, 0.9194 45.37815126050417%, 0.9232 46.21848739495795%, 0.9268 47.058823529411725%, 0.9302 47.89915966386551%, 0.9334 48.7394957983193%, 0.9365 49.579831932773075%, 0.9395 50.420168067226854%, 0.9423 51.26050420168064%, 0.945 52.100840336134425%, 0.9476 52.9411764705882%, 0.95 53.78151260504198%, 0.9523 54.62184873949577%, 0.9545 55.46218487394955%, 0.9567 56.30252100840333%, 0.9587 57.14285714285711%, 0.9606 57.983193277310896%, 0.9624 58.82352941176468%, 0.9642 59.66386554621846%, 0.9659 60.50420168067224%, 0.9674 61.344537815126024%, 0.969 62.18487394957981%, 0.9704 63.02521008403359%, 0.9718 63.86554621848737%, 0.9731 64.70588235294115%, 0.9744 65.54621848739492%, 0.9755 66.3865546218487%, 0.9767 67.22689075630248%, 0.9778 68.06722689075626%, 0.9788 68.90756302521004%, 0.9798 69.74789915966382%, 0.9807 70.5882352941176%, 0.9816 71.42857142857137%, 0.9825 72.26890756302515%, 0.9833 73.10924369747893%, 0.9841 73.94957983193271%, 0.9848 74.78991596638649%, 0.9855 75.63025210084027%, 0.9862 76.47058823529404%, 0.9868 77.31092436974782%, 0.9875 78.1512605042016%, 0.988 78.99159663865538%, 0.9886 79.83193277310916%, 0.9891 80.67226890756294%, 0.9896 81.51260504201672%, 0.9901 82.3529411764705%, 0.9906 83.19327731092429%, 0.991 84.03361344537808%, 0.9914 84.87394957983186%, 0.9918 85.71428571428564%, 0.9922 86.55462184873943%, 0.9926 87.39495798319322%, 0.9929 88.235294117647%, 0.9933 89.07563025210078%, 0.9936 89.91596638655457%, 0.9939 90.75630252100837%, 0.9942 91.59663865546214%, 0.9944 92.43697478991592%, 0.9947 93.27731092436971%, 0.9949 94.11764705882351%, 0.9952 94.95798319327729%, 0.9954 95.79831932773106%, 0.9956 96.63865546218486%, 1 97.47899159663865%, 1 98.31932773109243%, 1 99.15966386554621%, 1 100%)",
+        "iterations": 1,
+        "target": "div[Categories].framer-15rlu0l",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1800,
+        "easing": "linear(0 0%, 0.0154 0.8403361344537815%, 0.0481 1.680672268907563%, 0.0869 2.5210084033613445%, 0.1271 3.3613445378151257%, 0.1667 4.201680672268907%, 0.2051 5.042016806722688%, 0.242 5.882352941176469%, 0.2772 6.72268907563025%, 0.3108 7.563025210084032%, 0.3429 8.403361344537814%, 0.3735 9.243697478991596%, 0.4027 10.084033613445378%, 0.4305 10.92436974789916%, 0.457 11.764705882352942%, 0.4823 12.605042016806724%, 0.5064 13.445378151260506%, 0.5294 14.285714285714288%, 0.5513 15.12605042016807%, 0.5722 15.966386554621852%, 0.5922 16.806722689075634%, 0.6112 17.647058823529417%, 0.6293 18.4873949579832%, 0.6465 19.32773109243698%, 0.663 20.168067226890763%, 0.6787 21.008403361344545%, 0.6937 21.848739495798327%, 0.7079 22.68907563025211%, 0.7215 23.52941176470589%, 0.7345 24.369747899159673%, 0.7469 25.210084033613455%, 0.7587 26.050420168067237%, 0.7699 26.89075630252102%, 0.7806 27.7310924369748%, 0.7908 28.571428571428584%, 0.8006 29.411764705882366%, 0.8099 30.252100840336148%, 0.8187 31.09243697478993%, 0.8272 31.932773109243712%, 0.8352 32.77310924369749%, 0.8429 33.61344537815127%, 0.8502 34.45378151260505%, 0.8572 35.294117647058826%, 0.8638 36.134453781512605%, 0.8702 36.97478991596638%, 0.8762 37.81512605042016%, 0.882 38.65546218487394%, 0.8875 39.49579831932772%, 0.8927 40.3361344537815%, 0.8977 41.176470588235276%, 0.9025 42.016806722689054%, 0.907 42.85714285714283%, 0.9114 43.69747899159661%, 0.9155 44.53781512605039%, 0.9194 45.37815126050417%, 0.9232 46.21848739495795%, 0.9268 47.058823529411725%, 0.9302 47.89915966386551%, 0.9334 48.7394957983193%, 0.9365 49.579831932773075%, 0.9395 50.420168067226854%, 0.9423 51.26050420168064%, 0.945 52.100840336134425%, 0.9476 52.9411764705882%, 0.95 53.78151260504198%, 0.9523 54.62184873949577%, 0.9545 55.46218487394955%, 0.9567 56.30252100840333%, 0.9587 57.14285714285711%, 0.9606 57.983193277310896%, 0.9624 58.82352941176468%, 0.9642 59.66386554621846%, 0.9659 60.50420168067224%, 0.9674 61.344537815126024%, 0.969 62.18487394957981%, 0.9704 63.02521008403359%, 0.9718 63.86554621848737%, 0.9731 64.70588235294115%, 0.9744 65.54621848739492%, 0.9755 66.3865546218487%, 0.9767 67.22689075630248%, 0.9778 68.06722689075626%, 0.9788 68.90756302521004%, 0.9798 69.74789915966382%, 0.9807 70.5882352941176%, 0.9816 71.42857142857137%, 0.9825 72.26890756302515%, 0.9833 73.10924369747893%, 0.9841 73.94957983193271%, 0.9848 74.78991596638649%, 0.9855 75.63025210084027%, 0.9862 76.47058823529404%, 0.9868 77.31092436974782%, 0.9875 78.1512605042016%, 0.988 78.99159663865538%, 0.9886 79.83193277310916%, 0.9891 80.67226890756294%, 0.9896 81.51260504201672%, 0.9901 82.3529411764705%, 0.9906 83.19327731092429%, 0.991 84.03361344537808%, 0.9914 84.87394957983186%, 0.9918 85.71428571428564%, 0.9922 86.55462184873943%, 0.9926 87.39495798319322%, 0.9929 88.235294117647%, 0.9933 89.07563025210078%, 0.9936 89.91596638655457%, 0.9939 90.75630252100837%, 0.9942 91.59663865546214%, 0.9944 92.43697478991592%, 0.9947 93.27731092436971%, 0.9949 94.11764705882351%, 0.9952 94.95798319327729%, 0.9954 95.79831932773106%, 0.9956 96.63865546218486%, 1 97.47899159663865%, 1 98.31932773109243%, 1 99.15966386554621%, 1 100%)",
+        "iterations": 1,
+        "target": "div[We create digital designs that help brands move faster and convert better. Your business deserves more than just a website. It needs results.].framer-1srzfh1",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 550,
+        "delay": 1800,
+        "easing": "linear(0 0%, 0.011 1.8518518518518519%, 0.0399 3.7037037037037037%, 0.0812 5.555555555555555%, 0.131 7.407407407407407%, 0.1859 9.25925925925926%, 0.2433 11.11111111111111%, 0.3016 12.962962962962962%, 0.3591 14.814814814814813%, 0.4149 16.666666666666664%, 0.4683 18.518518518518515%, 0.5188 20.370370370370367%, 0.566 22.222222222222218%, 0.61 24.07407407407407%, 0.6505 25.92592592592592%, 0.6877 27.77777777777777%, 0.7216 29.629629629629623%, 0.7525 31.481481481481474%, 0.7804 33.33333333333333%, 0.8056 35.18518518518518%, 0.8282 37.03703703703704%, 0.8484 38.88888888888889%, 0.8666 40.74074074074075%, 0.8827 42.5925925925926%, 0.897 44.44444444444446%, 0.9098 46.29629629629631%, 0.921 48.14814814814817%, 0.931 50.000000000000014%, 0.9398 51.85185185185187%, 0.9475 53.703703703703724%, 0.9543 55.55555555555557%, 0.9603 57.40740740740742%, 0.9655 59.259259259259274%, 0.9701 61.11111111111113%, 0.9741 62.962962962962976%, 0.9776 64.81481481481482%, 0.9806 66.66666666666667%, 0.9832 68.51851851851852%, 0.9855 70.37037037037037%, 0.9875 72.22222222222221%, 0.9893 74.07407407407406%, 0.9908 75.92592592592591%, 0.9921 77.77777777777776%, 0.9932 79.6296296296296%, 0.9942 81.48148148148145%, 0.995 83.33333333333331%, 0.9957 85.18518518518516%, 0.9964 87.03703703703701%, 0.9969 88.88888888888887%, 0.9973 90.74074074074073%, 0.9977 92.59259259259258%, 0.9981 94.44444444444443%, 0.9984 96.29629629629629%, 0.9986 98.14814814814815%, 1 100%)",
+        "iterations": 1,
+        "target": "div[Delete me!].framer-bv12sz-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 41142.857142857145,
+        "delay": 0,
+        "easing": "linear",
+        "iterations": "inf",
+        "target": "ul.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      }
+    ]
+  },
+  "scrollAnimations": [
+    {
+      "step": 2,
+      "anims": []
+    },
+    {
+      "step": 5,
+      "anims": []
+    }
+  ],
+  "navScrolled": {
+    "visibleTop": -12240,
+    "bg": "rgba(0, 0, 0, 0)",
+    "backdrop": "none",
+    "transform": "none"
+  },
+  "hoverNavLink": {
+    "before": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "transition": "all"
+    },
+    "after": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none"
+    }
+  },
+  "audit": {
+    "title": "Lyniq Studio | Digital Design & Brand Development Agency",
+    "desc": "Transform your brand with Lyniq's expert digital design, UX/UI, and development services. We create stunning websites that drive results with 24/7 priority support.",
+    "bodyBg": "#0c0c0c",
+    "htmlBg": "#000000 @0",
+    "scrollHeight": 16023,
+    "textColors": [
+      "#0b0b0c ×196",
+      "#0c0c0c ×103",
+      "#ffffff ×90",
+      "#0c0c0c @0.6 ×37",
+      "#000000 ×11",
+      "#ffffff @0.6 ×7",
+      "#f9452d ×6",
+      "#ffffff @0.2 ×6",
+      "#0b0b0c @0.4 ×3",
+      "#ffffff @0.4 ×3",
+      "#ffffff @0.9 ×1",
+      "#111112 ×1",
+      "#0000ee ×1"
+    ],
+    "backgrounds": [
+      "#ffffff ×91",
+      "#f9452d ×14",
+      "#0c0c0c ×9",
+      "#f5f5f5 ×6",
+      "#323232 ×4",
+      "#000000 ×3",
+      "#ffffff @0.24 ×1",
+      "#d2ff37 ×1",
+      "#222222 ×1"
+    ],
+    "fonts": [
+      "Inter 500 ×306",
+      "Inter 600 ×99",
+      "Bebas Neue 400 ×23",
+      "Inter 700 ×22",
+      "sans-serif 400 ×11",
+      "Geist 500 ×4"
+    ],
+    "loadedFonts": [
+      "Geist 500 normal (unloaded)",
+      "Geist 500 normal (unloaded)",
+      "Geist 500 normal (unloaded)",
+      "Geist 500 normal (unloaded)",
+      "Geist 500 normal (loaded)",
+      "Geist 600 normal (unloaded)",
+      "Geist 600 normal (unloaded)",
+      "Geist 600 normal (unloaded)",
+      "Geist 600 normal (unloaded)",
+      "Geist 600 normal (unloaded)",
+      "Geist 700 normal (unloaded)",
+      "Geist 700 normal (unloaded)",
+      "Geist 700 normal (unloaded)",
+      "Geist 700 normal (unloaded)",
+      "Geist 700 normal (unloaded)",
+      "Fragment Mono 400 normal (unloaded)",
+      "Fragment Mono 400 normal (unloaded)",
+      "Fragment Mono 400 normal (unloaded)",
+      "Geist 900 normal (unloaded)",
+      "Geist 900 normal (unloaded)",
+      "Geist 900 normal (unloaded)",
+      "Geist 900 normal (unloaded)",
+      "Geist 900 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (loaded)",
+      "Inter 700 normal (loaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 600 normal (loaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Bebas Neue 400 normal (loaded)",
+      "Geist Placeholder normal normal (error)",
+      "Inter Placeholder normal normal (error)",
+      "Bebas Neue Placeholder normal normal (error)"
+    ],
+    "radii": [
+      "50px ×63",
+      "100% ×26",
+      "7px ×4",
+      "12px ×2",
+      "10px ×2",
+      "11px ×2",
+      "16px ×1",
+      "50px 50px 0px 0px ×1"
+    ],
+    "transitions": [
+      "color 0.3s cubic-bezier(0.44, 0, 0.56, 1) ×13",
+      "background, box-shadow 0.3s cubic-bezier(0.44, 0, 0.56, 1) ×3",
+      "color 0.4s cubic-bezier(0.44, 0, 0.56, 1) ×2",
+      "background, box-shadow 0s ease ×1"
+    ],
+    "typeSample": {
+      "h1": {
+        "font": "Inter",
+        "size": "16px",
+        "weight": "500",
+        "lh": "20.8px",
+        "ls": "-0.64px",
+        "tt": "none",
+        "color": "rgba(255, 255, 255, 0.9)",
+        "text": "We create digital designs that help brands move faster and convert better. Your "
+      },
+      "h2": {
+        "font": "Inter",
+        "size": "46px",
+        "weight": "600",
+        "lh": "50.6px",
+        "ls": "-3.22px",
+        "tt": "none",
+        "color": "rgb(12, 12, 12)",
+        "text": "Our work speaks through numbers. Here’s what we’ve achieved so far."
+      },
+      "h3": {
+        "font": "Inter",
+        "size": "26px",
+        "weight": "600",
+        "lh": "33.8px",
+        "ls": "-1.04px",
+        "tt": "none",
+        "color": "rgb(12, 12, 12)",
+        "text": "Websites launched"
+      },
+      "p": {
+        "font": "Bebas Neue",
+        "size": "49px",
+        "weight": "400",
+        "lh": "41.65px",
+        "ls": "-1.96px",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "Lyniq"
+      },
+      "a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": "Lyniq®"
+      },
+      "nav a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": "Lyniq®"
+      },
+      "button": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "Let’s talk"
+      },
+      "footer": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "Lyniq®Stay connectedJoin our newsletter and stay updated on the latest trends in"
+      }
+    },
+    "biggestText": {
+      "px": 427,
+      "font": "Inter",
+      "weight": "700",
+      "lh": "341.6px",
+      "ls": "-25.62px",
+      "text": "Digital"
+    },
+    "sections": [
+      {
+        "name": "3",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Wrapper",
+        "y": -1350,
+        "h": 3600,
+        "w": 5760,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Top",
+        "y": -3150,
+        "h": 1800,
+        "w": 5760,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#f9452d"
+      },
+      {
+        "name": "Center",
+        "y": -1350,
+        "h": 3600,
+        "w": 5760,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Bottom",
+        "y": 2250,
+        "h": 1800,
+        "w": 5760,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#f9452d"
+      },
+      {
+        "name": "Menu",
+        "y": 0,
+        "h": 305,
+        "w": 1440,
+        "padT": "7px",
+        "padB": "7px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Main",
+        "y": 0,
+        "h": 15353,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Hero",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "56px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Text",
+        "y": 483,
+        "h": 361,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "noise",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "BG",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Numbers",
+        "y": 900,
+        "h": 864,
+        "w": 1440,
+        "padT": "160px",
+        "padB": "220px",
+        "maxW": "none",
+        "bg": "#ffffff"
+      },
+      {
+        "name": "Container",
+        "y": 1060,
+        "h": 484,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1848px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Items",
+        "y": 1281,
+        "h": 262,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Description",
+        "y": 1764,
+        "h": 969,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#ffffff"
+      },
+      {
+        "name": "Img",
+        "y": 1764,
+        "h": 516,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1848px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Text",
+        "y": 2280,
+        "h": 453,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 2280,
+        "h": 453,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1848px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Benefits",
+        "y": 2732,
+        "h": 1328,
+        "w": 1440,
+        "padT": "200px",
+        "padB": "160px",
+        "maxW": "none",
+        "bg": "#ffffff"
+      },
+      {
+        "name": "Container",
+        "y": 2932,
+        "h": 968,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1848px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Grid",
+        "y": 3230,
+        "h": 670,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 3230,
+        "h": 670,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Work",
+        "y": 4060,
+        "h": 2715,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "160px",
+        "maxW": "none",
+        "bg": "#ffffff"
+      },
+      {
+        "name": "Container",
+        "y": 4060,
+        "h": 2555,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1848px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Heading",
+        "y": 4060,
+        "h": 369,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 4540,
+        "h": 2076,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Items",
+        "y": 4540,
+        "h": 2000,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "1",
+        "y": 4847,
+        "h": 457,
+        "w": 1094,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "2",
+        "y": 5251,
+        "h": 577,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "3",
+        "y": 5968,
+        "h": 571,
+        "w": 1368,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      }
+    ],
+    "nav": {
+      "name": "Desktop closed",
+      "position": "relative",
+      "top": "0px",
+      "bg": "#000000 @0",
+      "backdrop": "none",
+      "h": 50,
+      "transform": "none",
+      "transition": "all"
+    },
+    "fixedEls": [
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "9999",
+        "size": "1440x900",
+        "pe": "none",
+        "mix": "normal"
+      },
+      {
+        "tag": "section",
+        "name": "Hero",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1440x900",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Heading",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1368x369",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Delete me!",
+        "pos": "fixed",
+        "z": "9",
+        "size": "166x46",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "2147483647",
+        "size": "1440x78",
+        "pe": "none",
+        "mix": "normal"
+      }
+    ],
+    "hoverRules": [
+      "[data-framer-component-type=\"Text\"] a:hover, [data-framer-component-type=\"Text\"] { --font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family))); --font-style: var(--framer-link-hover-font-style,v }",
+      "a.framer-text:hover, a.framer-text:hover span.framer-text:not([data-text-fill]), { font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-blockquote-font-family,var(--framer }",
+      "a.framer-text:hover, span.framer-text[data-nested-link]:hover { color: var(--framer-link-hover-text-color,var(--framer-link-text-color,var(--framer-blockquote-text-color,var(--framer-text-color,#000)))); text-decoration-line }",
+      "code.framer-text a.framer-text:hover, code.framer-text span.framer-text[data-nes { color: var(--framer-link-hover-text-color,var(--framer-link-text-color,var(--framer-blockquote-text-color,var(--framer-code-text-color,var(--framer-text-color,# }",
+      "a.framer-text[data-framer-page-link-current]:hover, a.framer-text[data-framer-pa { color: inherit; font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-f }",
+      "a.framer-text[data-framer-page-link-current]:hover, span.framer-text[data-framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-text-color,#000)))); text-decoration-li }",
+      "code.framer-text a.framer-text[data-framer-page-link-current]:hover, code.framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-code-text-color,var(--framer-text-color }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a:hover, [data-framer-componen { font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeholder,sans-serif))); font-style: var(- }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a[data-framer-page-link-curren { font-family: var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeh }",
+      ".framer-form-text-input-clear:hover, .framer-form-text-input-clear:focus-visible { color: var(--framer-input-font-color); }"
+    ],
+    "hints": {
+      "canvas": [],
+      "video": 0,
+      "lenis": true,
+      "gsap": false,
+      "scrollTrigger": false,
+      "three": false,
+      "framerGlobals": [
+        "__send_framer_event",
+        "__framer_events",
+        "__framer_importFromPackage",
+        "__framer_editorBarDependencies"
+      ],
+      "scrollBehavior": "auto",
+      "bodyCursor": "auto",
+      "linkCursor": "pointer"
+    }
+  }
+}

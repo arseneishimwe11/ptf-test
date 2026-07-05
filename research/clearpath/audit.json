@@ -1,0 +1,1911 @@
+{
+  "url": "https://clearpath-template.framer.website/",
+  "capturedAt": "2026-07-05T00:21:50.469Z",
+  "network": {
+    "desktop-1440": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/rolldown-runtime.BLwaTvXf.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/react._dT6F2Ci.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/motion.D7f6De6Z.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/PNyRsgvYz.DpA9YNKz.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/shared-lib.Ct7wx-nS.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/H10xW8r4G.rZg7-4Ht.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/TextIndent.BtZE5zos.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/DAqIf75oI.DuZjbLr6.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/niZmG_oyU.BOvAhbOd.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/TWbK7EWRw.CpiaYdsL.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/framer.Dn5pg7Xa.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/lyJ_vNc6e.BAYSSh59.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/QBj4g69NY.D2tSTv9q.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/r_AbvBOaB.-n_xV0Qm.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/TextScrollReveal.ThJbIH1N.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/3fdqeiaGZSok7xCLUNeHP3nCD29Ng0cLd_FOzpxaYwg.ker2xINr.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/Q41ObAp12.BGbxDjNe.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/Yg35KMxfO.BXeUlEU0.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/W5vJAOUL4.C9D7NXOO.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/Animator_Basic_With_Scroll.Ck0vyZDg.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/FRbQ3ExVo.uLelYmbX.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/tDCsdWTIi.B0QFwXTp.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/augiA20Il.Cs4YqqtB.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/CpWYpPTbn.CyMaD5ZA.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/hL15ax4aL.55vaDh1h.mjs"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJfbwhT.woff2",
+        "https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2",
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2",
+        "https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2",
+        "https://framerusercontent.com/assets/MQthzhqtkV99jFAFdccXwW1PRf0.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    },
+    "tablet-834": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/TWbK7EWRw.CpiaYdsL.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/DAqIf75oI.DuZjbLr6.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/TextScrollReveal.ThJbIH1N.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/niZmG_oyU.BOvAhbOd.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/react._dT6F2Ci.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/PNyRsgvYz.DpA9YNKz.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/shared-lib.Ct7wx-nS.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/TextIndent.BtZE5zos.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/H10xW8r4G.rZg7-4Ht.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/motion.D7f6De6Z.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/rolldown-runtime.BLwaTvXf.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/r_AbvBOaB.-n_xV0Qm.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/tDCsdWTIi.B0QFwXTp.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/3fdqeiaGZSok7xCLUNeHP3nCD29Ng0cLd_FOzpxaYwg.ker2xINr.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/CpWYpPTbn.CyMaD5ZA.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/Yg35KMxfO.BXeUlEU0.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/G2XDwTXUy.B3UD9pw7.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/script_main.DzhFktSV.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/augiA20Il.Cs4YqqtB.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/QBj4g69NY.D2tSTv9q.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/lyJ_vNc6e.BAYSSh59.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/FRbQ3ExVo.uLelYmbX.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/hL15ax4aL.55vaDh1h.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/ImageParallaxVerticalNoize.DakPDddt.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/W5vJAOUL4.C9D7NXOO.mjs"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJfbwhT.woff2",
+        "https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2",
+        "https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2",
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    },
+    "mobile-390": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/rolldown-runtime.BLwaTvXf.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/react._dT6F2Ci.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/motion.D7f6De6Z.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/PNyRsgvYz.DpA9YNKz.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/shared-lib.Ct7wx-nS.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/niZmG_oyU.BOvAhbOd.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/DAqIf75oI.DuZjbLr6.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/TextIndent.BtZE5zos.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/TWbK7EWRw.CpiaYdsL.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/r_AbvBOaB.-n_xV0Qm.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/lyJ_vNc6e.BAYSSh59.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/3fdqeiaGZSok7xCLUNeHP3nCD29Ng0cLd_FOzpxaYwg.ker2xINr.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/Q41ObAp12.BGbxDjNe.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/TextScrollReveal.ThJbIH1N.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/CpWYpPTbn.CyMaD5ZA.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/FRbQ3ExVo.uLelYmbX.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/W5vJAOUL4.C9D7NXOO.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/Animator_Basic_With_Scroll.Ck0vyZDg.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/ImageParallaxVerticalNoize.DakPDddt.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/G2XDwTXUy.B3UD9pw7.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/tDCsdWTIi.B0QFwXTp.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/augiA20Il.Cs4YqqtB.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/H10xW8r4G.rZg7-4Ht.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/framer.Dn5pg7Xa.mjs",
+        "https://framerusercontent.com/sites/6K7B6IyoNaiKRAgbPLwRU/QBj4g69NY.D2tSTv9q.mjs"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJfbwhT.woff2",
+        "https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2",
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2",
+        "https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    }
+  },
+  "breakpoints": {
+    "tablet-834": {
+      "h1size": "88px",
+      "h1lh": "73.92px",
+      "scrollHeight": 18593
+    },
+    "mobile-390": {
+      "h1size": "64px",
+      "h1lh": "53.76px",
+      "scrollHeight": 20245
+    }
+  },
+  "entranceAnimations": {
+    "at400ms": [
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 0,
+        "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Image].framer-7m3i73",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-ijtjgq-container hidden-1f5hb54",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-1f1re2w-container hidden-1f5hb54",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-1lgea7r",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-1lgea7r",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-1ltz739-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-1ltz739-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 600,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Text Container].framer-1fkitzd",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 600,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Text Container].framer-1fkitzd",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 800,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Raiting].framer-1n65icg",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 800,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Raiting].framer-1n65icg",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Page Title].framer-1bv8mug",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Page Title].framer-1bv8mug",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-89jy4q",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-89jy4q",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 600,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-ccgg2l",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 600,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-ccgg2l",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 800,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Container].framer-s06wt2",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 800,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Container].framer-s06wt2",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 600,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "section[Section].framer-17z5vyw",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 1000,
+        "delay": 200,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-g52bo5-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 1000,
+        "delay": 200,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-g52bo5-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "delay": 1000,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-128ye39-container hidden-vtru7o h",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.016666666666666666,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03333333333333333,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06666666666666667,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.08333333333333333,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "delay": 1000,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-128ye39-container hidden-vtru7o h",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.016666666666666666,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03333333333333333,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06666666666666667,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.08333333333333333,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "delay": 1200,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-1rdwrmo-container hidden-vtru7o h",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.016666666666666666,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03333333333333333,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06666666666666667,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.08333333333333333,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "delay": 1200,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-1rdwrmo-container hidden-vtru7o h",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.016666666666666666,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03333333333333333,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06666666666666667,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.08333333333333333,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 0,
+        "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Image].framer-7m3i73",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-ijtjgq-container hidden-1f5hb54",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-1f1re2w-container hidden-1f5hb54",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 600,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Text Container].framer-1fkitzd",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 800,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div[Raiting].framer-1n65icg",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "delay": 1000,
+        "easing": "linear(0 0%, 0.011 1.694915254237288%, 0.0399 3.389830508474576%, 0.0811 5.084745762711864%, 0.1305 6.779661016949152%, 0.1849 8.474576271186441%, 0.2418 10.16949152542373%, 0.2993 11.864406779661019%, 0.3561 13.559322033898308%, 0.4111 15.254237288135595%, 0.4637 16.949152542372882%, 0.5134 18.64406779661017%, 0.56 20.338983050847457%, 0.6032 22.033898305084744%, 0.6432 23.72881355932203%, 0.6799 25.42372881355932%, 0.7135 27.118644067796605%, 0.7441 28.813559322033893%, 0.7718 30.50847457627118%, 0.7969 32.20338983050847%, 0.8194 33.89830508474576%, 0.8397 35.593220338983045%, 0.858 37.28813559322033%, 0.8743 38.98305084745762%, 0.8888 40.677966101694906%, 0.9018 42.37288135593219%, 0.9133 44.06779661016948%, 0.9236 45.76271186440677%, 0.9327 47.457627118644055%, 0.9408 49.15254237288134%, 0.9479 50.84745762711863%, 0.9543 52.54237288135592%, 0.9598 54.237288135593204%, 0.9648 55.93220338983049%, 0.9691 57.62711864406778%, 0.9729 59.322033898305065%, 0.9763 61.01694915254235%, 0.9792 62.71186440677964%, 0.9818 64.40677966101693%, 0.9841 66.10169491525421%, 0.9861 67.7966101694915%, 0.9879 69.49152542372879%, 0.9894 71.18644067796608%, 0.9908 72.88135593220336%, 0.9919 74.57627118644065%, 0.993 76.27118644067794%, 0.9939 77.96610169491522%, 0.9947 79.66101694915251%, 0.9953 81.3559322033898%, 0.9959 83.05084745762709%, 0.9965 84.74576271186437%, 0.9969 86.44067796610166%, 0.9973 88.13559322033895%, 0.9977 89.83050847457623%, 0.998 91.52542372881354%, 0.9982 93.22033898305082%, 0.9985 94.91525423728811%, 0.9987 96.61016949152541%, 0.9988 98.30508474576271%, 1 100%)",
+        "iterations": 1,
+        "target": "div.framer-128ye39-container hidden-vtru7o h",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "delay": 1200,
+        "easing": "linear(0 0%, 0.011 1.694915254237288%, 0.0399 3.389830508474576%, 0.0811 5.084745762711864%, 0.1305 6.779661016949152%, 0.1849 8.474576271186441%, 0.2418 10.16949152542373%, 0.2993 11.864406779661019%, 0.3561 13.559322033898308%, 0.4111 15.254237288135595%, 0.4637 16.949152542372882%, 0.5134 18.64406779661017%, 0.56 20.338983050847457%, 0.6032 22.033898305084744%, 0.6432 23.72881355932203%, 0.6799 25.42372881355932%, 0.7135 27.118644067796605%, 0.7441 28.813559322033893%, 0.7718 30.50847457627118%, 0.7969 32.20338983050847%, 0.8194 33.89830508474576%, 0.8397 35.593220338983045%, 0.858 37.28813559322033%, 0.8743 38.98305084745762%, 0.8888 40.677966101694906%, 0.9018 42.37288135593219%, 0.9133 44.06779661016948%, 0.9236 45.76271186440677%, 0.9327 47.457627118644055%, 0.9408 49.15254237288134%, 0.9479 50.84745762711863%, 0.9543 52.54237288135592%, 0.9598 54.237288135593204%, 0.9648 55.93220338983049%, 0.9691 57.62711864406778%, 0.9729 59.322033898305065%, 0.9763 61.01694915254235%, 0.9792 62.71186440677964%, 0.9818 64.40677966101693%, 0.9841 66.10169491525421%, 0.9861 67.7966101694915%, 0.9879 69.49152542372879%, 0.9894 71.18644067796608%, 0.9908 72.88135593220336%, 0.9919 74.57627118644065%, 0.993 76.27118644067794%, 0.9939 77.96610169491522%, 0.9947 79.66101694915251%, 0.9953 81.3559322033898%, 0.9959 83.05084745762709%, 0.9965 84.74576271186437%, 0.9969 86.44067796610166%, 0.9973 88.13559322033895%, 0.9977 89.83050847457623%, 0.998 91.52542372881354%, 0.9982 93.22033898305082%, 0.9985 94.91525423728811%, 0.9987 96.61016949152541%, 0.9988 98.30508474576271%, 1 100%)",
+        "iterations": 1,
+        "target": "div.framer-1rdwrmo-container hidden-vtru7o h",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 200,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "filter"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "filter"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 200,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 300.00000000000006,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "filter"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "filter"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 300.00000000000006,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 400,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "filter"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "filter"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 400,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 500,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "filter"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "filter"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 500,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 600.0000000000001,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "filter"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "filter"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 600.0000000000001,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 700,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "filter"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "filter"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1600,
+        "delay": 700,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-1lgea7r",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0.2, 0, 0.2, 1)",
+        "iterations": 1,
+        "target": "div.framer-1ltz739-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      }
+    ],
+    "at1200ms": []
+  },
+  "scrollAnimations": [
+    {
+      "step": 2,
+      "anims": []
+    },
+    {
+      "step": 5,
+      "anims": []
+    }
+  ],
+  "navScrolled": {
+    "visibleTop": -10856,
+    "bg": "rgba(0, 0, 0, 0)",
+    "backdrop": "none",
+    "transform": "none"
+  },
+  "hoverNavLink": {
+    "before": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "transition": "all"
+    },
+    "after": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none"
+    }
+  },
+  "audit": {
+    "title": "ClearPath",
+    "desc": "ClearPath is a modern website Framer template crafted for therapists, life coaches, and personal growth professionals. It’s ideal for creating calming, trustworthy websites with services, client stories, educational journals, and booking features.",
+    "bodyBg": "#ffffff",
+    "htmlBg": "#000000 @0",
+    "scrollHeight": 17014,
+    "textColors": [
+      "#ffffff ×64",
+      "#2e3231 ×64",
+      "#535956 ×55",
+      "#7fa69b ×46",
+      "#000000 ×28",
+      "#000000 @0 ×24",
+      "#80a69b @0 ×16",
+      "#ffffff @0.65 ×7",
+      "#0000ee ×4",
+      "#949e9b ×3",
+      "#000000 @0.4 ×2"
+    ],
+    "backgrounds": [
+      "#ffffff ×100",
+      "#7fa69b ×24",
+      "#fafafa ×6",
+      "#7fa69b @0.2 ×6",
+      "#000000 ×5",
+      "#2e3231 ×3",
+      "#000000 @0.2 ×2",
+      "#535956 ×2",
+      "#000000 @0.04 ×2",
+      "#252525 ×1"
+    ],
+    "fonts": [
+      "Inter 500 ×98",
+      "Inter 600 ×82",
+      "Inter 400 ×80",
+      "Crimson Text 400 ×28",
+      "sans-serif 400 ×17",
+      "Inter 700 ×4",
+      "Times New Roman 400 ×3",
+      "Aspekta Variable Variable 1000 ×1"
+    ],
+    "loadedFonts": [
+      "Crimson Text 400 italic (unloaded)",
+      "Crimson Text 400 italic (unloaded)",
+      "Crimson Text 400 italic (unloaded)",
+      "Crimson Text 700 italic (unloaded)",
+      "Crimson Text 700 italic (unloaded)",
+      "Crimson Text 700 italic (unloaded)",
+      "Crimson Text 400 normal (unloaded)",
+      "Crimson Text 400 normal (unloaded)",
+      "Crimson Text 400 normal (loaded)",
+      "Crimson Text 700 normal (unloaded)",
+      "Crimson Text 700 normal (unloaded)",
+      "Crimson Text 700 normal (unloaded)",
+      "Fragment Mono 400 normal (unloaded)",
+      "Fragment Mono 400 normal (unloaded)",
+      "Fragment Mono 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 500 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 400 normal (loaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 700 normal (loaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 600 normal (loaded)",
+      "Inter 500 normal (loaded)",
+      "Inter 500 italic (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Aspekta Variable Variable 1000 normal (loaded)",
+      "Aspekta Variable Variable 400 normal (unloaded)",
+      "Crimson Text Placeholder normal normal (error)",
+      "Inter Placeholder normal normal (error)"
+    ],
+    "radii": [
+      "999px ×115",
+      "16px ×9",
+      "4px ×6",
+      "99px ×4",
+      "9px ×4",
+      "9999px ×3",
+      "10px ×3",
+      "11px ×2",
+      "4162.5% ×1"
+    ],
+    "transitions": [
+      "color, text-decoration-color, text-decoration-thickness, text-underline-offset 0.4s, 0.4s, 0.4s, 0.4s cubic-bezier(0.44, ×7",
+      "background, box-shadow 0.3s cubic-bezier(0.44, 0, 0.56, 1) ×7",
+      "box-shadow, background 0.3s cubic-bezier(0.44, 0, 0.56, 1) ×6"
+    ],
+    "typeSample": {
+      "h1": {
+        "font": "Crimson Text",
+        "size": "136px",
+        "weight": "400",
+        "lh": "122.4px",
+        "ls": "-5.44px",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "A Path That Shapes Your Future."
+      },
+      "h2": {
+        "font": "Inter",
+        "size": "44px",
+        "weight": "500",
+        "lh": "52.8px",
+        "ls": "-1.76px",
+        "tt": "none",
+        "color": "rgb(46, 50, 49)",
+        "text": "There may not be a single switch, but there are clear steps forward."
+      },
+      "h3": {
+        "font": "Crimson Text",
+        "size": "36px",
+        "weight": "400",
+        "lh": "36px",
+        "ls": "-1.08px",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "Mindfulness & Stress Support"
+      },
+      "h4": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "700",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "At ClearPath, we don’t rush change — we help it unfold with intention. Through m"
+      },
+      "p": {
+        "font": "Inter",
+        "size": "16px",
+        "weight": "400",
+        "lh": "27.2px",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "We offer therapy and coaching to help you navigate life’s challenges with confid"
+      },
+      "a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": "Start your journey"
+      },
+      "nav a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": "clear—path"
+      },
+      "button": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "book a session"
+      },
+      "footer": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "Join OurNewsletter.We share occasional insights on personal growth, emotional we"
+      }
+    },
+    "biggestText": {
+      "px": 226.858,
+      "font": "Inter",
+      "weight": "500",
+      "lh": "272.23px",
+      "ls": "-9.07433px",
+      "text": "1"
+    },
+    "sections": [
+      {
+        "name": "Waves Container",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Long Line",
+        "y": 110,
+        "h": 680,
+        "w": 6000,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Long Line 2",
+        "y": 110,
+        "h": 680,
+        "w": 6000,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Main Container",
+        "y": 0,
+        "h": 16029,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Page Intro",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Image Container",
+        "y": 0,
+        "h": 3600,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#ffffff"
+      },
+      {
+        "name": "Image",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000"
+      },
+      {
+        "name": "Green Background",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Noize",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Circles Container",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Circle",
+        "y": 416,
+        "h": 1094,
+        "w": 1094,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Circle",
+        "y": -108,
+        "h": 864,
+        "w": 864,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Circle",
+        "y": 167,
+        "h": 979,
+        "w": 979,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Hero Image",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Noize",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Hero",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Animated Lines",
+        "y": 0,
+        "h": 1140,
+        "w": 780,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Text",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Text",
+        "y": 469,
+        "h": 367,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Section",
+        "y": 469,
+        "h": 367,
+        "w": 775,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 469,
+        "h": 367,
+        "w": 775,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Toggle",
+        "y": 900,
+        "h": 1400,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Toggle Off",
+        "y": 900,
+        "h": 500,
+        "w": 1408,
+        "padT": "244px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container 100vh",
+        "y": 1400,
+        "h": 900,
+        "w": 1408,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Our Services",
+        "y": 2300,
+        "h": 640,
+        "w": 1440,
+        "padT": "80px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Cards",
+        "y": 2380,
+        "h": 560,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1600px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 2380,
+        "h": 560,
+        "w": 1328,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Our Philosophy",
+        "y": 2940,
+        "h": 630,
+        "w": 1440,
+        "padT": "200px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Our Philosophy",
+        "y": 3140,
+        "h": 430,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Story A",
+        "y": 3570,
+        "h": 1022,
+        "w": 1440,
+        "padT": "200px",
+        "padB": "160px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      }
+    ],
+    "nav": {
+      "name": "dark-nav-1",
+      "position": "absolute",
+      "top": "-16px",
+      "bg": "#000000 @0",
+      "backdrop": "none",
+      "h": 8,
+      "transform": "none",
+      "transition": "all"
+    },
+    "fixedEls": [
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "4",
+        "size": "1440x220",
+        "pe": "none",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Waves Container",
+        "pos": "fixed",
+        "z": "auto",
+        "size": "1440x900",
+        "pe": "none",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Image",
+        "pos": "sticky",
+        "z": "auto",
+        "size": "1440x900",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1408x500",
+        "pe": "none",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Big Number Container",
+        "pos": "sticky",
+        "z": "1",
+        "size": "540x900",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Container",
+        "pos": "sticky",
+        "z": "1",
+        "size": "664x335",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "10",
+        "size": "1440x79",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "10",
+        "size": "140x103",
+        "pe": "none",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "10",
+        "size": "140x38",
+        "pe": "auto",
+        "mix": "normal"
+      }
+    ],
+    "hoverRules": [
+      "[data-framer-component-type=\"Text\"] a:hover, [data-framer-component-type=\"Text\"] { --font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family))); --font-style: var(--framer-link-hover-font-style,v }",
+      "a.framer-text:hover, a.framer-text:hover span.framer-text:not([data-text-fill]), { font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-blockquote-font-family,var(--framer-link-font-family,var(--framer }",
+      "a.framer-text:hover, span.framer-text[data-nested-link]:hover { color: var(--framer-link-hover-text-color,var(--framer-blockquote-text-color,var(--framer-link-text-color,var(--framer-text-color,#000)))); text-decoration-line }",
+      "code.framer-text a.framer-text:hover, code.framer-text span.framer-text[data-nes { color: var(--framer-link-hover-text-color,var(--framer-blockquote-text-color,var(--framer-link-text-color,var(--framer-code-text-color,var(--framer-text-color,# }",
+      "a.framer-text[data-framer-page-link-current]:hover, a.framer-text[data-framer-pa { color: inherit; font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-f }",
+      "a.framer-text[data-framer-page-link-current]:hover, span.framer-text[data-framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-text-color,#000)))); text-decoration-li }",
+      "code.framer-text a.framer-text[data-framer-page-link-current]:hover, code.framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-code-text-color,var(--framer-text-color }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a:hover, [data-framer-componen { font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeholder,sans-serif))); font-style: var(- }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a[data-framer-page-link-curren { font-family: var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeh }",
+      ".framer-form-text-input-clear:hover, .framer-form-text-input-clear:focus-visible { color: var(--framer-input-font-color); }"
+    ],
+    "hints": {
+      "canvas": [],
+      "video": 0,
+      "lenis": true,
+      "gsap": false,
+      "scrollTrigger": false,
+      "three": false,
+      "framerGlobals": [
+        "__send_framer_event",
+        "__framer_events",
+        "__framer_importFromPackage",
+        "__framer_editorBarDependencies"
+      ],
+      "scrollBehavior": "auto",
+      "bodyCursor": "auto",
+      "linkCursor": "pointer"
+    }
+  }
+}

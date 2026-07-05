@@ -1,0 +1,2675 @@
+{
+  "url": "https://davies.framer.website/",
+  "capturedAt": "2026-07-05T00:17:18.996Z",
+  "network": {
+    "desktop-1440": {
+      "scripts": [
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/rolldown-runtime.C4p97ucE.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/react.eHRKlns7.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/AKS68MnlV.CC79Rtbq.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/framer.BV5eZSce.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/augiA20Il.BAc0MZkU.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/motion.C-iC8DkG.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/shared-lib.qNwQBqxw.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/hhZ_Q0DxHEeQVxAdlCJIvpKOK1aT5XiCft0EZsg0MS8.CO6MrhkD.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/script_main.CIpfE5_P.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/imeDPN3tc.Qp_0zb66.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/PX9hIOIVM.DC3bobwP.mjs",
+        "https://framer.com/edit/init.mjs",
+        "https://app.framerstatic.com/chunk-NOBVTTEN.mjs",
+        "https://framer.com/bootstrap.d22cd962eda0a502da641c2ec08dab45a4e9ba8b.js",
+        "https://app.framerstatic.com/chunk-CT63CFX7.mjs",
+        "https://app.framerstatic.com/chunk-6VQPURR3.mjs",
+        "https://app.framerstatic.com/editorbar.KMU6XDNL.mjs",
+        "https://app.framerstatic.com/chunk-2F5FSM3K.mjs",
+        "https://app.framerstatic.com/chunk-HMF7T2NG.mjs"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/figtree/v9/_Xms-HUzqDCFdgfMm4S9DQ.woff2"
+      ],
+      "other": []
+    },
+    "tablet-834": {
+      "scripts": [
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/react.eHRKlns7.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/rolldown-runtime.C4p97ucE.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/AKS68MnlV.CC79Rtbq.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/hhZ_Q0DxHEeQVxAdlCJIvpKOK1aT5XiCft0EZsg0MS8.CO6MrhkD.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/shared-lib.qNwQBqxw.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/motion.C-iC8DkG.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/augiA20Il.BAc0MZkU.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/framer.BV5eZSce.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/script_main.CIpfE5_P.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/imeDPN3tc.Qp_0zb66.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/PX9hIOIVM.DC3bobwP.mjs",
+        "https://framer.com/edit/init.mjs",
+        "https://app.framerstatic.com/chunk-NOBVTTEN.mjs",
+        "https://framer.com/bootstrap.d22cd962eda0a502da641c2ec08dab45a4e9ba8b.js",
+        "https://app.framerstatic.com/chunk-6VQPURR3.mjs",
+        "https://app.framerstatic.com/chunk-HMF7T2NG.mjs",
+        "https://app.framerstatic.com/chunk-2F5FSM3K.mjs",
+        "https://app.framerstatic.com/editorbar.KMU6XDNL.mjs",
+        "https://app.framerstatic.com/chunk-CT63CFX7.mjs"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/figtree/v9/_Xms-HUzqDCFdgfMm4S9DQ.woff2"
+      ],
+      "other": []
+    },
+    "mobile-390": {
+      "scripts": [
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/react.eHRKlns7.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/rolldown-runtime.C4p97ucE.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/motion.C-iC8DkG.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/AKS68MnlV.CC79Rtbq.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/augiA20Il.BAc0MZkU.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/shared-lib.qNwQBqxw.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/hhZ_Q0DxHEeQVxAdlCJIvpKOK1aT5XiCft0EZsg0MS8.CO6MrhkD.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/imeDPN3tc.Qp_0zb66.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/script_main.CIpfE5_P.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/framer.BV5eZSce.mjs",
+        "https://framerusercontent.com/sites/7q6ArIXWHj9kLVDW3TRzyr/PX9hIOIVM.DC3bobwP.mjs",
+        "https://framer.com/edit/init.mjs",
+        "https://app.framerstatic.com/chunk-NOBVTTEN.mjs",
+        "https://framer.com/bootstrap.d22cd962eda0a502da641c2ec08dab45a4e9ba8b.js",
+        "https://app.framerstatic.com/chunk-6VQPURR3.mjs",
+        "https://app.framerstatic.com/editorbar.KMU6XDNL.mjs",
+        "https://app.framerstatic.com/chunk-2F5FSM3K.mjs",
+        "https://app.framerstatic.com/chunk-CT63CFX7.mjs",
+        "https://app.framerstatic.com/chunk-HMF7T2NG.mjs"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/figtree/v9/_Xms-HUzqDCFdgfMm4S9DQ.woff2"
+      ],
+      "other": []
+    }
+  },
+  "breakpoints": {
+    "tablet-834": {
+      "h1size": "49px",
+      "h1lh": "53px",
+      "scrollHeight": 15179
+    },
+    "mobile-390": {
+      "h1size": "32px",
+      "h1lh": "40px",
+      "scrollHeight": 15833
+    }
+  },
+  "entranceAnimations": {
+    "at400ms": [
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 600,
+        "delay": 0,
+        "easing": "cubic-bezier(0, 0, 1, 1)",
+        "iterations": 1,
+        "target": "div[Video Background].framer-riu1qc-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Service 1].framer-1gke07t",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Service 1].framer-1gke07t",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Service 2].framer-1nz7nd1",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Service 2].framer-1nz7nd1",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Service 3].framer-1aezhog",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Service 3].framer-1aezhog",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Service 4].framer-ac6fwg",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Service 4].framer-ac6fwg",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Service 5].framer-se856j",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Service 5].framer-se856j",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-nh7ppu-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-nh7ppu-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[1].framer-1ezo30y",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[1].framer-1ezo30y",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-1wzo9qi",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-1wzo9qi",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[*41].framer-u4z8m7",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[*41].framer-u4z8m7",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[2].framer-rd8w08",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[2].framer-rd8w08",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-cxw2lq",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-cxw2lq",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[*67].framer-zy3bkg",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[*67].framer-zy3bkg",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[3].framer-1clqbso",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[3].framer-1clqbso",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-px28r7",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-px28r7",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[*28].framer-5tbqa9",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 350,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[*28].framer-5tbqa9",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing Tiers].framer-860xfj",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing Tiers].framer-860xfj",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-821pap-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-821pap-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-p3t551-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-p3t551-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-9zvobh-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-9zvobh-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      }
+    ],
+    "at1200ms": [
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-nh7ppu-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-nh7ppu-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-821pap-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-821pap-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-p3t551-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-p3t551-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-9zvobh-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 760,
+        "delay": 50,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Pricing].framer-9zvobh-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.013157894736842105,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02631578947368421,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.039473684210526314,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05263157894736842,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.06578947368421052,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "delay": 0,
+        "easing": "cubic-bezier(0.44, 0, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      }
+    ]
+  },
+  "scrollAnimations": [
+    {
+      "step": 2,
+      "anims": []
+    },
+    {
+      "step": 5,
+      "anims": []
+    }
+  ],
+  "navScrolled": {
+    "visibleTop": -12240,
+    "bg": "rgba(0, 0, 0, 0)",
+    "backdrop": "none",
+    "transform": "none"
+  },
+  "hoverNavLink": {
+    "before": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "transition": "all"
+    },
+    "after": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none"
+    }
+  },
+  "audit": {
+    "title": "Davies - OnePage Personal Portfolio Template for All",
+    "desc": "Showcase your work with Davies, a sleek one-page Framer portfolio template. Perfect for creatives, it features clean design, smooth interactions, and is fully responsive and easy to customize -  all in one elegant scroll.",
+    "bodyBg": "#000000",
+    "htmlBg": "#000000 @0",
+    "scrollHeight": 15841,
+    "textColors": [
+      "#666666 ×272",
+      "#ffffff ×193",
+      "#ffffff @0.64 ×60",
+      "#07c42c ×44",
+      "#000000 ×24",
+      "#ffffff @0.82 ×6",
+      "#0000ee ×1"
+    ],
+    "backgrounds": [
+      "#ffffff ×25",
+      "#ffffff @0.16 ×19",
+      "#000000 ×11",
+      "#07c42c ×6",
+      "#000000 @0.56 ×3",
+      "#000000 @0.2 ×3",
+      "#222222 ×2",
+      "#000000 @0.18 ×1",
+      "#000000 @0.1 ×1",
+      "#ffffff @0 ×1",
+      "#ffffff @0.32 ×1"
+    ],
+    "fonts": [
+      "Figtree 500 ×519",
+      "Figtree 400 ×70",
+      "sans-serif 400 ×11"
+    ],
+    "loadedFonts": [
+      "Figtree 500 italic (unloaded)",
+      "Figtree 500 italic (unloaded)",
+      "Figtree 700 italic (unloaded)",
+      "Figtree 700 italic (unloaded)",
+      "Figtree 400 normal (unloaded)",
+      "Figtree 400 normal (loaded)",
+      "Figtree 500 normal (unloaded)",
+      "Figtree 500 normal (loaded)",
+      "Figtree 600 normal (unloaded)",
+      "Figtree 600 normal (unloaded)",
+      "Figtree 700 normal (unloaded)",
+      "Figtree 700 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Figtree Placeholder normal normal (unloaded)",
+      "Inter Placeholder normal normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)"
+    ],
+    "radii": [
+      "10px ×24",
+      "8px ×18",
+      "100% ×14",
+      "50px ×3",
+      "50% ×3",
+      "40px ×2",
+      "11px ×2"
+    ],
+    "transitions": [
+      "background, box-shadow 0s ease ×5"
+    ],
+    "typeSample": {
+      "h1": {
+        "font": "Figtree",
+        "size": "72px",
+        "weight": "500",
+        "lh": "80px",
+        "ls": "-2.16px",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "Featured Products"
+      },
+      "h3": {
+        "font": "Figtree",
+        "size": "96px",
+        "weight": "500",
+        "lh": "108px",
+        "ls": "-2.88px",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "Selected Work"
+      },
+      "h4": {
+        "font": "Figtree",
+        "size": "200px",
+        "weight": "500",
+        "lh": "162px",
+        "ls": "-6px",
+        "tt": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "text": "davies_"
+      },
+      "p": {
+        "font": "Figtree",
+        "size": "8px",
+        "weight": "500",
+        "lh": "12px",
+        "ls": "-0.08px",
+        "tt": "uppercase",
+        "color": "rgba(255, 255, 255, 0.64)",
+        "text": "01 /"
+      },
+      "a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": ""
+      },
+      "nav a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": ""
+      },
+      "button": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": ""
+      },
+      "footer": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "Working GloballySitemapAboutWorksServicesContactSOCIALSTwitter (X)DribbleLinkedI"
+      }
+    },
+    "biggestText": {
+      "px": 200,
+      "font": "Figtree",
+      "weight": "500",
+      "lh": "162px",
+      "ls": "-6px",
+      "text": "davies_"
+    },
+    "sections": [
+      {
+        "name": "Video Background",
+        "y": 0,
+        "h": 733,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Hero",
+        "y": 116,
+        "h": 634,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Overlay",
+        "y": 116,
+        "h": 634,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0.1"
+      },
+      {
+        "name": "Container",
+        "y": 116,
+        "h": 634,
+        "w": 1340,
+        "padT": "190px",
+        "padB": "0px",
+        "maxW": "1340px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Works",
+        "y": 750,
+        "h": 3060,
+        "w": 1440,
+        "padT": "120px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000"
+      },
+      {
+        "name": "Container",
+        "y": 978,
+        "h": 2832,
+        "w": 1340,
+        "padT": "60px",
+        "padB": "0px",
+        "maxW": "1340px",
+        "bg": "#000000"
+      },
+      {
+        "name": "DEsktop",
+        "y": 1038,
+        "h": 900,
+        "w": 1310,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "DEsktop",
+        "y": 1974,
+        "h": 900,
+        "w": 1310,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "DEsktop",
+        "y": 2910,
+        "h": 900,
+        "w": 1310,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Featured Templates ",
+        "y": 3810,
+        "h": 948,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 3810,
+        "h": 948,
+        "w": 1340,
+        "padT": "180px",
+        "padB": "120px",
+        "maxW": "1340px",
+        "bg": "#000000"
+      },
+      {
+        "name": "Work Container",
+        "y": 4158,
+        "h": 480,
+        "w": 1310,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop ",
+        "y": 4158,
+        "h": 480,
+        "w": 1310,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Work Cards",
+        "y": 4158,
+        "h": 424,
+        "w": 1310,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Card Section",
+        "y": 4158,
+        "h": 424,
+        "w": 1310,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Services",
+        "y": 4758,
+        "h": 2310,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 4758,
+        "h": 2310,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Scroll Animation Container",
+        "y": 4758,
+        "h": 2310,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Sticky",
+        "y": 4758,
+        "h": 2310,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 4758,
+        "h": 2310,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "01",
+        "y": 4758,
+        "h": 770,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Service 1",
+        "y": 4758,
+        "h": 770,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 4758,
+        "h": 770,
+        "w": 1440,
+        "padT": "120px",
+        "padB": "120px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "BG Blur",
+        "y": 4758,
+        "h": 770,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0.56"
+      },
+      {
+        "name": "BG Image",
+        "y": 4758,
+        "h": 770,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Service Scroll",
+        "y": 4878,
+        "h": 530,
+        "w": 1340,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1340px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "2",
+        "y": 4878,
+        "h": 530,
+        "w": 1340,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop Service",
+        "y": 4878,
+        "h": 530,
+        "w": 1340,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "100%",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "02",
+        "y": 5528,
+        "h": 770,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Service 2",
+        "y": 5528,
+        "h": 770,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      }
+    ],
+    "nav": {
+      "name": "Desktop",
+      "position": "relative",
+      "top": "0px",
+      "bg": "#000000 @0",
+      "backdrop": "none",
+      "h": 116,
+      "transform": "none",
+      "transition": "all"
+    },
+    "fixedEls": [
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1310x900",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1310x900",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1310x900",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "01",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1440x770",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "02",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1440x770",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "03",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1440x770",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "2147483647",
+        "size": "1440x78",
+        "pe": "none",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "9999",
+        "size": "1440x900",
+        "pe": "none",
+        "mix": "normal"
+      }
+    ],
+    "hoverRules": [
+      "[data-framer-component-type=\"Text\"] a:hover, [data-framer-component-type=\"Text\"] { --font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family))); --font-style: var(--framer-link-hover-font-style,v }",
+      "a.framer-text:hover, a.framer-text:hover span.framer-text:not([data-text-fill]), { font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-blockquote-font-family,var(--framer }",
+      "a.framer-text:hover, span.framer-text[data-nested-link]:hover { color: var(--framer-link-hover-text-color,var(--framer-link-text-color,var(--framer-blockquote-text-color,var(--framer-text-color,#000)))); text-decoration-line }",
+      "code.framer-text a.framer-text:hover, code.framer-text span.framer-text[data-nes { color: var(--framer-link-hover-text-color,var(--framer-link-text-color,var(--framer-blockquote-text-color,var(--framer-code-text-color,var(--framer-text-color,# }",
+      "a.framer-text[data-framer-page-link-current]:hover, a.framer-text[data-framer-pa { color: inherit; font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-f }",
+      "a.framer-text[data-framer-page-link-current]:hover, span.framer-text[data-framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-text-color,#000)))); text-decoration-li }",
+      "code.framer-text a.framer-text[data-framer-page-link-current]:hover, code.framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-code-text-color,var(--framer-text-color }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a:hover, [data-framer-componen { font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeholder,sans-serif))); font-style: var(- }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a[data-framer-page-link-curren { font-family: var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeh }",
+      ".framer-form-text-input-clear:hover, .framer-form-text-input-clear:focus-visible { color: var(--framer-input-font-color); }"
+    ],
+    "hints": {
+      "canvas": [
+        "416x618",
+        "428x618"
+      ],
+      "video": 5,
+      "lenis": true,
+      "gsap": false,
+      "scrollTrigger": false,
+      "three": false,
+      "framerGlobals": [
+        "__framer_importFromPackage",
+        "__framer_events",
+        "__framer_editorBarDependencies",
+        "__send_framer_event"
+      ],
+      "scrollBehavior": "auto",
+      "bodyCursor": "auto",
+      "linkCursor": "pointer"
+    }
+  }
+}

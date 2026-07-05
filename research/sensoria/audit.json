@@ -1,0 +1,1489 @@
+{
+  "url": "https://sensoria.framer.website/",
+  "capturedAt": "2026-07-05T00:20:21.916Z",
+  "network": {
+    "desktop-1440": {
+      "scripts": [
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/framer.ByWyY-h3.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/gOg6yddoa.Be-pZM02.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/junyw11A_.CKmPPmgw.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Rob0cP1zQ.BGtROc8q.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/motion.BpOpkckM.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/vbTtQKoql.B5mJNyrf.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/RpSNshyci.CNhabwxS.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/WQgmZvDvc.DFFyrnX-.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Hl0aCKxQ2.0DhnI9oc.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/rolldown-runtime.OA-FSkXT.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/augiA20Il.JVGTydRa.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/YVifuIjgC.Dh8BfWHh.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Whu0PW0Nv.DH8Wj_Ei.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/rnB3k7kit.2-9lOrnd.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/pWqZhswD0.p7hHpPFo.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/P781BnbfZ.CDOylOUx.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/WeZXAMuVU.BwkEV58c.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Dc3p7KDa1.DqfZVynG.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/QiRlgLS9x.T7bXpnlh.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/QFlYSpPCdEXmeTbM0rvhWanDfU_jqobzAEhz7k60PME.AZ--ClZd.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/script_main.gHGsG0sa.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/shared-lib.BNyudeXw.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/react.BkOV1Kk9.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/PX9hIOIVM.Cnmhdk-S.mjs",
+        "https://framer.com/edit/init.mjs"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg.woff2",
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M.woff2",
+        "https://framerusercontent.com/assets/iwWTDc49ENF2tCHbqlNARXw6Ug.woff2",
+        "https://framerusercontent.com/assets/PfdOpgzFf7N2Uye9JX7xRKYTgSc.woff2",
+        "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2",
+        "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+        "https://framerusercontent.com/assets/bHYNJqzTyl2lqvmMiRRS6Y16Es.woff2"
+      ],
+      "other": []
+    },
+    "tablet-834": {
+      "scripts": [
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/RpSNshyci.CNhabwxS.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/QiRlgLS9x.T7bXpnlh.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/framer.ByWyY-h3.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/pWqZhswD0.p7hHpPFo.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/WeZXAMuVU.BwkEV58c.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/YVifuIjgC.Dh8BfWHh.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/react.BkOV1Kk9.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/rnB3k7kit.2-9lOrnd.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Hl0aCKxQ2.0DhnI9oc.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/augiA20Il.JVGTydRa.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Dc3p7KDa1.DqfZVynG.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Whu0PW0Nv.DH8Wj_Ei.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/P781BnbfZ.CDOylOUx.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/motion.BpOpkckM.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/junyw11A_.CKmPPmgw.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/rolldown-runtime.OA-FSkXT.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/gOg6yddoa.Be-pZM02.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/shared-lib.BNyudeXw.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/WQgmZvDvc.DFFyrnX-.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/QFlYSpPCdEXmeTbM0rvhWanDfU_jqobzAEhz7k60PME.AZ--ClZd.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/vbTtQKoql.B5mJNyrf.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/script_main.gHGsG0sa.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Rob0cP1zQ.BGtROc8q.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/PX9hIOIVM.Cnmhdk-S.mjs",
+        "https://framer.com/edit/init.mjs"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg.woff2",
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M.woff2",
+        "https://framerusercontent.com/assets/iwWTDc49ENF2tCHbqlNARXw6Ug.woff2",
+        "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+        "https://framerusercontent.com/assets/bHYNJqzTyl2lqvmMiRRS6Y16Es.woff2",
+        "https://framerusercontent.com/assets/PfdOpgzFf7N2Uye9JX7xRKYTgSc.woff2",
+        "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2"
+      ],
+      "other": []
+    },
+    "mobile-390": {
+      "scripts": [
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/QiRlgLS9x.T7bXpnlh.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/RpSNshyci.CNhabwxS.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/P781BnbfZ.CDOylOUx.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/WQgmZvDvc.DFFyrnX-.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/junyw11A_.CKmPPmgw.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/vbTtQKoql.B5mJNyrf.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Hl0aCKxQ2.0DhnI9oc.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/YVifuIjgC.Dh8BfWHh.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/WeZXAMuVU.BwkEV58c.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/QFlYSpPCdEXmeTbM0rvhWanDfU_jqobzAEhz7k60PME.AZ--ClZd.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Dc3p7KDa1.DqfZVynG.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/gOg6yddoa.Be-pZM02.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/framer.ByWyY-h3.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/pWqZhswD0.p7hHpPFo.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/motion.BpOpkckM.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Whu0PW0Nv.DH8Wj_Ei.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/react.BkOV1Kk9.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/shared-lib.BNyudeXw.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/augiA20Il.JVGTydRa.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/Rob0cP1zQ.BGtROc8q.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/rnB3k7kit.2-9lOrnd.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/rolldown-runtime.OA-FSkXT.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/script_main.gHGsG0sa.mjs",
+        "https://framerusercontent.com/sites/3T6sBhHKrQxIIYzgOV3tia/PX9hIOIVM.Cnmhdk-S.mjs",
+        "https://framer.com/edit/init.mjs"
+      ],
+      "fonts": [
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg.woff2",
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zAjjH7M.woff2",
+        "https://framerusercontent.com/assets/iwWTDc49ENF2tCHbqlNARXw6Ug.woff2",
+        "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+        "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2",
+        "https://framerusercontent.com/assets/PfdOpgzFf7N2Uye9JX7xRKYTgSc.woff2",
+        "https://framerusercontent.com/assets/bHYNJqzTyl2lqvmMiRRS6Y16Es.woff2"
+      ],
+      "other": []
+    }
+  },
+  "breakpoints": {
+    "tablet-834": {
+      "h1size": "140px",
+      "h1lh": "140px",
+      "scrollHeight": 14037
+    },
+    "mobile-390": {
+      "h1size": "64px",
+      "h1lh": "64px",
+      "scrollHeight": 15683
+    }
+  },
+  "entranceAnimations": {
+    "at400ms": [
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1700,
+        "delay": 1500,
+        "easing": "cubic-bezier(0, 1.07, 0.25, 0.98)",
+        "iterations": 1,
+        "target": "div.framer-122lxu4-container hidden-zja5ec h",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Year Visual].framer-1jqz5fp",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Year Visual].framer-1jqz5fp",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-1h9hge5",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-1h9hge5",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1300,
+        "delay": 1500,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Text].framer-2ddr3",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007692307692307693,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015384615384615385,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.023076923076923078,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03076923076923077,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.038461538461538464,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1300,
+        "delay": 1500,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Text].framer-2ddr3",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007692307692307693,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015384615384615385,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.023076923076923078,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03076923076923077,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.038461538461538464,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1500,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[H1].framer-b7uvx5",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1500,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[H1].framer-b7uvx5",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      }
+    ],
+    "at1200ms": [
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1700,
+        "delay": 1500,
+        "easing": "cubic-bezier(0, 1.07, 0.25, 0.98)",
+        "iterations": 1,
+        "target": "div.framer-122lxu4-container hidden-zja5ec h",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Year Visual].framer-1jqz5fp",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1800,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Year Visual].framer-1jqz5fp",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-1h9hge5",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1700,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-1h9hge5",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 1300,
+        "delay": 1500,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Text].framer-2ddr3",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007692307692307693,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015384615384615385,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.023076923076923078,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03076923076923077,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.038461538461538464,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1500,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[H1].framer-b7uvx5",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1320,
+        "delay": 1500,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[H1].framer-b7uvx5",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.007575757575757576,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015151515151515152,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.022727272727272728,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.030303030303030304,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03787878787878788,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1800,
+        "easing": "linear(0 0%, 0.0154 0.8403361344537815%, 0.0481 1.680672268907563%, 0.0869 2.5210084033613445%, 0.1271 3.3613445378151257%, 0.1667 4.201680672268907%, 0.2051 5.042016806722688%, 0.242 5.882352941176469%, 0.2772 6.72268907563025%, 0.3108 7.563025210084032%, 0.3429 8.403361344537814%, 0.3735 9.243697478991596%, 0.4027 10.084033613445378%, 0.4305 10.92436974789916%, 0.457 11.764705882352942%, 0.4823 12.605042016806724%, 0.5064 13.445378151260506%, 0.5294 14.285714285714288%, 0.5513 15.12605042016807%, 0.5722 15.966386554621852%, 0.5922 16.806722689075634%, 0.6112 17.647058823529417%, 0.6293 18.4873949579832%, 0.6465 19.32773109243698%, 0.663 20.168067226890763%, 0.6787 21.008403361344545%, 0.6937 21.848739495798327%, 0.7079 22.68907563025211%, 0.7215 23.52941176470589%, 0.7345 24.369747899159673%, 0.7469 25.210084033613455%, 0.7587 26.050420168067237%, 0.7699 26.89075630252102%, 0.7806 27.7310924369748%, 0.7908 28.571428571428584%, 0.8006 29.411764705882366%, 0.8099 30.252100840336148%, 0.8187 31.09243697478993%, 0.8272 31.932773109243712%, 0.8352 32.77310924369749%, 0.8429 33.61344537815127%, 0.8502 34.45378151260505%, 0.8572 35.294117647058826%, 0.8638 36.134453781512605%, 0.8702 36.97478991596638%, 0.8762 37.81512605042016%, 0.882 38.65546218487394%, 0.8875 39.49579831932772%, 0.8927 40.3361344537815%, 0.8977 41.176470588235276%, 0.9025 42.016806722689054%, 0.907 42.85714285714283%, 0.9114 43.69747899159661%, 0.9155 44.53781512605039%, 0.9194 45.37815126050417%, 0.9232 46.21848739495795%, 0.9268 47.058823529411725%, 0.9302 47.89915966386551%, 0.9334 48.7394957983193%, 0.9365 49.579831932773075%, 0.9395 50.420168067226854%, 0.9423 51.26050420168064%, 0.945 52.100840336134425%, 0.9476 52.9411764705882%, 0.95 53.78151260504198%, 0.9523 54.62184873949577%, 0.9545 55.46218487394955%, 0.9567 56.30252100840333%, 0.9587 57.14285714285711%, 0.9606 57.983193277310896%, 0.9624 58.82352941176468%, 0.9642 59.66386554621846%, 0.9659 60.50420168067224%, 0.9674 61.344537815126024%, 0.969 62.18487394957981%, 0.9704 63.02521008403359%, 0.9718 63.86554621848737%, 0.9731 64.70588235294115%, 0.9744 65.54621848739492%, 0.9755 66.3865546218487%, 0.9767 67.22689075630248%, 0.9778 68.06722689075626%, 0.9788 68.90756302521004%, 0.9798 69.74789915966382%, 0.9807 70.5882352941176%, 0.9816 71.42857142857137%, 0.9825 72.26890756302515%, 0.9833 73.10924369747893%, 0.9841 73.94957983193271%, 0.9848 74.78991596638649%, 0.9855 75.63025210084027%, 0.9862 76.47058823529404%, 0.9868 77.31092436974782%, 0.9875 78.1512605042016%, 0.988 78.99159663865538%, 0.9886 79.83193277310916%, 0.9891 80.67226890756294%, 0.9896 81.51260504201672%, 0.9901 82.3529411764705%, 0.9906 83.19327731092429%, 0.991 84.03361344537808%, 0.9914 84.87394957983186%, 0.9918 85.71428571428564%, 0.9922 86.55462184873943%, 0.9926 87.39495798319322%, 0.9929 88.235294117647%, 0.9933 89.07563025210078%, 0.9936 89.91596638655457%, 0.9939 90.75630252100837%, 0.9942 91.59663865546214%, 0.9944 92.43697478991592%, 0.9947 93.27731092436971%, 0.9949 94.11764705882351%, 0.9952 94.95798319327729%, 0.9954 95.79831932773106%, 0.9956 96.63865546218486%, 1 97.47899159663865%, 1 98.31932773109243%, 1 99.15966386554621%, 1 100%)",
+        "iterations": 1,
+        "target": "div[Year Visual].framer-1jqz5fp",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1700,
+        "easing": "linear(0 0%, 0.0154 0.8403361344537815%, 0.0481 1.680672268907563%, 0.0869 2.5210084033613445%, 0.1271 3.3613445378151257%, 0.1667 4.201680672268907%, 0.2051 5.042016806722688%, 0.242 5.882352941176469%, 0.2772 6.72268907563025%, 0.3108 7.563025210084032%, 0.3429 8.403361344537814%, 0.3735 9.243697478991596%, 0.4027 10.084033613445378%, 0.4305 10.92436974789916%, 0.457 11.764705882352942%, 0.4823 12.605042016806724%, 0.5064 13.445378151260506%, 0.5294 14.285714285714288%, 0.5513 15.12605042016807%, 0.5722 15.966386554621852%, 0.5922 16.806722689075634%, 0.6112 17.647058823529417%, 0.6293 18.4873949579832%, 0.6465 19.32773109243698%, 0.663 20.168067226890763%, 0.6787 21.008403361344545%, 0.6937 21.848739495798327%, 0.7079 22.68907563025211%, 0.7215 23.52941176470589%, 0.7345 24.369747899159673%, 0.7469 25.210084033613455%, 0.7587 26.050420168067237%, 0.7699 26.89075630252102%, 0.7806 27.7310924369748%, 0.7908 28.571428571428584%, 0.8006 29.411764705882366%, 0.8099 30.252100840336148%, 0.8187 31.09243697478993%, 0.8272 31.932773109243712%, 0.8352 32.77310924369749%, 0.8429 33.61344537815127%, 0.8502 34.45378151260505%, 0.8572 35.294117647058826%, 0.8638 36.134453781512605%, 0.8702 36.97478991596638%, 0.8762 37.81512605042016%, 0.882 38.65546218487394%, 0.8875 39.49579831932772%, 0.8927 40.3361344537815%, 0.8977 41.176470588235276%, 0.9025 42.016806722689054%, 0.907 42.85714285714283%, 0.9114 43.69747899159661%, 0.9155 44.53781512605039%, 0.9194 45.37815126050417%, 0.9232 46.21848739495795%, 0.9268 47.058823529411725%, 0.9302 47.89915966386551%, 0.9334 48.7394957983193%, 0.9365 49.579831932773075%, 0.9395 50.420168067226854%, 0.9423 51.26050420168064%, 0.945 52.100840336134425%, 0.9476 52.9411764705882%, 0.95 53.78151260504198%, 0.9523 54.62184873949577%, 0.9545 55.46218487394955%, 0.9567 56.30252100840333%, 0.9587 57.14285714285711%, 0.9606 57.983193277310896%, 0.9624 58.82352941176468%, 0.9642 59.66386554621846%, 0.9659 60.50420168067224%, 0.9674 61.344537815126024%, 0.969 62.18487394957981%, 0.9704 63.02521008403359%, 0.9718 63.86554621848737%, 0.9731 64.70588235294115%, 0.9744 65.54621848739492%, 0.9755 66.3865546218487%, 0.9767 67.22689075630248%, 0.9778 68.06722689075626%, 0.9788 68.90756302521004%, 0.9798 69.74789915966382%, 0.9807 70.5882352941176%, 0.9816 71.42857142857137%, 0.9825 72.26890756302515%, 0.9833 73.10924369747893%, 0.9841 73.94957983193271%, 0.9848 74.78991596638649%, 0.9855 75.63025210084027%, 0.9862 76.47058823529404%, 0.9868 77.31092436974782%, 0.9875 78.1512605042016%, 0.988 78.99159663865538%, 0.9886 79.83193277310916%, 0.9891 80.67226890756294%, 0.9896 81.51260504201672%, 0.9901 82.3529411764705%, 0.9906 83.19327731092429%, 0.991 84.03361344537808%, 0.9914 84.87394957983186%, 0.9918 85.71428571428564%, 0.9922 86.55462184873943%, 0.9926 87.39495798319322%, 0.9929 88.235294117647%, 0.9933 89.07563025210078%, 0.9936 89.91596638655457%, 0.9939 90.75630252100837%, 0.9942 91.59663865546214%, 0.9944 92.43697478991592%, 0.9947 93.27731092436971%, 0.9949 94.11764705882351%, 0.9952 94.95798319327729%, 0.9954 95.79831932773106%, 0.9956 96.63865546218486%, 1 97.47899159663865%, 1 98.31932773109243%, 1 99.15966386554621%, 1 100%)",
+        "iterations": 1,
+        "target": "div.framer-1h9hge5",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      }
+    ]
+  },
+  "scrollAnimations": [
+    {
+      "step": 2,
+      "anims": []
+    },
+    {
+      "step": 5,
+      "anims": []
+    }
+  ],
+  "navScrolled": {
+    "visibleTop": -40,
+    "bg": "rgba(18, 18, 18, 0)",
+    "backdrop": "none",
+    "transform": "none"
+  },
+  "hoverNavLink": {
+    "before": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "transition": "all"
+    },
+    "after": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none"
+    }
+  },
+  "audit": {
+    "title": "Sensoria — AI Beauty & Skin Analysis",
+    "desc": "Template for AI beauty and skincare products. Designed to present analysis, features, and product flows with clarity through structured pages and a consistent visual system.",
+    "bodyBg": "#111111",
+    "htmlBg": "#000000 @0",
+    "scrollHeight": 12572,
+    "textColors": [
+      "#ffffff ×132",
+      "#0a0a0a ×41",
+      "#f5699c ×21",
+      "#ffffff @0.8 ×17",
+      "#000000 ×11",
+      "#0000ee ×1"
+    ],
+    "backgrounds": [
+      "#ffffff ×53",
+      "#0a0a0a ×25",
+      "#f5699c ×11",
+      "#111111 ×9",
+      "#222222 ×6",
+      "#000000 ×2",
+      "#121212 @0 ×1",
+      "#ffffff @0.4 ×1",
+      "#ffffff @0.04 ×1"
+    ],
+    "fonts": [
+      "Inter Display 500 ×191",
+      "sans-serif 400 ×12",
+      "Instrument Serif 400 ×11",
+      "Inter Display 400 ×6",
+      "Inter Display 600 ×2",
+      "Inter Display 700 ×1"
+    ],
+    "loadedFonts": [
+      "Instrument Serif 400 italic (unloaded)",
+      "Instrument Serif 400 italic (loaded)",
+      "Instrument Serif 400 normal (unloaded)",
+      "Instrument Serif 400 normal (loaded)",
+      "Fragment Mono 400 normal (unloaded)",
+      "Fragment Mono 400 normal (unloaded)",
+      "Fragment Mono 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (loaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 500 normal (loaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (loaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 600 normal (loaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 normal (loaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 900 normal (unloaded)",
+      "Inter Display 900 normal (unloaded)",
+      "Inter Display 900 normal (unloaded)",
+      "Inter Display 900 normal (unloaded)",
+      "Inter Display 900 normal (unloaded)",
+      "Inter Display 900 normal (unloaded)",
+      "Inter Display 900 normal (unloaded)",
+      "Inter Display 900 italic (unloaded)",
+      "Inter Display 900 italic (unloaded)",
+      "Inter Display 900 italic (unloaded)",
+      "Inter Display 900 italic (unloaded)",
+      "Inter Display 900 italic (unloaded)",
+      "Inter Display 900 italic (unloaded)",
+      "Inter Display 900 italic (unloaded)",
+      "Inter Display 600 italic (unloaded)",
+      "Inter Display 600 italic (unloaded)",
+      "Inter Display 600 italic (unloaded)",
+      "Inter Display 600 italic (unloaded)",
+      "Inter Display 600 italic (unloaded)",
+      "Inter Display 600 italic (unloaded)",
+      "Inter Display 600 italic (unloaded)",
+      "Instrument Serif Placeholder normal normal (error)",
+      "Inter Placeholder normal normal (unloaded)",
+      "Inter Display Placeholder normal normal (error)"
+    ],
+    "radii": [
+      "100px ×61",
+      "16px ×47",
+      "12px ×14",
+      "8px ×6",
+      "14px ×5",
+      "2px ×3",
+      "50px ×3",
+      "24px ×2",
+      "40px ×2",
+      "10px ×2",
+      "11px ×2",
+      "32px 32px 0px 0px ×1",
+      "50% ×1"
+    ],
+    "transitions": [
+      "color 0.4s cubic-bezier(0.44, 0, 0.56, 1) ×6",
+      "background, box-shadow 0s ease ×4"
+    ],
+    "typeSample": {
+      "h1": {
+        "font": "Inter Display",
+        "size": "190px",
+        "weight": "700",
+        "lh": "190px",
+        "ls": "-7.6px",
+        "tt": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "text": "Sensoria"
+      },
+      "h2": {
+        "font": "Inter Display",
+        "size": "80px",
+        "weight": "500",
+        "lh": "80px",
+        "ls": "-3.2px",
+        "tt": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "text": "Smart analysis That adapts"
+      },
+      "h3": {
+        "font": "Inter Display",
+        "size": "40px",
+        "weight": "500",
+        "lh": "48px",
+        "ls": "-0.8px",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "$19"
+      },
+      "h4": {
+        "font": "Inter Display",
+        "size": "32px",
+        "weight": "500",
+        "lh": "38.4px",
+        "ls": "-0.64px",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "Intelligent neuro-beauty"
+      },
+      "p": {
+        "font": "Instrument Serif",
+        "size": "28px",
+        "weight": "400",
+        "lh": "36px",
+        "ls": "-0.8px",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "Sensoria"
+      },
+      "a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": "Sensoria"
+      },
+      "nav a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": "Sensoria"
+      },
+      "button": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "Get feedbackGet feedback"
+      },
+      "footer": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "Sensoria           Sensoria combines advanced neural mapping with personalized s"
+      }
+    },
+    "biggestText": {
+      "px": 190,
+      "font": "Inter Display",
+      "weight": "700",
+      "lh": "190px",
+      "ls": "-7.6px",
+      "text": "Sensoria"
+    },
+    "sections": [
+      {
+        "name": "Finish",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Background",
+        "y": -1400,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "BG",
+        "y": -1400,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#111111"
+      },
+      {
+        "name": "Main",
+        "y": 0,
+        "h": 10664,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Hero",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "40px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Heading",
+        "y": 380,
+        "h": 480,
+        "w": 1360,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "About Us",
+        "y": 900,
+        "h": 1068,
+        "w": 1440,
+        "padT": "200px",
+        "padB": "120px",
+        "maxW": "none",
+        "bg": "#111111"
+      },
+      {
+        "name": "Content",
+        "y": 1100,
+        "h": 748,
+        "w": 1320,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1320px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "2",
+        "y": 1100,
+        "h": 748,
+        "w": 988,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Cards",
+        "y": 1453,
+        "h": 395,
+        "w": 988,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Analysis",
+        "y": 1968,
+        "h": 1252,
+        "w": 1320,
+        "padT": "120px",
+        "padB": "120px",
+        "maxW": "1320px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 2088,
+        "h": 1012,
+        "w": 1240,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 2232,
+        "h": 700,
+        "w": 1240,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#111111"
+      },
+      {
+        "name": "Concept",
+        "y": 3219,
+        "h": 3292,
+        "w": 1440,
+        "padT": "120px",
+        "padB": "120px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 3339,
+        "h": 900,
+        "w": 1440,
+        "padT": "120px",
+        "padB": "120px",
+        "maxW": "none",
+        "bg": "#f5699c"
+      },
+      {
+        "name": "Visual",
+        "y": 4317,
+        "h": 1276,
+        "w": 1486,
+        "padT": "64px",
+        "padB": "64px",
+        "maxW": "1320px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 4368,
+        "h": 1146,
+        "w": 1325,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Spacing",
+        "y": 5527,
+        "h": 864,
+        "w": 1440,
+        "padT": "120px",
+        "padB": "120px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "How it Works",
+        "y": 6511,
+        "h": 983,
+        "w": 1320,
+        "padT": "120px",
+        "padB": "120px",
+        "maxW": "1320px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 6631,
+        "h": 743,
+        "w": 1240,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Results",
+        "y": 7495,
+        "h": 904,
+        "w": 1320,
+        "padT": "120px",
+        "padB": "120px",
+        "maxW": "1320px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 7615,
+        "h": 664,
+        "w": 1240,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 7759,
+        "h": 520,
+        "w": 1240,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Pricing",
+        "y": 8399,
+        "h": 1315,
+        "w": 1320,
+        "padT": "120px",
+        "padB": "120px",
+        "maxW": "1320px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 8519,
+        "h": 1075,
+        "w": 1240,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop Monthly",
+        "y": 8743,
+        "h": 588,
+        "w": 1240,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Cards",
+        "y": 8837,
+        "h": 493,
+        "w": 1240,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Pricing Cards",
+        "y": 8837,
+        "h": 493,
+        "w": 928,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "FAQ",
+        "y": 9714,
+        "h": 950,
+        "w": 1320,
+        "padT": "120px",
+        "padB": "120px",
+        "maxW": "1320px",
+        "bg": "#000000 @0"
+      }
+    ],
+    "nav": {
+      "name": "Desktop & Tablet Close",
+      "position": "relative",
+      "top": "0px",
+      "bg": "#121212 @0",
+      "backdrop": "none",
+      "h": 76,
+      "transform": "none",
+      "transition": "all"
+    },
+    "fixedEls": [
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "10",
+        "size": "1440x76",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "10",
+        "size": "1440x900",
+        "pe": "none",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Content",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1440x900",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "2147483647",
+        "size": "1440x78",
+        "pe": "none",
+        "mix": "normal"
+      }
+    ],
+    "hoverRules": [
+      "[data-framer-component-type=\"Text\"] a:hover, [data-framer-component-type=\"Text\"] { --font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family))); --font-style: var(--framer-link-hover-font-style,v }",
+      "a.framer-text:hover, a.framer-text:hover span.framer-text:not([data-text-fill]), { font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-blockquote-font-family,var(--framer-link-font-family,var(--framer }",
+      "a.framer-text:hover, span.framer-text[data-nested-link]:hover { color: var(--framer-link-hover-text-color,var(--framer-blockquote-text-color,var(--framer-link-text-color,var(--framer-text-color,#000)))); text-decoration-line }",
+      "code.framer-text a.framer-text:hover, code.framer-text span.framer-text[data-nes { color: var(--framer-link-hover-text-color,var(--framer-blockquote-text-color,var(--framer-link-text-color,var(--framer-code-text-color,var(--framer-text-color,# }",
+      "a.framer-text[data-framer-page-link-current]:hover, a.framer-text[data-framer-pa { color: inherit; font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-f }",
+      "a.framer-text[data-framer-page-link-current]:hover, span.framer-text[data-framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-text-color,#000)))); text-decoration-li }",
+      "code.framer-text a.framer-text[data-framer-page-link-current]:hover, code.framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-code-text-color,var(--framer-text-color }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a:hover, [data-framer-componen { font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeholder,sans-serif))); font-style: var(- }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a[data-framer-page-link-curren { font-family: var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeh }",
+      ".framer-form-text-input-clear:hover, .framer-form-text-input-clear:focus-visible { color: var(--framer-input-font-color); }"
+    ],
+    "hints": {
+      "canvas": [
+        "1728x1080"
+      ],
+      "video": 2,
+      "lenis": true,
+      "gsap": false,
+      "scrollTrigger": false,
+      "three": false,
+      "framerGlobals": [
+        "__send_framer_event",
+        "__framer_events",
+        "__framer_importFromPackage",
+        "__framer_editorBarDependencies"
+      ],
+      "scrollBehavior": "auto",
+      "bodyCursor": "auto",
+      "linkCursor": "pointer"
+    }
+  }
+}

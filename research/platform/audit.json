@@ -1,0 +1,2442 @@
+{
+  "url": "https://plat-form.framer.ai/",
+  "capturedAt": "2026-07-05T00:18:21.108Z",
+  "network": {
+    "desktop-1440": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/react.0EVq1YFU.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/EGOUgumHa.DFB7sGtR.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/kpAqrq8WH.DGNoF_o0.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/shared-lib.DVlzvAdf.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/rolldown-runtime.uxh0A31G.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/KVJdnPRNf.Bz3y-orr.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/yUfMnXqHo.C_4jHcgp.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/rPMKgXBsx.DvtBwFBb.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/motion.DfTNbaR_.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/kNS64m6YL.CrSD8kh6.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/MDCvBLMG6.D2OXVzzf.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/AtkNg2tfq.BgprdVk3.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/yZ7QiXJJI.CO2ss3uW.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/yBPuUvLu6._iFyZnNx.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/FlexibleLogo.CpzJojYH.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/wmrxM9YsQ.BTOAiiI_.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/script_main.D-3mFOuk.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/augiA20Il.CJPKuBJx.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/rvqpWO7uc.D_ESBb8t.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/Video.D0hY3rPo.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/vGJZ4jIEv.rQ0Y2MWD.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/TDkRKM7CA.CLDb-CjS.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/n_HEhO3LE.BDjhjOvd.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/OxeFM45RQ.BszW876S.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/framer.BsD4gbxu.mjs"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/assets/8yoV9pUxquX7VD7ZXlNYKQmkmk.woff2",
+        "https://framerusercontent.com/assets/dHHUz45rhM2KCQpj9zttNVlibk.woff2",
+        "https://framerusercontent.com/assets/nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2",
+        "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2",
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://framerusercontent.com/assets/djqIk3Er2JcAcz7Rup88BdINEw.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    },
+    "tablet-834": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/rvqpWO7uc.D_ESBb8t.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/react.0EVq1YFU.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/KVJdnPRNf.Bz3y-orr.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/augiA20Il.CJPKuBJx.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/yUfMnXqHo.C_4jHcgp.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/TDkRKM7CA.CLDb-CjS.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/n_HEhO3LE.BDjhjOvd.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/kNS64m6YL.CrSD8kh6.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/yZ7QiXJJI.CO2ss3uW.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/motion.DfTNbaR_.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/Video.D0hY3rPo.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/wmrxM9YsQ.BTOAiiI_.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/EGOUgumHa.DFB7sGtR.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/shared-lib.DVlzvAdf.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/yBPuUvLu6._iFyZnNx.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/FlexibleLogo.CpzJojYH.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/AtkNg2tfq.BgprdVk3.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/vGJZ4jIEv.rQ0Y2MWD.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/MDCvBLMG6.D2OXVzzf.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/rPMKgXBsx.DvtBwFBb.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/framer.BsD4gbxu.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/rolldown-runtime.uxh0A31G.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/kpAqrq8WH.DGNoF_o0.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/script_main.D-3mFOuk.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/OxeFM45RQ.BszW876S.mjs"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://framerusercontent.com/assets/dHHUz45rhM2KCQpj9zttNVlibk.woff2",
+        "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2",
+        "https://framerusercontent.com/assets/nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2",
+        "https://framerusercontent.com/assets/djqIk3Er2JcAcz7Rup88BdINEw.woff2",
+        "https://framerusercontent.com/assets/8yoV9pUxquX7VD7ZXlNYKQmkmk.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    },
+    "mobile-390": {
+      "scripts": [
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/rvqpWO7uc.D_ESBb8t.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/yZ7QiXJJI.CO2ss3uW.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/TDkRKM7CA.CLDb-CjS.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/kNS64m6YL.CrSD8kh6.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/Video.D0hY3rPo.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/OxeFM45RQ.BszW876S.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/MDCvBLMG6.D2OXVzzf.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/yUfMnXqHo.C_4jHcgp.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/wmrxM9YsQ.BTOAiiI_.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/rPMKgXBsx.DvtBwFBb.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/KVJdnPRNf.Bz3y-orr.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/AtkNg2tfq.BgprdVk3.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/kpAqrq8WH.DGNoF_o0.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/react.0EVq1YFU.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/motion.DfTNbaR_.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/EGOUgumHa.DFB7sGtR.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/rolldown-runtime.uxh0A31G.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/FlexibleLogo.CpzJojYH.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/vGJZ4jIEv.rQ0Y2MWD.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/n_HEhO3LE.BDjhjOvd.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/shared-lib.DVlzvAdf.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/framer.BsD4gbxu.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/augiA20Il.CJPKuBJx.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/yBPuUvLu6._iFyZnNx.mjs",
+        "https://framerusercontent.com/sites/6Uf4zCniZSgDu9fGkgqoth/WnYd37bS1diBohAzQn3r26zpO6s0vWrazMlaa48Jr5M.DKz7aOHC.mjs"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://framerusercontent.com/assets/dHHUz45rhM2KCQpj9zttNVlibk.woff2",
+        "https://framerusercontent.com/assets/8yoV9pUxquX7VD7ZXlNYKQmkmk.woff2",
+        "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2",
+        "https://framerusercontent.com/assets/nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2",
+        "https://framerusercontent.com/assets/djqIk3Er2JcAcz7Rup88BdINEw.woff2"
+      ],
+      "other": [
+        "https://unpkg.com/lenis@1.3.23/dist/lenis.css"
+      ]
+    }
+  },
+  "breakpoints": {
+    "tablet-834": {
+      "h1size": "80px",
+      "h1lh": "72px",
+      "scrollHeight": 21504
+    },
+    "mobile-390": {
+      "h1size": "54px",
+      "h1lh": "48.6px",
+      "scrollHeight": 28097
+    }
+  },
+  "entranceAnimations": {
+    "at400ms": [
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1400,
+        "delay": 0,
+        "easing": "cubic-bezier(0.01, 1.04, 0.5, 0.96)",
+        "iterations": 1,
+        "target": "div.framer-mjbvgi-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 100,
+        "easing": "cubic-bezier(0.1, 0.79, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-1vdcpep-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 300,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Line 1].framer-foly90",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 300,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Line 1].framer-foly90",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Line 2].framer-87c4dy",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 400,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Line 2].framer-87c4dy",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 500,
+        "easing": "cubic-bezier(0.6, 0, 0.38, 1.01)",
+        "iterations": 1,
+        "target": "div[Headline].framer-1en38ni",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 500,
+        "easing": "cubic-bezier(0.6, 0, 0.38, 1.01)",
+        "iterations": 1,
+        "target": "div[Headline].framer-1en38ni",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 700,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Title].framer-41hjf4",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 900,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Subtitle].framer-127eccj",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 1000,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Line].framer-1qkosdm hidden-70r68q",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 900,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-halasv-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 900,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-halasv-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 700,
+        "delay": 1100,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Stat 1].framer-16t3bt4",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 700,
+        "delay": 1100,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Stat 1].framer-16t3bt4",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 700,
+        "delay": 1200,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Stat 2].framer-a0ylm8",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 700,
+        "delay": 1200,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Stat 2].framer-a0ylm8",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1400,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-1obldgf-container hidden-70r68q",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1400,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-1obldgf-container hidden-70r68q",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 0,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Digital].framer-189wi1k",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.04,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 0,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Digital].framer-189wi1k",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.04,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 0,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Office].framer-1xdpdyn",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.04,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 0,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Office].framer-1xdpdyn",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.04,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 0,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Address].framer-in8yq8",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.03,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.04,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 0,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Address].framer-in8yq8",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.03,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.04,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.05,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 6000,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[New Arrival - DELETE ME].framer-1vmq0z0-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 6000,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[New Arrival - DELETE ME].framer-1vmq0z0-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 300,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Desktop].framer-S2vmp framer-1leyfwu framer-v-1le",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 300,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Desktop].framer-S2vmp framer-1leyfwu framer-v-1le",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 2000,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-9zt9i5-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 2000,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-9zt9i5-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      }
+    ],
+    "at1200ms": [
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 100,
+        "easing": "cubic-bezier(0.1, 0.79, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-1vdcpep-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 700,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Title].framer-41hjf4",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 900,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Subtitle].framer-127eccj",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 1000,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Line].framer-1qkosdm hidden-70r68q",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 900,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-halasv-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "delay": 900,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-halasv-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 700,
+        "delay": 1100,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Stat 1].framer-16t3bt4",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 700,
+        "delay": 1100,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Stat 1].framer-16t3bt4",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 700,
+        "delay": 1200,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Stat 2].framer-a0ylm8",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 700,
+        "delay": 1200,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div[Stat 2].framer-a0ylm8",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1400,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-1obldgf-container hidden-70r68q",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1200,
+        "delay": 1400,
+        "easing": "cubic-bezier(0, 1.03, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-1obldgf-container hidden-70r68q",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 6000,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[New Arrival - DELETE ME].framer-1vmq0z0-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 6000,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[New Arrival - DELETE ME].framer-1vmq0z0-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 300,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Desktop].framer-S2vmp framer-1leyfwu framer-v-1le",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 300,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div[Desktop].framer-S2vmp framer-1leyfwu framer-v-1le",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 2000,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-9zt9i5-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 2000,
+        "easing": "linear",
+        "iterations": 1,
+        "target": "div.framer-9zt9i5-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.005,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.01,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.015,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.02,
+            "easing": "linear",
+            "props": "transform"
+          },
+          {
+            "offset": 0.025,
+            "easing": "linear",
+            "props": "transform"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 100,
+        "easing": "cubic-bezier(0.1, 0.79, 0.56, 1)",
+        "iterations": 1,
+        "target": "div.framer-1vdcpep-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 6000,
+        "easing": "linear(0 0%, 0.001 0.5025125628140703%, 0.0039 1.0050251256281406%, 0.0085 1.507537688442211%, 0.0148 2.0100502512562812%, 0.0226 2.5125628140703515%, 0.0318 3.015075376884422%, 0.0422 3.517587939698492%, 0.0538 4.0201005025125625%, 0.0665 4.522613065326633%, 0.0801 5.025125628140703%, 0.0946 5.527638190954773%, 0.1098 6.030150753768844%, 0.1257 6.532663316582914%, 0.1423 7.035175879396984%, 0.1594 7.537688442211055%, 0.1769 8.040201005025125%, 0.1949 8.542713567839195%, 0.2132 9.045226130653266%, 0.2317 9.547738693467336%, 0.2505 10.050251256281406%, 0.2694 10.552763819095476%, 0.2885 11.055276381909547%, 0.3076 11.557788944723617%, 0.3268 12.060301507537687%, 0.3459 12.562814070351758%, 0.365 13.065326633165828%, 0.3841 13.567839195979898%, 0.403 14.070351758793969%, 0.4217 14.572864321608039%, 0.4403 15.07537688442211%, 0.4587 15.57788944723618%, 0.4769 16.08040201005025%, 0.4949 16.58291457286432%, 0.5125 17.085427135678387%, 0.53 17.58793969849246%, 0.5471 18.09045226130653%, 0.5639 18.592964824120603%, 0.5804 19.095477386934675%, 0.5966 19.597989949748744%, 0.6125 20.100502512562812%, 0.628 20.603015075376884%, 0.6431 21.105527638190956%, 0.6579 21.60804020100503%, 0.6724 22.1105527638191%, 0.6865 22.61306532663317%, 0.7002 23.115577889447238%, 0.7135 23.618090452261306%, 0.7265 24.12060301507538%, 0.7391 24.62311557788945%, 0.7514 25.12562814070352%, 0.7633 25.628140703517587%, 0.7748 26.130653266331656%, 0.786 26.633165829145728%, 0.7968 27.1356783919598%, 0.8072 27.63819095477387%, 0.8173 28.140703517587937%, 0.8271 28.64321608040201%, 0.8365 29.14572864321608%, 0.8456 29.648241206030153%, 0.8544 30.150753768844226%, 0.8628 30.653266331658294%, 0.8709 31.155778894472363%, 0.8787 31.65829145728643%, 0.8862 32.1608040201005%, 0.8934 32.66331658291457%, 0.9003 33.16582914572864%, 0.9069 33.668341708542705%, 0.9133 34.170854271356774%, 0.9193 34.67336683417084%, 0.9251 35.17587939698491%, 0.9307 35.67839195979898%, 0.936 36.18090452261305%, 0.941 36.683417085427116%, 0.9459 37.185929648241185%, 0.9504 37.68844221105525%, 0.9548 38.19095477386932%, 0.959 38.69346733668339%, 0.9629 39.19597989949746%, 0.9666 39.69849246231153%, 0.9702 40.201005025125596%, 0.9735 40.703517587939665%, 0.9767 41.20603015075373%, 0.9797 41.7085427135678%, 0.9825 42.21105527638187%, 0.9852 42.71356783919594%, 0.9877 43.21608040201001%, 0.9901 43.718592964824076%, 0.9923 44.221105527638144%, 0.9944 44.72361809045221%, 0.9963 45.22613065326628%, 0.9981 45.72864321608035%, 0.9998 46.23115577889442%, 1.0014 46.73366834170849%, 1.0028 47.236180904522556%, 1.0042 47.738693467336624%, 1.0054 48.24120603015069%, 1.0066 48.74371859296476%, 1.0077 49.24623115577883%, 1.0086 49.7487437185929%, 1.0095 50.25125628140697%, 1.0103 50.753768844221035%, 1.011 51.256281407035104%, 1.0117 51.75879396984917%, 1.0123 52.26130653266324%, 1.0128 52.76381909547731%, 1.0133 53.26633165829138%, 1.0137 53.76884422110545%, 1.014 54.271356783919515%, 1.0143 54.77386934673358%, 1.0146 55.27638190954765%, 1.0148 55.77889447236172%, 1.0149 56.28140703517579%, 1.015 56.78391959798986%, 1.0151 57.286432160803926%, 1.0152 57.788944723617995%, 1.0152 58.29145728643206%, 1.0151 58.79396984924613%, 1.0151 59.2964824120602%, 1.015 59.79899497487427%, 1.0149 60.30150753768834%, 1.0148 60.804020100502406%, 1.0147 61.306532663316474%, 1.0145 61.80904522613054%, 1.0143 62.31155778894461%, 1.0141 62.81407035175868%, 1.0139 63.31658291457275%, 1.0137 63.81909547738682%, 1.0135 64.32160804020089%, 1.0132 64.82412060301496%, 1.013 65.32663316582904%, 1.0127 65.82914572864311%, 1.0124 66.33165829145719%, 1.0122 66.83417085427126%, 1.0119 67.33668341708534%, 1.0116 67.83919597989942%, 1.0113 68.34170854271349%, 1.011 68.84422110552757%, 1.0107 69.34673366834164%, 1.0105 69.84924623115572%, 1.0102 70.3517587939698%, 1.0099 70.85427135678387%, 1.0096 71.35678391959794%, 1.0093 71.85929648241202%, 1.009 72.3618090452261%, 1.0087 72.86432160804017%, 1.0084 73.36683417085425%, 1.0082 73.86934673366832%, 1.0079 74.3718592964824%, 1.0076 74.87437185929647%, 1.0074 75.37688442211055%, 1.0071 75.87939698492463%, 1.0068 76.3819095477387%, 1.0066 76.88442211055278%, 1.0063 77.38693467336685%, 1.0061 77.88944723618093%, 1.0058 78.391959798995%, 1.0056 78.89447236180908%, 1.0054 79.39698492462315%, 1.0052 79.89949748743723%, 1.0049 80.4020100502513%, 1.0047 80.90452261306538%, 1.0045 81.40703517587946%, 1.0043 81.90954773869353%, 1.0041 82.41206030150761%, 1.0039 82.91457286432167%, 1.0037 83.41708542713573%, 1.0036 83.9195979899498%, 1.0034 84.42211055276388%, 1.0032 84.92462311557794%, 1.0031 85.427135678392%, 1.0029 85.92964824120608%, 1.0027 86.43216080402016%, 1.0026 86.93467336683422%, 1.0025 87.43718592964828%, 1.0023 87.93969849246236%, 1.0022 88.44221105527643%, 1.0021 88.94472361809049%, 1.0019 89.44723618090455%, 1.0018 89.94974874371863%, 1.0017 90.4522613065327%, 1.0016 90.95477386934677%, 1.0015 91.45728643216083%, 1.0014 91.9597989949749%, 1.0013 92.46231155778898%, 1.0012 92.96482412060304%, 1.0011 93.4673366834171%, 1.001 93.96984924623118%, 1.001 94.47236180904525%, 1.0009 94.97487437185931%, 1.0008 95.47738693467338%, 1.0007 95.97989949748745%, 1.0007 96.48241206030153%, 1.0006 96.98492462311559%, 1.0006 97.48743718592965%, 1.0005 97.98994974874373%, 1.0004 98.4924623115578%, 1.0004 98.99497487437186%, 1.0003 99.49748743718592%, 1 100%)",
+        "iterations": 1,
+        "target": "div[New Arrival - DELETE ME].framer-1vmq0z0-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "delay": 2000,
+        "easing": "linear(0 0%, 0.001 0.5025125628140703%, 0.0039 1.0050251256281406%, 0.0085 1.507537688442211%, 0.0148 2.0100502512562812%, 0.0226 2.5125628140703515%, 0.0318 3.015075376884422%, 0.0422 3.517587939698492%, 0.0538 4.0201005025125625%, 0.0665 4.522613065326633%, 0.0801 5.025125628140703%, 0.0946 5.527638190954773%, 0.1098 6.030150753768844%, 0.1257 6.532663316582914%, 0.1423 7.035175879396984%, 0.1594 7.537688442211055%, 0.1769 8.040201005025125%, 0.1949 8.542713567839195%, 0.2132 9.045226130653266%, 0.2317 9.547738693467336%, 0.2505 10.050251256281406%, 0.2694 10.552763819095476%, 0.2885 11.055276381909547%, 0.3076 11.557788944723617%, 0.3268 12.060301507537687%, 0.3459 12.562814070351758%, 0.365 13.065326633165828%, 0.3841 13.567839195979898%, 0.403 14.070351758793969%, 0.4217 14.572864321608039%, 0.4403 15.07537688442211%, 0.4587 15.57788944723618%, 0.4769 16.08040201005025%, 0.4949 16.58291457286432%, 0.5125 17.085427135678387%, 0.53 17.58793969849246%, 0.5471 18.09045226130653%, 0.5639 18.592964824120603%, 0.5804 19.095477386934675%, 0.5966 19.597989949748744%, 0.6125 20.100502512562812%, 0.628 20.603015075376884%, 0.6431 21.105527638190956%, 0.6579 21.60804020100503%, 0.6724 22.1105527638191%, 0.6865 22.61306532663317%, 0.7002 23.115577889447238%, 0.7135 23.618090452261306%, 0.7265 24.12060301507538%, 0.7391 24.62311557788945%, 0.7514 25.12562814070352%, 0.7633 25.628140703517587%, 0.7748 26.130653266331656%, 0.786 26.633165829145728%, 0.7968 27.1356783919598%, 0.8072 27.63819095477387%, 0.8173 28.140703517587937%, 0.8271 28.64321608040201%, 0.8365 29.14572864321608%, 0.8456 29.648241206030153%, 0.8544 30.150753768844226%, 0.8628 30.653266331658294%, 0.8709 31.155778894472363%, 0.8787 31.65829145728643%, 0.8862 32.1608040201005%, 0.8934 32.66331658291457%, 0.9003 33.16582914572864%, 0.9069 33.668341708542705%, 0.9133 34.170854271356774%, 0.9193 34.67336683417084%, 0.9251 35.17587939698491%, 0.9307 35.67839195979898%, 0.936 36.18090452261305%, 0.941 36.683417085427116%, 0.9459 37.185929648241185%, 0.9504 37.68844221105525%, 0.9548 38.19095477386932%, 0.959 38.69346733668339%, 0.9629 39.19597989949746%, 0.9666 39.69849246231153%, 0.9702 40.201005025125596%, 0.9735 40.703517587939665%, 0.9767 41.20603015075373%, 0.9797 41.7085427135678%, 0.9825 42.21105527638187%, 0.9852 42.71356783919594%, 0.9877 43.21608040201001%, 0.9901 43.718592964824076%, 0.9923 44.221105527638144%, 0.9944 44.72361809045221%, 0.9963 45.22613065326628%, 0.9981 45.72864321608035%, 0.9998 46.23115577889442%, 1.0014 46.73366834170849%, 1.0028 47.236180904522556%, 1.0042 47.738693467336624%, 1.0054 48.24120603015069%, 1.0066 48.74371859296476%, 1.0077 49.24623115577883%, 1.0086 49.7487437185929%, 1.0095 50.25125628140697%, 1.0103 50.753768844221035%, 1.011 51.256281407035104%, 1.0117 51.75879396984917%, 1.0123 52.26130653266324%, 1.0128 52.76381909547731%, 1.0133 53.26633165829138%, 1.0137 53.76884422110545%, 1.014 54.271356783919515%, 1.0143 54.77386934673358%, 1.0146 55.27638190954765%, 1.0148 55.77889447236172%, 1.0149 56.28140703517579%, 1.015 56.78391959798986%, 1.0151 57.286432160803926%, 1.0152 57.788944723617995%, 1.0152 58.29145728643206%, 1.0151 58.79396984924613%, 1.0151 59.2964824120602%, 1.015 59.79899497487427%, 1.0149 60.30150753768834%, 1.0148 60.804020100502406%, 1.0147 61.306532663316474%, 1.0145 61.80904522613054%, 1.0143 62.31155778894461%, 1.0141 62.81407035175868%, 1.0139 63.31658291457275%, 1.0137 63.81909547738682%, 1.0135 64.32160804020089%, 1.0132 64.82412060301496%, 1.013 65.32663316582904%, 1.0127 65.82914572864311%, 1.0124 66.33165829145719%, 1.0122 66.83417085427126%, 1.0119 67.33668341708534%, 1.0116 67.83919597989942%, 1.0113 68.34170854271349%, 1.011 68.84422110552757%, 1.0107 69.34673366834164%, 1.0105 69.84924623115572%, 1.0102 70.3517587939698%, 1.0099 70.85427135678387%, 1.0096 71.35678391959794%, 1.0093 71.85929648241202%, 1.009 72.3618090452261%, 1.0087 72.86432160804017%, 1.0084 73.36683417085425%, 1.0082 73.86934673366832%, 1.0079 74.3718592964824%, 1.0076 74.87437185929647%, 1.0074 75.37688442211055%, 1.0071 75.87939698492463%, 1.0068 76.3819095477387%, 1.0066 76.88442211055278%, 1.0063 77.38693467336685%, 1.0061 77.88944723618093%, 1.0058 78.391959798995%, 1.0056 78.89447236180908%, 1.0054 79.39698492462315%, 1.0052 79.89949748743723%, 1.0049 80.4020100502513%, 1.0047 80.90452261306538%, 1.0045 81.40703517587946%, 1.0043 81.90954773869353%, 1.0041 82.41206030150761%, 1.0039 82.91457286432167%, 1.0037 83.41708542713573%, 1.0036 83.9195979899498%, 1.0034 84.42211055276388%, 1.0032 84.92462311557794%, 1.0031 85.427135678392%, 1.0029 85.92964824120608%, 1.0027 86.43216080402016%, 1.0026 86.93467336683422%, 1.0025 87.43718592964828%, 1.0023 87.93969849246236%, 1.0022 88.44221105527643%, 1.0021 88.94472361809049%, 1.0019 89.44723618090455%, 1.0018 89.94974874371863%, 1.0017 90.4522613065327%, 1.0016 90.95477386934677%, 1.0015 91.45728643216083%, 1.0014 91.9597989949749%, 1.0013 92.46231155778898%, 1.0012 92.96482412060304%, 1.0011 93.4673366834171%, 1.001 93.96984924623118%, 1.001 94.47236180904525%, 1.0009 94.97487437185931%, 1.0008 95.47738693467338%, 1.0007 95.97989949748745%, 1.0007 96.48241206030153%, 1.0006 96.98492462311559%, 1.0006 97.48743718592965%, 1.0005 97.98994974874373%, 1.0004 98.4924623115578%, 1.0004 98.99497487437186%, 1.0003 99.49748743718592%, 1 100%)",
+        "iterations": 1,
+        "target": "div.framer-9zt9i5-container",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 250,
+        "delay": 800,
+        "easing": "linear(0 0%, 0.0534 4.166666666666667%, 0.1739 8.333333333333332%, 0.319 12.5%, 0.4634 16.666666666666668%, 0.5933 20.833333333333336%, 0.7029 25%, 0.7909 29.166666666666668%, 0.8587 33.333333333333336%, 0.9091 37.5%, 0.945 41.666666666666664%, 0.9698 45.83333333333333%, 0.9861 49.99999999999999%, 0.9963 54.16666666666666%, 1.0021 58.33333333333333%, 1.0051 62.49999999999999%, 1.0062 66.66666666666666%, 1.0062 70.83333333333333%, 1.0056 75%, 1.0047 79.16666666666667%, 1.0038 83.33333333333334%, 1.0029 87.5%, 1.0022 91.66666666666667%, 1.0016 95.83333333333334%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 250,
+        "delay": 900,
+        "easing": "linear(0 0%, 0.0534 4.166666666666667%, 0.1739 8.333333333333332%, 0.319 12.5%, 0.4634 16.666666666666668%, 0.5933 20.833333333333336%, 0.7029 25%, 0.7909 29.166666666666668%, 0.8587 33.333333333333336%, 0.9091 37.5%, 0.945 41.666666666666664%, 0.9698 45.83333333333333%, 0.9861 49.99999999999999%, 0.9963 54.16666666666666%, 1.0021 58.33333333333333%, 1.0051 62.49999999999999%, 1.0062 66.66666666666666%, 1.0062 70.83333333333333%, 1.0056 75%, 1.0047 79.16666666666667%, 1.0038 83.33333333333334%, 1.0029 87.5%, 1.0022 91.66666666666667%, 1.0016 95.83333333333334%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 250,
+        "delay": 1000,
+        "easing": "linear(0 0%, 0.0534 4.166666666666667%, 0.1739 8.333333333333332%, 0.319 12.5%, 0.4634 16.666666666666668%, 0.5933 20.833333333333336%, 0.7029 25%, 0.7909 29.166666666666668%, 0.8587 33.333333333333336%, 0.9091 37.5%, 0.945 41.666666666666664%, 0.9698 45.83333333333333%, 0.9861 49.99999999999999%, 0.9963 54.16666666666666%, 1.0021 58.33333333333333%, 1.0051 62.49999999999999%, 1.0062 66.66666666666666%, 1.0062 70.83333333333333%, 1.0056 75%, 1.0047 79.16666666666667%, 1.0038 83.33333333333334%, 1.0029 87.5%, 1.0022 91.66666666666667%, 1.0016 95.83333333333334%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 250,
+        "delay": 1100,
+        "easing": "linear(0 0%, 0.0534 4.166666666666667%, 0.1739 8.333333333333332%, 0.319 12.5%, 0.4634 16.666666666666668%, 0.5933 20.833333333333336%, 0.7029 25%, 0.7909 29.166666666666668%, 0.8587 33.333333333333336%, 0.9091 37.5%, 0.945 41.666666666666664%, 0.9698 45.83333333333333%, 0.9861 49.99999999999999%, 0.9963 54.16666666666666%, 1.0021 58.33333333333333%, 1.0051 62.49999999999999%, 1.0062 66.66666666666666%, 1.0062 70.83333333333333%, 1.0056 75%, 1.0047 79.16666666666667%, 1.0038 83.33333333333334%, 1.0029 87.5%, 1.0022 91.66666666666667%, 1.0016 95.83333333333334%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 250,
+        "delay": 1200.0000000000002,
+        "easing": "linear(0 0%, 0.0534 4.166666666666667%, 0.1739 8.333333333333332%, 0.319 12.5%, 0.4634 16.666666666666668%, 0.5933 20.833333333333336%, 0.7029 25%, 0.7909 29.166666666666668%, 0.8587 33.333333333333336%, 0.9091 37.5%, 0.945 41.666666666666664%, 0.9698 45.83333333333333%, 0.9861 49.99999999999999%, 0.9963 54.16666666666666%, 1.0021 58.33333333333333%, 1.0051 62.49999999999999%, 1.0062 66.66666666666666%, 1.0062 70.83333333333333%, 1.0056 75%, 1.0047 79.16666666666667%, 1.0038 83.33333333333334%, 1.0029 87.5%, 1.0022 91.66666666666667%, 1.0016 95.83333333333334%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 250,
+        "delay": 1300,
+        "easing": "linear(0 0%, 0.0534 4.166666666666667%, 0.1739 8.333333333333332%, 0.319 12.5%, 0.4634 16.666666666666668%, 0.5933 20.833333333333336%, 0.7029 25%, 0.7909 29.166666666666668%, 0.8587 33.333333333333336%, 0.9091 37.5%, 0.945 41.666666666666664%, 0.9698 45.83333333333333%, 0.9861 49.99999999999999%, 0.9963 54.16666666666666%, 1.0021 58.33333333333333%, 1.0051 62.49999999999999%, 1.0062 66.66666666666666%, 1.0062 70.83333333333333%, 1.0056 75%, 1.0047 79.16666666666667%, 1.0038 83.33333333333334%, 1.0029 87.5%, 1.0022 91.66666666666667%, 1.0016 95.83333333333334%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 250,
+        "delay": 1400.0000000000002,
+        "easing": "linear(0 0%, 0.0534 4.166666666666667%, 0.1739 8.333333333333332%, 0.319 12.5%, 0.4634 16.666666666666668%, 0.5933 20.833333333333336%, 0.7029 25%, 0.7909 29.166666666666668%, 0.8587 33.333333333333336%, 0.9091 37.5%, 0.945 41.666666666666664%, 0.9698 45.83333333333333%, 0.9861 49.99999999999999%, 0.9963 54.16666666666666%, 1.0021 58.33333333333333%, 1.0051 62.49999999999999%, 1.0062 66.66666666666666%, 1.0062 70.83333333333333%, 1.0056 75%, 1.0047 79.16666666666667%, 1.0038 83.33333333333334%, 1.0029 87.5%, 1.0022 91.66666666666667%, 1.0016 95.83333333333334%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 250,
+        "delay": 1500,
+        "easing": "linear(0 0%, 0.0534 4.166666666666667%, 0.1739 8.333333333333332%, 0.319 12.5%, 0.4634 16.666666666666668%, 0.5933 20.833333333333336%, 0.7029 25%, 0.7909 29.166666666666668%, 0.8587 33.333333333333336%, 0.9091 37.5%, 0.945 41.666666666666664%, 0.9698 45.83333333333333%, 0.9861 49.99999999999999%, 0.9963 54.16666666666666%, 1.0021 58.33333333333333%, 1.0051 62.49999999999999%, 1.0062 66.66666666666666%, 1.0062 70.83333333333333%, 1.0056 75%, 1.0047 79.16666666666667%, 1.0038 83.33333333333334%, 1.0029 87.5%, 1.0022 91.66666666666667%, 1.0016 95.83333333333334%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      }
+    ]
+  },
+  "scrollAnimations": [
+    {
+      "step": 2,
+      "anims": []
+    },
+    {
+      "step": 5,
+      "anims": []
+    }
+  ],
+  "navScrolled": {
+    "visibleTop": 0,
+    "bg": "rgba(0, 0, 0, 0)",
+    "backdrop": "none",
+    "transform": "none"
+  },
+  "hoverNavLink": {
+    "before": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "transition": "all"
+    },
+    "after": {
+      "color": "rgb(0, 0, 238)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "transform": "none"
+    }
+  },
+  "audit": {
+    "title": "Platform® — Modular Landing Page",
+    "desc": "Modular by design. A high-converting, premium landing page template with smart components and well-structured layouts. Move, rearrange, and customize sections effortlessly with complete freedom. Built for modern SaaS, AI, and digital products.",
+    "bodyBg": "#161719",
+    "htmlBg": "#000000 @0",
+    "scrollHeight": 21423,
+    "textColors": [
+      "#c0c0c0 ×180",
+      "#e3dbd8 ×149",
+      "#ffffff ×127",
+      "#888891 ×44",
+      "#fa6e43 ×32",
+      "#000000 ×23",
+      "#1d1e21 ×17",
+      "#5f5f66 ×17",
+      "#161719 ×9",
+      "#f9fafb ×3",
+      "#0000ee ×2"
+    ],
+    "backgrounds": [
+      "#212225 ×654",
+      "#fa6e43 ×150",
+      "#161719 ×68",
+      "#2c2c2f ×59",
+      "#e3dbd8 ×54",
+      "#434346 ×48",
+      "#fa6f45 @0 ×35",
+      "#ffffff ×29",
+      "#ff0000 @0 ×15",
+      "#212225 @0 ×14",
+      "#5f5f66 ×4",
+      "#000000 ×2",
+      "#fa6f45 @0.4 ×1",
+      "#888891 ×1",
+      "#1d1e21 @0.7 ×1",
+      "#1d1e21 ×1",
+      "#2c2c2f @0.5 ×1",
+      "#fc6f43 ×1",
+      "#111112 ×1",
+      "#1e2b3a ×1",
+      "#ffffff @0 ×1"
+    ],
+    "fonts": [
+      "Inter Display 400 ×364",
+      "Inter Display 500 ×194",
+      "sans-serif 400 ×19",
+      "Inter Display 600 ×16",
+      "Inter Display 700 ×5",
+      "Times New Roman 400 ×4",
+      "Inter 700 ×1"
+    ],
+    "loadedFonts": [
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 400 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 500 normal (unloaded)",
+      "Inter Display 400 normal (loaded)",
+      "Inter Display 500 normal (loaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 400 italic (loaded)",
+      "Inter Display 400 italic (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 600 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (loaded)",
+      "Inter Display 700 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter Display 500 italic (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter Display 600 normal (loaded)",
+      "Inter 700 normal (loaded)",
+      "Inter 400 italic (unloaded)",
+      "Switzer 400 italic (unloaded)",
+      "Switzer 600 italic (unloaded)",
+      "Inter Placeholder normal normal (error)",
+      "Inter Display Placeholder normal normal (error)",
+      "Switzer Placeholder normal normal (unloaded)"
+    ],
+    "radii": [
+      "2px ×144",
+      "8px ×142",
+      "50% ×49",
+      "12px ×32",
+      "6px ×24",
+      "1px ×22",
+      "20px ×18",
+      "4px ×5",
+      "3px ×4",
+      "0.5px ×3",
+      "14px ×3",
+      "100% ×3",
+      "11px ×2",
+      "10px ×1"
+    ],
+    "transitions": [
+      "opacity 0.2s ease-in-out ×40",
+      "background, box-shadow 0s ease ×6",
+      "opacity 0.8s ease ×2"
+    ],
+    "typeSample": {
+      "h1": {
+        "font": "Inter Display",
+        "size": "100px",
+        "weight": "500",
+        "lh": "90px",
+        "ls": "-5px",
+        "tt": "none",
+        "color": "rgb(227, 219, 216)",
+        "text": "— The smarter way to build, run, and scale your business."
+      },
+      "h2": {
+        "font": "Inter Display",
+        "size": "28px",
+        "weight": "500",
+        "lh": "33.6px",
+        "ls": "-1.12px",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "See Platform in action"
+      },
+      "p": {
+        "font": "Inter Display",
+        "size": "35px",
+        "weight": "500",
+        "lh": "42px",
+        "ls": "-1.4px",
+        "tt": "none",
+        "color": "rgb(29, 30, 33)",
+        "text": "Home"
+      },
+      "a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": ""
+      },
+      "nav a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": ""
+      },
+      "button": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": ""
+      },
+      "footer": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "we run infrastructure, you lead innovation -The smarter way to build, run and sc"
+      }
+    },
+    "biggestText": {
+      "px": 120,
+      "font": "Inter Display",
+      "weight": "500",
+      "lh": "132px",
+      "ls": "-6px",
+      "text": "W"
+    },
+    "sections": [
+      {
+        "name": "Content",
+        "y": 70,
+        "h": 704,
+        "w": 1440,
+        "padT": "12px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Main",
+        "y": 0,
+        "h": 19536,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#161719"
+      },
+      {
+        "name": "Hero",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Content",
+        "y": 0,
+        "h": 900,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "1800px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Wrapper",
+        "y": 205,
+        "h": 489,
+        "w": 1392,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Featured Product",
+        "y": 205,
+        "h": 489,
+        "w": 835,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Headline",
+        "y": 205,
+        "h": 270,
+        "w": 835,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "930px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Intro",
+        "y": 900,
+        "h": 1080,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Intro Text",
+        "y": 1101,
+        "h": 678,
+        "w": 1400,
+        "padT": "60px",
+        "padB": "90px",
+        "maxW": "1400px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Work",
+        "y": 1980,
+        "h": 2460,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#161719"
+      },
+      {
+        "name": "Content",
+        "y": 1980,
+        "h": 2460,
+        "w": 1440,
+        "padT": "200px",
+        "padB": "200px",
+        "maxW": "1600px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 2180,
+        "h": 468,
+        "w": 1392,
+        "padT": "0px",
+        "padB": "120px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Product Grid",
+        "y": 2708,
+        "h": 1532,
+        "w": 1392,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop - Featured Product",
+        "y": 2708,
+        "h": 764,
+        "w": 927,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Photo",
+        "y": 2708,
+        "h": 764,
+        "w": 927,
+        "padT": "32px",
+        "padB": "32px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Project Video",
+        "y": 2708,
+        "h": 764,
+        "w": 927,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Services",
+        "y": 4440,
+        "h": 1688,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#161719"
+      },
+      {
+        "name": "Content",
+        "y": 4440,
+        "h": 1688,
+        "w": 1440,
+        "padT": "100px",
+        "padB": "200px",
+        "maxW": "1600px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 4540,
+        "h": 416,
+        "w": 1392,
+        "padT": "0px",
+        "padB": "120px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Services Wrapper",
+        "y": 4996,
+        "h": 800,
+        "w": 1392,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop 1",
+        "y": 4996,
+        "h": 800,
+        "w": 946,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Process",
+        "y": 6128,
+        "h": 1700,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#161719"
+      },
+      {
+        "name": "Content",
+        "y": 6128,
+        "h": 1700,
+        "w": 1440,
+        "padT": "100px",
+        "padB": "200px",
+        "maxW": "1600px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 6228,
+        "h": 416,
+        "w": 1392,
+        "padT": "0px",
+        "padB": "120px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop - Step 1",
+        "y": 6684,
+        "h": 812,
+        "w": 1392,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Analytics",
+        "y": 7828,
+        "h": 1980,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#161719"
+      },
+      {
+        "name": "Content",
+        "y": 7828,
+        "h": 1980,
+        "w": 1440,
+        "padT": "100px",
+        "padB": "200px",
+        "maxW": "1600px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 7928,
+        "h": 416,
+        "w": 1392,
+        "padT": "0px",
+        "padB": "120px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Analytics",
+        "y": 8383,
+        "h": 1092,
+        "w": 1392,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Pricing",
+        "y": 9807,
+        "h": 1928,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#161719"
+      }
+    ],
+    "nav": {
+      "name": "Desktop - Closed",
+      "position": "relative",
+      "top": "0px",
+      "bg": "#000000 @0",
+      "backdrop": "none",
+      "h": 70,
+      "transform": "none",
+      "transition": "all"
+    },
+    "fixedEls": [
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "10",
+        "size": "1440x70",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Hero",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1440x900",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "section",
+        "name": "Contact",
+        "pos": "sticky",
+        "z": "1",
+        "size": "1440x921",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "New Arrival - DELETE ME",
+        "pos": "fixed",
+        "z": "10",
+        "size": "142x140",
+        "pe": "none",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "10",
+        "size": "142x46",
+        "pe": "auto",
+        "mix": "normal"
+      }
+    ],
+    "hoverRules": [
+      "[data-framer-component-type=\"Text\"] a:hover, [data-framer-component-type=\"Text\"] { --font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family))); --font-style: var(--framer-link-hover-font-style,v }",
+      "a.framer-text:hover, a.framer-text:hover span.framer-text:not([data-text-fill]), { font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-blockquote-font-family,var(--framer-link-font-family,var(--framer }",
+      "a.framer-text:hover, span.framer-text[data-nested-link]:hover { color: var(--framer-link-hover-text-color,var(--framer-blockquote-text-color,var(--framer-link-text-color,var(--framer-text-color,#000)))); text-decoration-line }",
+      "code.framer-text a.framer-text:hover, code.framer-text span.framer-text[data-nes { color: var(--framer-link-hover-text-color,var(--framer-blockquote-text-color,var(--framer-link-text-color,var(--framer-code-text-color,var(--framer-text-color,# }",
+      "a.framer-text[data-framer-page-link-current]:hover, a.framer-text[data-framer-pa { color: inherit; font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-f }",
+      "a.framer-text[data-framer-page-link-current]:hover, span.framer-text[data-framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-text-color,#000)))); text-decoration-li }",
+      "code.framer-text a.framer-text[data-framer-page-link-current]:hover, code.framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-code-text-color,var(--framer-text-color }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a:hover, [data-framer-componen { font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeholder,sans-serif))); font-style: var(- }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a[data-framer-page-link-curren { font-family: var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeh }",
+      ".framer-form-text-input-clear:hover, .framer-form-text-input-clear:focus-visible { color: var(--framer-input-font-color); }"
+    ],
+    "hints": {
+      "canvas": [
+        "1440x900",
+        "993x420"
+      ],
+      "video": 4,
+      "lenis": true,
+      "gsap": false,
+      "scrollTrigger": false,
+      "three": false,
+      "framerGlobals": [
+        "__framer_importFromPackage",
+        "__framer_events",
+        "__framer_editorBarDependencies",
+        "__send_framer_event"
+      ],
+      "scrollBehavior": "auto",
+      "bodyCursor": "auto",
+      "linkCursor": "pointer"
+    }
+  }
+}

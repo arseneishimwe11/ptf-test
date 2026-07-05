@@ -1,0 +1,1051 @@
+{
+  "url": "https://jayden-portfolio.framer.website/",
+  "capturedAt": "2026-07-05T00:16:23.266Z",
+  "network": {
+    "desktop-1440": {
+      "scripts": [
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/rolldown-runtime.TjgygFMs.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Ticker.CmpC8Bpc.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/UsePageVisibility.gd73G6pc.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/motion.DdZWtbpw.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/jeBYOHKFv.ClXVHRkM.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/shared-lib.Cp2RsnGe.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/react.dg4iBpQQ.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/YD93rg4W5.BKGcwIay.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/p9cG7hznD.FrTwr2L4.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/tOUh8Virz.D8L8ws4Q.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/ipEQZbZAW.B4o-0Dfa.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/1DkVRea0-xiRf_9qmp6zKB_AsMh5AK0_gfwcbSFycso.BoReCUCQ.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Nxwskt135.CfS3pAtW.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/o20NRCMav.DsGudTne.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/framer.DvZl3-eA.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Tdc5suER0.CSS8WMKu.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Video.BE2NDmLK.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/F7WP3H6JC.DN4aeAcF.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/SlideShow.Cgm8zpTS.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Hpw8LM4ER.BEUWkdWb.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/kpJBYE3ZG.Hd6ZZ1yL.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/tOzcFbqKm.CvIPNVYs.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/script_main.B81MDHGC.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/t_4JH3uxG.D1L4sNi7.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/YO7MK5PPy.CmTnfCA-.mjs"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/NA4IAGUSLF4EHK37TDKERPZ7NDGSDIRO/4XGPZHVJIUBBZRT537KB4JKL6RNS3XIB/VX4XSJAXNZJ4VVJS4IPP5XNZGYR2DJJL.woff2",
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/3YMFAGHETBCEBNTBSRMIDXZ6E24ARXRZ/ECW7GXGVRFMXAJVR23A2AEV3VB6POCLM/O6HA6YRXLOW7WGNAXUQYSMKUL6HRPNEV.woff2",
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/TORRJZXM2VMPF273F2CW63EE7L3YA4M6/BFYFLXKSXG7BLHOLOWBOHF5NM7G6JOGB/LDKU4RGE4SF5XSV27OQVKWRBND7BGDBM.woff2",
+        "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+        "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2",
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/NC2MP33RO4WQTSTEEAWBJLAEXNCNEQVF/7F4U3COKLHQH4WUH3AXPC7N4UELEWJQN/JMWNCAGBH3TLANIVQPVABVAVNV5QERTH.woff2",
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pb0EPOreefkkbIx.woff2"
+      ],
+      "other": []
+    },
+    "tablet-834": {
+      "scripts": [
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/rolldown-runtime.TjgygFMs.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Nxwskt135.CfS3pAtW.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Video.BE2NDmLK.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/react.dg4iBpQQ.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/shared-lib.Cp2RsnGe.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/1DkVRea0-xiRf_9qmp6zKB_AsMh5AK0_gfwcbSFycso.BoReCUCQ.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/t_4JH3uxG.D1L4sNi7.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/SlideShow.Cgm8zpTS.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/tOzcFbqKm.CvIPNVYs.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/pkV7ecUvR.C5v_uxbn.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Hpw8LM4ER.BEUWkdWb.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/augiA20Il.OinOTXOE.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/F7WP3H6JC.DN4aeAcF.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Ticker.CmpC8Bpc.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/jeBYOHKFv.ClXVHRkM.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/ipEQZbZAW.B4o-0Dfa.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/kpJBYE3ZG.Hd6ZZ1yL.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/p9cG7hznD.FrTwr2L4.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/o20NRCMav.DsGudTne.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/framer.DvZl3-eA.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/YD93rg4W5.BKGcwIay.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Ajok36j9w.DvjRxSgK.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/UsePageVisibility.gd73G6pc.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/motion.DdZWtbpw.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Tdc5suER0.CSS8WMKu.mjs"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/3YMFAGHETBCEBNTBSRMIDXZ6E24ARXRZ/ECW7GXGVRFMXAJVR23A2AEV3VB6POCLM/O6HA6YRXLOW7WGNAXUQYSMKUL6HRPNEV.woff2",
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/TORRJZXM2VMPF273F2CW63EE7L3YA4M6/BFYFLXKSXG7BLHOLOWBOHF5NM7G6JOGB/LDKU4RGE4SF5XSV27OQVKWRBND7BGDBM.woff2",
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/NA4IAGUSLF4EHK37TDKERPZ7NDGSDIRO/4XGPZHVJIUBBZRT537KB4JKL6RNS3XIB/VX4XSJAXNZJ4VVJS4IPP5XNZGYR2DJJL.woff2",
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/NC2MP33RO4WQTSTEEAWBJLAEXNCNEQVF/7F4U3COKLHQH4WUH3AXPC7N4UELEWJQN/JMWNCAGBH3TLANIVQPVABVAVNV5QERTH.woff2",
+        "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2",
+        "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pb0EPOreefkkbIx.woff2"
+      ],
+      "other": []
+    },
+    "mobile-390": {
+      "scripts": [
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Ajok36j9w.DvjRxSgK.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/SlideShow.Cgm8zpTS.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/tOUh8Virz.D8L8ws4Q.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/YD93rg4W5.BKGcwIay.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/augiA20Il.OinOTXOE.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/ipEQZbZAW.B4o-0Dfa.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/kpJBYE3ZG.Hd6ZZ1yL.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Nxwskt135.CfS3pAtW.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/t_4JH3uxG.D1L4sNi7.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/UsePageVisibility.gd73G6pc.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Video.BE2NDmLK.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Ticker.CmpC8Bpc.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/F7WP3H6JC.DN4aeAcF.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/rolldown-runtime.TjgygFMs.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/shared-lib.Cp2RsnGe.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/react.dg4iBpQQ.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/script_main.B81MDHGC.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Tdc5suER0.CSS8WMKu.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/p9cG7hznD.FrTwr2L4.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/YO7MK5PPy.CmTnfCA-.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/jeBYOHKFv.ClXVHRkM.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/Hpw8LM4ER.BEUWkdWb.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/o20NRCMav.DsGudTne.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/pkV7ecUvR.C5v_uxbn.mjs",
+        "https://framerusercontent.com/sites/2jmoGlSxMFhsbXLWrwS7ul/tOzcFbqKm.CvIPNVYs.mjs"
+      ],
+      "fonts": [
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/3YMFAGHETBCEBNTBSRMIDXZ6E24ARXRZ/ECW7GXGVRFMXAJVR23A2AEV3VB6POCLM/O6HA6YRXLOW7WGNAXUQYSMKUL6HRPNEV.woff2",
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/NC2MP33RO4WQTSTEEAWBJLAEXNCNEQVF/7F4U3COKLHQH4WUH3AXPC7N4UELEWJQN/JMWNCAGBH3TLANIVQPVABVAVNV5QERTH.woff2",
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/TORRJZXM2VMPF273F2CW63EE7L3YA4M6/BFYFLXKSXG7BLHOLOWBOHF5NM7G6JOGB/LDKU4RGE4SF5XSV27OQVKWRBND7BGDBM.woff2",
+        "https://framerusercontent.com/third-party-assets/fontshare/wf/NA4IAGUSLF4EHK37TDKERPZ7NDGSDIRO/4XGPZHVJIUBBZRT537KB4JKL6RNS3XIB/VX4XSJAXNZJ4VVJS4IPP5XNZGYR2DJJL.woff2",
+        "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+        "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2",
+        "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pb0EPOreefkkbIx.woff2"
+      ],
+      "other": []
+    }
+  },
+  "breakpoints": {
+    "tablet-834": {
+      "h1size": "96px",
+      "h1lh": "84px",
+      "scrollHeight": 13372
+    },
+    "mobile-390": {
+      "h1size": "60px",
+      "h1lh": "60px",
+      "scrollHeight": 13580
+    }
+  },
+  "entranceAnimations": {
+    "at400ms": [
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 450,
+        "delay": 20,
+        "easing": "linear(0 0%, 0.0204 2.272727272727273%, 0.0732 4.545454545454546%, 0.1474 6.818181818181818%, 0.2343 9.090909090909092%, 0.3271 11.363636363636363%, 0.4206 13.636363636363637%, 0.5109 15.90909090909091%, 0.5955 18.181818181818183%, 0.6726 20.454545454545457%, 0.7413 22.72727272727273%, 0.8012 25.000000000000004%, 0.8524 27.272727272727277%, 0.8953 29.54545454545455%, 0.9305 31.818181818181824%, 0.9588 34.09090909090909%, 0.981 36.36363636363637%, 0.9978 38.63636363636364%, 1.0101 40.909090909090914%, 1.0186 43.18181818181819%, 1.0241 45.45454545454546%, 1.0272 47.727272727272734%, 1.0283 50.00000000000001%, 1.0281 52.27272727272728%, 1.0268 54.545454545454554%, 1.0248 56.81818181818183%, 1.0225 59.0909090909091%, 1.0199 61.363636363636374%, 1.0172 63.63636363636365%, 1.0146 65.90909090909092%, 1.0121 68.18181818181819%, 1.0099 70.45454545454545%, 1.0079 72.72727272727272%, 1.0061 75%, 1.0046 77.27272727272727%, 1.0033 79.54545454545453%, 1.0022 81.81818181818181%, 1.0014 84.0909090909091%, 1.0007 86.36363636363636%, 1.0002 88.63636363636363%, 0.9998 90.9090909090909%, 0.9995 93.18181818181819%, 0.9994 95.45454545454545%, 0.9992 97.72727272727272%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 450,
+        "delay": 120.00000000000001,
+        "easing": "linear(0 0%, 0.0204 2.272727272727273%, 0.0732 4.545454545454546%, 0.1474 6.818181818181818%, 0.2343 9.090909090909092%, 0.3271 11.363636363636363%, 0.4206 13.636363636363637%, 0.5109 15.90909090909091%, 0.5955 18.181818181818183%, 0.6726 20.454545454545457%, 0.7413 22.72727272727273%, 0.8012 25.000000000000004%, 0.8524 27.272727272727277%, 0.8953 29.54545454545455%, 0.9305 31.818181818181824%, 0.9588 34.09090909090909%, 0.981 36.36363636363637%, 0.9978 38.63636363636364%, 1.0101 40.909090909090914%, 1.0186 43.18181818181819%, 1.0241 45.45454545454546%, 1.0272 47.727272727272734%, 1.0283 50.00000000000001%, 1.0281 52.27272727272728%, 1.0268 54.545454545454554%, 1.0248 56.81818181818183%, 1.0225 59.0909090909091%, 1.0199 61.363636363636374%, 1.0172 63.63636363636365%, 1.0146 65.90909090909092%, 1.0121 68.18181818181819%, 1.0099 70.45454545454545%, 1.0079 72.72727272727272%, 1.0061 75%, 1.0046 77.27272727272727%, 1.0033 79.54545454545453%, 1.0022 81.81818181818181%, 1.0014 84.0909090909091%, 1.0007 86.36363636363636%, 1.0002 88.63636363636363%, 0.9998 90.9090909090909%, 0.9995 93.18181818181819%, 0.9994 95.45454545454545%, 0.9992 97.72727272727272%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 450,
+        "delay": 220,
+        "easing": "linear(0 0%, 0.0204 2.272727272727273%, 0.0732 4.545454545454546%, 0.1474 6.818181818181818%, 0.2343 9.090909090909092%, 0.3271 11.363636363636363%, 0.4206 13.636363636363637%, 0.5109 15.90909090909091%, 0.5955 18.181818181818183%, 0.6726 20.454545454545457%, 0.7413 22.72727272727273%, 0.8012 25.000000000000004%, 0.8524 27.272727272727277%, 0.8953 29.54545454545455%, 0.9305 31.818181818181824%, 0.9588 34.09090909090909%, 0.981 36.36363636363637%, 0.9978 38.63636363636364%, 1.0101 40.909090909090914%, 1.0186 43.18181818181819%, 1.0241 45.45454545454546%, 1.0272 47.727272727272734%, 1.0283 50.00000000000001%, 1.0281 52.27272727272728%, 1.0268 54.545454545454554%, 1.0248 56.81818181818183%, 1.0225 59.0909090909091%, 1.0199 61.363636363636374%, 1.0172 63.63636363636365%, 1.0146 65.90909090909092%, 1.0121 68.18181818181819%, 1.0099 70.45454545454545%, 1.0079 72.72727272727272%, 1.0061 75%, 1.0046 77.27272727272727%, 1.0033 79.54545454545453%, 1.0022 81.81818181818181%, 1.0014 84.0909090909091%, 1.0007 86.36363636363636%, 1.0002 88.63636363636363%, 0.9998 90.9090909090909%, 0.9995 93.18181818181819%, 0.9994 95.45454545454545%, 0.9992 97.72727272727272%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 450,
+        "delay": 320.00000000000006,
+        "easing": "linear(0 0%, 0.0204 2.272727272727273%, 0.0732 4.545454545454546%, 0.1474 6.818181818181818%, 0.2343 9.090909090909092%, 0.3271 11.363636363636363%, 0.4206 13.636363636363637%, 0.5109 15.90909090909091%, 0.5955 18.181818181818183%, 0.6726 20.454545454545457%, 0.7413 22.72727272727273%, 0.8012 25.000000000000004%, 0.8524 27.272727272727277%, 0.8953 29.54545454545455%, 0.9305 31.818181818181824%, 0.9588 34.09090909090909%, 0.981 36.36363636363637%, 0.9978 38.63636363636364%, 1.0101 40.909090909090914%, 1.0186 43.18181818181819%, 1.0241 45.45454545454546%, 1.0272 47.727272727272734%, 1.0283 50.00000000000001%, 1.0281 52.27272727272728%, 1.0268 54.545454545454554%, 1.0248 56.81818181818183%, 1.0225 59.0909090909091%, 1.0199 61.363636363636374%, 1.0172 63.63636363636365%, 1.0146 65.90909090909092%, 1.0121 68.18181818181819%, 1.0099 70.45454545454545%, 1.0079 72.72727272727272%, 1.0061 75%, 1.0046 77.27272727272727%, 1.0033 79.54545454545453%, 1.0022 81.81818181818181%, 1.0014 84.0909090909091%, 1.0007 86.36363636363636%, 1.0002 88.63636363636363%, 0.9998 90.9090909090909%, 0.9995 93.18181818181819%, 0.9994 95.45454545454545%, 0.9992 97.72727272727272%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 450,
+        "delay": 420.00000000000006,
+        "easing": "linear(0 0%, 0.0204 2.272727272727273%, 0.0732 4.545454545454546%, 0.1474 6.818181818181818%, 0.2343 9.090909090909092%, 0.3271 11.363636363636363%, 0.4206 13.636363636363637%, 0.5109 15.90909090909091%, 0.5955 18.181818181818183%, 0.6726 20.454545454545457%, 0.7413 22.72727272727273%, 0.8012 25.000000000000004%, 0.8524 27.272727272727277%, 0.8953 29.54545454545455%, 0.9305 31.818181818181824%, 0.9588 34.09090909090909%, 0.981 36.36363636363637%, 0.9978 38.63636363636364%, 1.0101 40.909090909090914%, 1.0186 43.18181818181819%, 1.0241 45.45454545454546%, 1.0272 47.727272727272734%, 1.0283 50.00000000000001%, 1.0281 52.27272727272728%, 1.0268 54.545454545454554%, 1.0248 56.81818181818183%, 1.0225 59.0909090909091%, 1.0199 61.363636363636374%, 1.0172 63.63636363636365%, 1.0146 65.90909090909092%, 1.0121 68.18181818181819%, 1.0099 70.45454545454545%, 1.0079 72.72727272727272%, 1.0061 75%, 1.0046 77.27272727272727%, 1.0033 79.54545454545453%, 1.0022 81.81818181818181%, 1.0014 84.0909090909091%, 1.0007 86.36363636363636%, 1.0002 88.63636363636363%, 0.9998 90.9090909090909%, 0.9995 93.18181818181819%, 0.9994 95.45454545454545%, 0.9992 97.72727272727272%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 450,
+        "delay": 520,
+        "easing": "linear(0 0%, 0.0204 2.272727272727273%, 0.0732 4.545454545454546%, 0.1474 6.818181818181818%, 0.2343 9.090909090909092%, 0.3271 11.363636363636363%, 0.4206 13.636363636363637%, 0.5109 15.90909090909091%, 0.5955 18.181818181818183%, 0.6726 20.454545454545457%, 0.7413 22.72727272727273%, 0.8012 25.000000000000004%, 0.8524 27.272727272727277%, 0.8953 29.54545454545455%, 0.9305 31.818181818181824%, 0.9588 34.09090909090909%, 0.981 36.36363636363637%, 0.9978 38.63636363636364%, 1.0101 40.909090909090914%, 1.0186 43.18181818181819%, 1.0241 45.45454545454546%, 1.0272 47.727272727272734%, 1.0283 50.00000000000001%, 1.0281 52.27272727272728%, 1.0268 54.545454545454554%, 1.0248 56.81818181818183%, 1.0225 59.0909090909091%, 1.0199 61.363636363636374%, 1.0172 63.63636363636365%, 1.0146 65.90909090909092%, 1.0121 68.18181818181819%, 1.0099 70.45454545454545%, 1.0079 72.72727272727272%, 1.0061 75%, 1.0046 77.27272727272727%, 1.0033 79.54545454545453%, 1.0022 81.81818181818181%, 1.0014 84.0909090909091%, 1.0007 86.36363636363636%, 1.0002 88.63636363636363%, 0.9998 90.9090909090909%, 0.9995 93.18181818181819%, 0.9994 95.45454545454545%, 0.9992 97.72727272727272%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 450,
+        "delay": 620.0000000000001,
+        "easing": "linear(0 0%, 0.0204 2.272727272727273%, 0.0732 4.545454545454546%, 0.1474 6.818181818181818%, 0.2343 9.090909090909092%, 0.3271 11.363636363636363%, 0.4206 13.636363636363637%, 0.5109 15.90909090909091%, 0.5955 18.181818181818183%, 0.6726 20.454545454545457%, 0.7413 22.72727272727273%, 0.8012 25.000000000000004%, 0.8524 27.272727272727277%, 0.8953 29.54545454545455%, 0.9305 31.818181818181824%, 0.9588 34.09090909090909%, 0.981 36.36363636363637%, 0.9978 38.63636363636364%, 1.0101 40.909090909090914%, 1.0186 43.18181818181819%, 1.0241 45.45454545454546%, 1.0272 47.727272727272734%, 1.0283 50.00000000000001%, 1.0281 52.27272727272728%, 1.0268 54.545454545454554%, 1.0248 56.81818181818183%, 1.0225 59.0909090909091%, 1.0199 61.363636363636374%, 1.0172 63.63636363636365%, 1.0146 65.90909090909092%, 1.0121 68.18181818181819%, 1.0099 70.45454545454545%, 1.0079 72.72727272727272%, 1.0061 75%, 1.0046 77.27272727272727%, 1.0033 79.54545454545453%, 1.0022 81.81818181818181%, 1.0014 84.0909090909091%, 1.0007 86.36363636363636%, 1.0002 88.63636363636363%, 0.9998 90.9090909090909%, 0.9995 93.18181818181819%, 0.9994 95.45454545454545%, 0.9992 97.72727272727272%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 450,
+        "delay": 720.0000000000001,
+        "easing": "linear(0 0%, 0.0204 2.272727272727273%, 0.0732 4.545454545454546%, 0.1474 6.818181818181818%, 0.2343 9.090909090909092%, 0.3271 11.363636363636363%, 0.4206 13.636363636363637%, 0.5109 15.90909090909091%, 0.5955 18.181818181818183%, 0.6726 20.454545454545457%, 0.7413 22.72727272727273%, 0.8012 25.000000000000004%, 0.8524 27.272727272727277%, 0.8953 29.54545454545455%, 0.9305 31.818181818181824%, 0.9588 34.09090909090909%, 0.981 36.36363636363637%, 0.9978 38.63636363636364%, 1.0101 40.909090909090914%, 1.0186 43.18181818181819%, 1.0241 45.45454545454546%, 1.0272 47.727272727272734%, 1.0283 50.00000000000001%, 1.0281 52.27272727272728%, 1.0268 54.545454545454554%, 1.0248 56.81818181818183%, 1.0225 59.0909090909091%, 1.0199 61.363636363636374%, 1.0172 63.63636363636365%, 1.0146 65.90909090909092%, 1.0121 68.18181818181819%, 1.0099 70.45454545454545%, 1.0079 72.72727272727272%, 1.0061 75%, 1.0046 77.27272727272727%, 1.0033 79.54545454545453%, 1.0022 81.81818181818181%, 1.0014 84.0909090909091%, 1.0007 86.36363636363636%, 1.0002 88.63636363636363%, 0.9998 90.9090909090909%, 0.9995 93.18181818181819%, 0.9994 95.45454545454545%, 0.9992 97.72727272727272%, 1 100%)",
+        "iterations": 1,
+        "target": "span.",
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "props": "opacity"
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "props": "opacity"
+          }
+        ]
+      }
+    ],
+    "at1200ms": []
+  },
+  "scrollAnimations": [
+    {
+      "step": 2,
+      "anims": [
+        {
+          "type": "Animation",
+          "playState": "running",
+          "duration": 14480,
+          "delay": 0,
+          "easing": "linear",
+          "iterations": "inf",
+          "target": "ul.",
+          "keyframes": [
+            {
+              "offset": 0,
+              "easing": "linear",
+              "props": "transform"
+            },
+            {
+              "offset": 1,
+              "easing": "linear",
+              "props": "transform"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "anims": []
+    }
+  ],
+  "navScrolled": {
+    "visibleTop": -12240,
+    "bg": "rgba(0, 0, 0, 0)",
+    "backdrop": "none",
+    "transform": "none"
+  },
+  "hoverNavLink": null,
+  "audit": {
+    "title": "Jayden - Personal Portfolio Framer Template",
+    "desc": "Showcase your work with Jayden, a sleek Framer portfolio template. Perfect for creatives, it features clean design, smooth interactions, and is fully responsive and easy to customize - all in one elegant scroll.",
+    "bodyBg": "#000000",
+    "htmlBg": "#000000 @0",
+    "scrollHeight": 14576,
+    "textColors": [
+      "#ffffff ×241",
+      "#666666 ×147",
+      "#ffffff @0.6 ×14",
+      "#000000 ×9",
+      "#e0e0e0 ×9",
+      "#ffffff @0.3 ×6",
+      "#bbbbbb ×5",
+      "#f3500f ×3",
+      "#808080 ×1",
+      "#ffffff @0.5 ×1",
+      "#0000ee ×1"
+    ],
+    "backgrounds": [
+      "#ffffff ×36",
+      "#808080 ×34",
+      "#000000 ×29",
+      "#111111 ×27",
+      "#ffffff @0.1 ×19",
+      "#252525 @0.5 ×10",
+      "#000000 @0.2 ×8",
+      "#e0e0e0 ×8",
+      "#ffffff @0 ×7",
+      "#ffffff @0.6 ×4",
+      "#000001 @0.77 ×3",
+      "#101010 ×3",
+      "#ffffff @0.05 ×2",
+      "#000000 @0.5 ×1",
+      "#1ef482 ×1",
+      "#121212 ×1",
+      "#313131 ×1",
+      "#282828 ×1",
+      "#111111 @0.5 ×1",
+      "#1a1a1a @0.8 ×1"
+    ],
+    "fonts": [
+      "Rajdhani 500 ×349",
+      "Rajdhani 400 ×72",
+      "Poppins 400 ×7",
+      "sans-serif 400 ×6",
+      "Rajdhani 600 ×1",
+      "Inter Display 700 ×1",
+      "Inter 700 ×1"
+    ],
+    "loadedFonts": [
+      "Waterfall 400 normal (unloaded)",
+      "Waterfall 400 normal (unloaded)",
+      "Waterfall 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 400 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 normal (loaded)",
+      "Inter 700 normal (loaded)",
+      "Inter 700 normal (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 700 normal (loaded)",
+      "Inter 700 italic (unloaded)",
+      "Inter 400 italic (unloaded)",
+      "Inter 900 normal (unloaded)",
+      "Inter 900 italic (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 normal (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter 600 italic (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Inter Display 700 normal (loaded)",
+      "Inter Display 700 normal (unloaded)",
+      "Rajdhani 400 normal (loaded)",
+      "Poppins 400 normal (loaded)",
+      "Rajdhani 500 normal (loaded)",
+      "Rajdhani 700 normal (unloaded)",
+      "Poppins 700 italic (unloaded)",
+      "Poppins 400 italic (unloaded)",
+      "Plus Jakarta Sans 500 normal (unloaded)",
+      "Rajdhani 600 normal (loaded)",
+      "Inter Placeholder normal normal (unloaded)",
+      "Inter Display Placeholder normal normal (unloaded)",
+      "Rajdhani Placeholder normal normal (unloaded)",
+      "Poppins Placeholder normal normal (unloaded)",
+      "Plus Jakarta Sans Placeholder normal normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (loaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (loaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (loaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (unloaded)",
+      "Rajdhani 500 normal (loaded)"
+    ],
+    "radii": [
+      "24px ×81",
+      "12px ×65",
+      "16px ×53",
+      "100px ×48",
+      "100% ×34",
+      "1000px ×14",
+      "50px ×9",
+      "99px ×8",
+      "4px ×8",
+      "40px ×6",
+      "10px ×2",
+      "34px ×2",
+      "11px ×2",
+      "50% ×1",
+      "5px 5px 0px 0px ×1",
+      "400px ×1",
+      "10000px ×1"
+    ],
+    "transitions": [
+      "background, box-shadow 0s ease ×3",
+      "color, text-decoration-color, text-decoration-thickness, text-underline-offset 0.4s, 0.4s, 0.4s, 0.4s cubic-bezier(0.44, ×1"
+    ],
+    "typeSample": {
+      "h1": {
+        "font": "Rajdhani",
+        "size": "82px",
+        "weight": "500",
+        "lh": "74px",
+        "ls": "-2.04px",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "Selected work"
+      },
+      "h2": {
+        "font": "Rajdhani",
+        "size": "88px",
+        "weight": "500",
+        "lh": "90px",
+        "ls": "-3.5px",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "Brand Design"
+      },
+      "p": {
+        "font": "Rajdhani",
+        "size": "24px",
+        "weight": "600",
+        "lh": "30px",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(255, 255, 255)",
+        "text": "Jayden"
+      },
+      "a": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 238)",
+        "text": "NEW TEMPLATE"
+      },
+      "button": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": ""
+      },
+      "footer": {
+        "font": "sans-serif",
+        "size": "12px",
+        "weight": "400",
+        "lh": "normal",
+        "ls": "normal",
+        "tt": "none",
+        "color": "rgb(0, 0, 0)",
+        "text": "Get In TouchJayden JonesCeo of Avade IncBook A CallBook A CallBook A CallBook A "
+      }
+    },
+    "biggestText": {
+      "px": 88,
+      "font": "Rajdhani",
+      "weight": "500",
+      "lh": "90px",
+      "ls": "-3.5px",
+      "text": "Brand Design"
+    },
+    "sections": [
+      {
+        "name": "Hero Section",
+        "y": 94,
+        "h": 952,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Background Frame",
+        "y": 94,
+        "h": 941,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 94,
+        "h": 952,
+        "w": 850,
+        "padT": "80px",
+        "padB": "0px",
+        "maxW": "850px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Main",
+        "y": 174,
+        "h": 866,
+        "w": 850,
+        "padT": "0px",
+        "padB": "80px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Introduction",
+        "y": 174,
+        "h": 598,
+        "w": 850,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Hero Section",
+        "y": 174,
+        "h": 460,
+        "w": 850,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Hero Image",
+        "y": 174,
+        "h": 460,
+        "w": 850,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Counter Section",
+        "y": 1046,
+        "h": 459,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 1046,
+        "h": 459,
+        "w": 850,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "850px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Wrap",
+        "y": 1046,
+        "h": 453,
+        "w": 850,
+        "padT": "80px",
+        "padB": "80px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Experience Section",
+        "y": 1505,
+        "h": 576,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 1505,
+        "h": 576,
+        "w": 850,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "850px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Wrap",
+        "y": 1505,
+        "h": 570,
+        "w": 850,
+        "padT": "80px",
+        "padB": "80px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Selected Works",
+        "y": 2081,
+        "h": 2156,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 2081,
+        "h": 2156,
+        "w": 850,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "850px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Wrap",
+        "y": 2081,
+        "h": 2150,
+        "w": 850,
+        "padT": "80px",
+        "padB": "80px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Works",
+        "y": 2416,
+        "h": 1735,
+        "w": 754,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Selected Work",
+        "y": 2416,
+        "h": 565,
+        "w": 754,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 2416,
+        "h": 565,
+        "w": 754,
+        "padT": "371px",
+        "padB": "18px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Selected Work",
+        "y": 3001,
+        "h": 565,
+        "w": 754,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 3001,
+        "h": 565,
+        "w": 754,
+        "padT": "371px",
+        "padB": "18px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Selected Work",
+        "y": 3586,
+        "h": 565,
+        "w": 754,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Desktop",
+        "y": 3586,
+        "h": 565,
+        "w": 754,
+        "padT": "371px",
+        "padB": "18px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "My Services",
+        "y": 4237,
+        "h": 1128,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 4237,
+        "h": 1128,
+        "w": 850,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "850px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Wrap",
+        "y": 4237,
+        "h": 1122,
+        "w": 850,
+        "padT": "80px",
+        "padB": "80px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Creative Services",
+        "y": 4317,
+        "h": 962,
+        "w": 754,
+        "padT": "74px",
+        "padB": "74px",
+        "maxW": "none",
+        "bg": "#111111"
+      },
+      {
+        "name": "About Me",
+        "y": 5365,
+        "h": 767,
+        "w": 1440,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Container",
+        "y": 5365,
+        "h": 767,
+        "w": 850,
+        "padT": "0px",
+        "padB": "0px",
+        "maxW": "850px",
+        "bg": "#000000 @0"
+      },
+      {
+        "name": "Wrap",
+        "y": 5365,
+        "h": 761,
+        "w": 850,
+        "padT": "80px",
+        "padB": "80px",
+        "maxW": "none",
+        "bg": "#000000 @0"
+      }
+    ],
+    "nav": {
+      "name": "Desktop",
+      "position": "relative",
+      "top": "0px",
+      "bg": "#000000 @0",
+      "backdrop": "none",
+      "h": 94,
+      "transform": "none",
+      "transition": "all"
+    },
+    "fixedEls": [
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "10",
+        "size": "142x110",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Works",
+        "pos": "sticky",
+        "z": "1",
+        "size": "754x1735",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Selected Work",
+        "pos": "sticky",
+        "z": "1",
+        "size": "754x565",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Selected Work",
+        "pos": "sticky",
+        "z": "1",
+        "size": "754x565",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Selected Work",
+        "pos": "sticky",
+        "z": "1",
+        "size": "754x565",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "754x332",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "754x332",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "754x332",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "sticky",
+        "z": "1",
+        "size": "754x332",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "3",
+        "size": "54x460",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Background Video",
+        "pos": "fixed",
+        "z": "1",
+        "size": "1440x1602",
+        "pe": "auto",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "name": "Default",
+        "pos": "fixed",
+        "z": "13",
+        "size": "26x26",
+        "pe": "none",
+        "mix": "normal"
+      },
+      {
+        "tag": "div",
+        "pos": "fixed",
+        "z": "2147483647",
+        "size": "1440x78",
+        "pe": "none",
+        "mix": "normal"
+      }
+    ],
+    "hoverRules": [
+      "[data-framer-component-type=\"Text\"] a:hover, [data-framer-component-type=\"Text\"] { --font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family))); --font-style: var(--framer-link-hover-font-style,v }",
+      "a.framer-text:hover, a.framer-text:hover span.framer-text:not([data-text-fill]), { font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-blockquote-font-family,var(--framer }",
+      "a.framer-text:hover, span.framer-text[data-nested-link]:hover { color: var(--framer-link-hover-text-color,var(--framer-link-text-color,var(--framer-blockquote-text-color,var(--framer-text-color,#000)))); text-decoration-line }",
+      "code.framer-text a.framer-text:hover, code.framer-text span.framer-text[data-nes { color: var(--framer-link-hover-text-color,var(--framer-link-text-color,var(--framer-blockquote-text-color,var(--framer-code-text-color,var(--framer-text-color,# }",
+      "a.framer-text[data-framer-page-link-current]:hover, a.framer-text[data-framer-pa { color: inherit; font-family: var(--framer-font-family-preview,var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-f }",
+      "a.framer-text[data-framer-page-link-current]:hover, span.framer-text[data-framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-text-color,#000)))); text-decoration-li }",
+      "code.framer-text a.framer-text[data-framer-page-link-current]:hover, code.framer { color: var(--framer-link-hover-text-color,var(--framer-link-current-text-color,var(--framer-link-text-color,var(--framer-code-text-color,var(--framer-text-color }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a:hover, [data-framer-componen { font-family: var(--framer-link-hover-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeholder,sans-serif))); font-style: var(- }",
+      "[data-framer-component-type=\"DeprecatedRichText\"] a[data-framer-page-link-curren { font-family: var(--framer-link-hover-font-family,var(--framer-link-current-font-family,var(--framer-link-font-family,var(--framer-font-family,Inter,Inter Placeh }",
+      ".framer-form-text-input-clear:hover, .framer-form-text-input-clear:focus-visible { color: var(--framer-input-font-color); }"
+    ],
+    "hints": {
+      "canvas": [
+        "1440x941"
+      ],
+      "video": 1,
+      "lenis": true,
+      "gsap": false,
+      "scrollTrigger": false,
+      "three": false,
+      "framerGlobals": [
+        "__send_framer_event",
+        "__framer_events",
+        "__framer_importFromPackage",
+        "__framer_editorBarDependencies"
+      ],
+      "scrollBehavior": "auto",
+      "bodyCursor": "auto",
+      "linkCursor": "pointer"
+    }
+  }
+}
