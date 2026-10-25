@@ -1,6 +1,7 @@
 "use client";
 
 import { useRef } from "react";
+import Image from "next/image";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
@@ -61,11 +62,25 @@ export default function About() {
           <div className="md:col-span-5">
             <div className="md:sticky md:top-28">
               <div className="relative aspect-[4/5] overflow-hidden rounded-card">
-                <div
-                  data-portrait
-                  className="cover-gradient cover-noise absolute -inset-y-[8%] inset-x-0"
-                  style={{ "--cover-hue": 11 } as React.CSSProperties}
-                />
+                {siteData.identity.portrait ? (
+                  <div data-portrait className="absolute -inset-y-[8%] inset-x-0">
+                    <Image
+                      src={siteData.identity.portrait}
+                      alt={`Portrait of ${siteData.identity.name}`}
+                      fill
+                      sizes="(min-width: 768px) 40vw, 92vw"
+                      className="object-cover"
+                      priority={false}
+                    />
+                  </div>
+                ) : (
+                  <div
+                    data-portrait
+                    className="cover-gradient cover-noise absolute -inset-y-[8%] inset-x-0"
+                    style={{ "--cover-hue": 11 } as React.CSSProperties}
+                  />
+                )}
+                <div aria-hidden className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black/60 to-transparent" />
                 <div className="absolute inset-x-0 bottom-0 flex items-center justify-between p-6 font-mono text-[0.62rem] uppercase tracking-[0.16em] text-[#f4f2ed]/80">
                   <span>{siteData.identity.name}</span>
                   <span>{siteData.identity.location}</span>

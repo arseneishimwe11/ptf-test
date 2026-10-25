@@ -1,8 +1,7 @@
-# Adrian Vale — Premium Portfolio Template
+# Ishimwe Arsene — Portfolio
 
-A cinematic, single-page-scroll portfolio for a software engineer, built as a
-**template**: every word on the page is realistic dummy content that lives in
-one typed file, ready to be swapped for real data.
+Personal portfolio of Arsene Ishimwe Uganase, software engineer in Kigali.
+All copy lives in one typed file: `src/content/site-data.ts`.
 
 **Stack:** Next.js 15 (App Router) · TypeScript · Tailwind CSS v4 ·
 Framer Motion · GSAP + ScrollTrigger · Lenis · React Three Fiber (one GLSL

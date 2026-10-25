@@ -7,22 +7,23 @@ import Reveal from "@/components/ui/Reveal";
 import { useReducedMotion } from "@/lib/media";
 
 /**
+ * Recognition milestones (real, verifiable facts, not quotes).
  * Deliberately quiet (the Hanza/Lyniq lesson) but with the Majd flourish:
  * each card flips up on reveal (rotateX about its top edge) rather than a
  * plain fade. Grotesk pull-quotes, hairline rules, one reveal each — no
  * carousel, no autoplay. Reduced motion ⇒ a plain opacity fade.
  */
 export default function Testimonials() {
-  const { testimonials } = siteData;
+  const { recognition } = siteData;
   const reduced = useReducedMotion();
 
   return (
-    <section id="testimonials" className="band-paper section-pad">
+    <section id="recognition" className="band-paper section-pad">
       <div className="container-site">
-        <Eyebrow index="04">{testimonials.eyebrow}</Eyebrow>
+        <Eyebrow index="04">{recognition.eyebrow}</Eyebrow>
         <Reveal>
           <h2 className="heading mb-16 max-w-xl text-4xl md:text-5xl">
-            {testimonials.heading}
+            {recognition.heading}
           </h2>
         </Reveal>
 
@@ -30,7 +31,7 @@ export default function Testimonials() {
           className="grid gap-3 lg:grid-cols-3"
           style={{ perspective: "1400px" }}
         >
-          {testimonials.items.map((t, i) => (
+          {recognition.items.map((t, i) => (
             <motion.figure
               key={t.name}
               className="flex h-full flex-col justify-between gap-10 rounded-card border border-line bg-surface p-8"
@@ -48,13 +49,11 @@ export default function Testimonials() {
                 ease: [0.16, 1.04, 0.32, 0.98],
               }}
             >
-              <blockquote className="quote text-xl text-ink md:text-2xl">
-                “{t.quote}”
-              </blockquote>
+              <p className="quote text-xl text-ink md:text-2xl">{t.text}</p>
               <figcaption className="hairline pt-5">
                 <p className="text-sm text-ink">{t.name}</p>
                 <p className="mt-1 font-mono text-xs tracking-[0.12em] text-muted">
-                  {t.title}
+                  {t.detail}
                 </p>
               </figcaption>
             </motion.figure>

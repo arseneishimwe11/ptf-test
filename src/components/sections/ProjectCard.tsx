@@ -15,7 +15,6 @@ export default function ProjectCard({
 }) {
   return (
     <article
-      data-cursor="view"
       className="grid h-full overflow-hidden rounded-card border border-line bg-surface md:grid-cols-2"
     >
       {/* Cover */}
@@ -41,7 +40,7 @@ export default function ProjectCard({
       </div>
 
       {/* Case study */}
-      <div className="flex flex-col justify-between gap-8 p-7 md:p-10">
+      <div className="flex flex-col justify-between gap-6 p-7 md:p-8 xl:p-10">
         <div>
           <div className="flex items-baseline justify-between gap-4">
             <h3 className="heading text-3xl md:text-4xl">{project.title}</h3>
@@ -49,11 +48,26 @@ export default function ProjectCard({
               {project.year}
             </span>
           </div>
+          <span
+            className={`mt-3 inline-flex items-center gap-2 rounded-full border px-3 py-1 font-mono text-[0.62rem] uppercase tracking-[0.16em] ${
+              project.status === "Live"
+                ? "border-[#3fb950]/40 text-[#3fb950]"
+                : "border-line text-muted"
+            }`}
+          >
+            <span
+              aria-hidden
+              className={`h-1.5 w-1.5 rounded-full ${
+                project.status === "Live" ? "bg-[#3fb950]" : "bg-accent"
+              }`}
+            />
+            {project.status}
+          </span>
           <p className="mt-2 text-accent">{project.tagline}</p>
-          <p className="mt-5 leading-relaxed text-muted">{project.description}</p>
+          <p className="mt-4 leading-relaxed text-muted">{project.description}</p>
         </div>
 
-        <div className="space-y-5">
+        <div className="space-y-4">
           <div className="flex flex-wrap gap-2">
             {project.stack.map((tech) => (
               <span
@@ -64,13 +78,34 @@ export default function ProjectCard({
               </span>
             ))}
           </div>
-          <div className="hairline pt-4">
+          <div className="hairline pt-3">
             <p className="eyebrow mb-1.5">Role</p>
             <p className="text-sm">{project.role}</p>
           </div>
-          <div className="hairline pt-4">
+          <div className="hairline pt-3">
             <p className="eyebrow mb-1.5">Outcome</p>
             <p className="text-sm text-ink">{project.outcome}</p>
+          </div>
+          <div className="hairline flex flex-wrap items-center gap-x-6 gap-y-3 pt-3">
+            {project.links.length > 0 ? (
+              project.links.map((link) => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  data-cursor="view"
+                  className="roll font-mono text-xs uppercase tracking-[0.16em] text-ink"
+                >
+                  <span>{link.label} ↗</span>
+                  <span className="text-accent">{link.label} ↗</span>
+                </a>
+              ))
+            ) : (
+              <p className="font-mono text-xs uppercase tracking-[0.16em] text-muted">
+                {project.linkNote}
+              </p>
+            )}
           </div>
         </div>
       </div>

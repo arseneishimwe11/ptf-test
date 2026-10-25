@@ -15,7 +15,7 @@ gsap.registerPlugin(ScrollTrigger);
 /**
  * Sticky-stack case studies (the Lyniq sticky-scroll idea, rebuilt):
  * each card pins below the nav; as the next one slides over, the outgoing
- * card scales to 0.94 and dims — transform/opacity only, scrubbed.
+ * card scales to 0.94 and dims (brightness filter, stays opaque), scrubbed.
  * Mobile (<768px) and reduced motion get a plain stacked list.
  */
 export default function Work() {
@@ -33,7 +33,9 @@ export default function Work() {
         if (i === wrappers.length - 1) return;
         gsap.to(wrapper.querySelector("[data-card]"), {
           scale: 0.94,
-          opacity: 0.45,
+          // Dim with a filter, not opacity: opacity made the card translucent,
+          // so the stacked card underneath showed through its text.
+          filter: "brightness(0.4)",
           ease: "none",
           scrollTrigger: {
             trigger: wrappers[i + 1],
@@ -65,10 +67,10 @@ export default function Work() {
             data-card-wrapper
             className={
               stacked
-                ? "group sticky top-[10vh] mb-[9vh] h-[80vh]"
+                ? "group sticky top-[10vh] mb-[9vh]"
                 : "group mb-8"
             }
-            style={stacked ? { zIndex: i + 1 } : undefined}
+            style={stacked ? { zIndex: i + 1, height: "max(80vh, 640px)" } : undefined}
           >
             <div data-card className="h-full origin-top will-change-transform">
               <ProjectCard project={project} index={i} />

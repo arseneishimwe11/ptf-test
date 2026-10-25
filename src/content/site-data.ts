@@ -1,10 +1,8 @@
 /**
  * SINGLE SOURCE OF CONTENT
  * ------------------------
- * Every piece of copy on the site lives here. All values below are realistic
- * dummy content for the fictional engineer "Adrian Vale" so the template reads
- * as a finished site. Swap them for real data — each field is flagged with
- * `// TODO: replace with real content`.
+ * Every piece of copy on the site lives here. Edit this file to change what
+ * the page says; components only render it.
  */
 
 export interface Experience {
@@ -20,6 +18,11 @@ export interface Stat {
   label: string;
 }
 
+export interface ProjectLink {
+  label: string;
+  href: string;
+}
+
 export interface Project {
   slug: string;
   title: string;
@@ -27,22 +30,24 @@ export interface Project {
   description: string;
   year: string;
   role: string;
+  /** Short honest status shown as a pill: "Live", "In progress", etc. */
+  status: string;
   stack: string[];
   outcome: string;
-  /** Hue (deg) that tints the generated placeholder cover. */
+  /** Public links (live product, store pages, public repo). Empty = none. */
+  links: ProjectLink[];
+  /** Shown when there is no public link, e.g. "Client work · code private". */
+  linkNote?: string;
+  /** Hue (deg) that tints the generated cover. */
   hue: number;
-  /**
-   * [PLACEHOLDER IMAGE] — when a real cover exists, set `image` to a path in
-   * /public and ProjectCard switches from the generated gradient to next/image.
-   */
+  /** Optional real cover in /public; replaces the generated gradient. */
   image?: string;
-  href?: string;
 }
 
-export interface Testimonial {
-  quote: string;
+export interface Milestone {
+  text: string;
   name: string;
-  title: string;
+  detail: string;
 }
 
 export interface BentoTile {
@@ -61,19 +66,21 @@ export interface ProcessStep {
 
 export const siteData = {
   identity: {
-    name: "Adrian Vale", // TODO: replace with real content
-    initials: "IA", // TODO: replace with real content
-    wordmark: "Ishimwe A", // footer ghost wordmark. TODO: replace with real content
-    role: "Software Engineer", // TODO: replace with real content
-    tagline: "Systems that feel effortless.", // TODO: replace with real content
-    location: "Berlin, Germany", // TODO: replace with real content
-    timezoneLabel: "Berlin", // TODO: replace with real content
-    timezone: "Europe/Berlin", // TODO: replace with real content
-    availability: "Open to select projects", // TODO: replace with real content
-    email: "hello@adrianvale.dev", // TODO: replace with real content
-    metaTitle: "Adrian Vale — Software Engineer", // TODO: replace with real content
+    name: "Arsene Ishimwe Uganase",
+    initials: "IA",
+    wordmark: "Ishimwe A", // footer ghost wordmark
+    role: "Software Engineer",
+    tagline: "Building software from Kigali.",
+    location: "Kigali, Rwanda",
+    timezoneLabel: "Kigali",
+    timezone: "Africa/Kigali",
+    availability: "Building KinyaSearch",
+    email: "ishimwearsene11@gmail.com",
+    /** Portrait in /public. Replace public/portrait.jpg with your real photo (4:5). */
+    portrait: "/portrait.jpg",
+    metaTitle: "Arsene Ishimwe Uganase — Software Engineer, Kigali",
     metaDescription:
-      "Senior software engineer in Berlin building fast, resilient products — from real-time platforms to design systems.", // TODO: replace with real content
+      "Full-stack and DevOps engineer in Kigali, Rwanda. Lead developer of ICCA's CTF platform, building KinyaSearch, a search engine that understands Kinyarwanda.",
   },
 
   nav: {
@@ -82,266 +89,284 @@ export const siteData = {
       { label: "Work", href: "#work" },
       { label: "Skills", href: "#skills" },
       { label: "Contact", href: "#contact" },
-    ], // TODO: replace with real content (if section names change)
-    cta: { label: "Let's talk", href: "#contact" }, // TODO: replace with real content
+    ],
+    cta: { label: "Get in touch", href: "#contact" },
   },
 
   hero: {
-    eyebrow: "Portfolio — 2026", // TODO: replace with real content
+    eyebrow: "Portfolio — 2026",
     // Rendered as two masked lines of display type.
-    headline: ["Building software", "with intent."], // TODO: replace with real content
+    headline: ["Building software", "from Kigali."],
     subline:
-      "Senior engineer for teams that care how things feel — I design and ship the systems behind fast, calm, reliable products.", // TODO: replace with real content
-    scrollCue: "Scroll", // TODO: replace with real content
+      "Full-stack developer and cybersecurity competitor. I build backends, keep the servers under them running, and right now I'm teaching a search engine to understand Kinyarwanda.",
+    scrollCue: "Scroll",
   },
 
   about: {
     eyebrow: "About",
-    heading: "Engineer first, but never only.", // TODO: replace with real content
+    heading: "I build things, then try to break them.",
     paragraphs: [
-      "For the past nine years I've built products where the backend's reliability is felt in the frontend's calm — logistics platforms tracking tens of thousands of live events, incident tooling used at 3 a.m., design systems that let forty engineers ship one coherent product.", // TODO: replace with real content
-      "I work across the stack but I'm happiest at the seams: where data model meets interface, where performance budgets meet ambition, where a team's velocity depends on the invisible glue being right.", // TODO: replace with real content
+      "I like understanding how things work, and how they fail. That curiosity took me from the classrooms of Rwanda Coding Academy to production servers, cybersecurity competitions, and a search engine for my own language.",
+      "I studied software engineering and embedded systems at Rwanda Coding Academy. Since graduating in 2025, I have interned at TV1 Rwanda and Potter's Hand Ministries, joined STARONLY Rwanda as a full-stack and DevOps engineer, and helped found the International Cybersecurity Community for Africa, where I lead development of its CTF platform. I write down every step I take on a server, because what worked today has to work again tomorrow.",
     ],
     stats: [
-      { value: 9, suffix: "+", label: "Years shipping production software" },
-      { value: 40, suffix: "k", label: "Events/sec on the busiest system I've scaled" },
-      { value: 12, suffix: "", label: "Products taken from zero to launch" },
-    ] as Stat[], // TODO: replace with real content
+      { value: 1, suffix: "st", label: "Cyberlympics Africa 2025, as team captain" },
+      { value: 60, suffix: "", label: "Students practicing on the CTF platform I lead" },
+      { value: 2, suffix: "", label: "Official competitions hosted on that platform" },
+    ] as Stat[],
     experience: [
       {
-        role: "Staff Engineer",
-        company: "Northline Systems",
-        period: "2023 — Now",
-        note: "Real-time logistics platform; leading a team of six.",
+        role: "Full-Stack & DevOps Engineer",
+        company: "STARONLY Rwanda",
+        period: "2026 — Now",
+        note: "Business-management software for small businesses. I build modules end to end and run the servers.",
       },
       {
-        role: "Senior Engineer",
-        company: "Helio Labs",
-        period: "2020 — 2023",
-        note: "Incident-response tooling; owned the live command center.",
+        role: "Founding Member · Lead CTF Platform Developer",
+        company: "ICCA",
+        period: "2025 — Now",
+        note: "International Cybersecurity Community for Africa, launched in Kigali in March 2026.",
       },
       {
-        role: "Product Engineer",
-        company: "Fathom Studio",
-        period: "2018 — 2020",
-        note: "Client work: fintech dashboards, e-commerce, design systems.",
+        role: "Software Development Intern",
+        company: "TV1 Rwanda · Potter's Hand Ministries",
+        period: "2025 — 2026",
+        note: "Mobile booking, order and payment flows; a devotional app now on both app stores.",
       },
       {
-        role: "Frontend Engineer",
-        company: "Karta",
-        period: "2017 — 2018",
-        note: "Maps SDK team; performance on low-end devices.",
+        role: "Student, Software Engineering & Embedded Systems",
+        company: "Rwanda Coding Academy",
+        period: "2022 — 2025",
+        note: "Class representative. Captained our CTF teams.",
       },
-    ] as Experience[], // TODO: replace with real content
+    ] as Experience[],
   },
 
   work: {
     eyebrow: "Selected Work",
-    heading: "Five projects, told properly.", // TODO: replace with real content
+    heading: "What I've built, and where it stands.",
     projects: [
       {
-        slug: "meridian",
-        title: "Meridian",
-        tagline: "Real-time logistics visibility",
+        slug: "kinyasearch",
+        title: "KinyaSearch",
+        tagline: "Search that understands Kinyarwanda",
         description:
-          "A live control tower for freight — every shipment, sensor ping and ETA recalculation streamed onto one map. I led the event pipeline rebuild and the move to server-driven UI for the ops console.",
-        year: "2025",
-        role: "Staff Engineer · Platform lead",
-        stack: ["Rust", "Kafka", "TypeScript", "Next.js", "WebSockets"],
-        outcome: "40k events/sec sustained · p99 map update under 250ms",
+          "Kinyarwanda builds words by attaching pieces to a root, so umuntu, abantu and ubuntu look unrelated to a normal search engine. KinyaSearch reduces every word to its root, matches on roots, and shows why each result matched. I'm starting with Rwandan law, where a missed word form means a missed provision.",
+        year: "2025 — Now",
+        role: "Solo · Design & engineering",
+        status: "In progress",
+        stack: ["Information retrieval", "Inverted index", "BM25 ranking", "Morphology"],
+        outcome: "One query finds every form of a word that exact-match search misses, shown side by side.",
+        links: [],
+        linkNote: "Code private while in development",
         hue: 18,
       },
       {
-        slug: "pulseboard",
-        title: "Pulseboard",
-        tagline: "Incident command, without the panic",
+        slug: "icca-ctf",
+        title: "ICCA CTF Platform",
+        tagline: "A practice ground for Africa's security students",
         description:
-          "The screen an on-call engineer sees at 3 a.m. — timeline, blast radius, runbooks and comms in one keyboard-driven surface. Designed for degraded networks: it works when everything else is on fire.",
-        year: "2024",
-        role: "Senior Engineer · Product owner",
-        stack: ["Next.js", "Go", "Postgres", "SSE", "Tailwind"],
-        outcome: "Mean time-to-acknowledge down 38% across 200+ incidents",
+          "The Capture The Flag platform of the International Cybersecurity Community for Africa. I lead its development, with help from a colleague: team accounts, challenge hosting, dynamic flags unique to each team, and the live scoreboard.",
+        year: "2025 — Now",
+        role: "Lead developer",
+        status: "Live",
+        stack: ["CTF platform", "Dynamic per-team flags", "Live scoreboard"],
+        outcome: "About 60 students · 2 official competitions hosted",
+        links: [{ label: "ctf.icca.africa", href: "https://ctf.icca.africa" }],
         hue: 205,
       },
       {
-        slug: "loomline",
-        title: "Loomline",
-        tagline: "A design system that ships itself",
+        slug: "phm-app",
+        title: "PHM Devotional",
+        tagline: "Daily devotions, published on both app stores",
         description:
-          "Token pipeline, component library and docs site serving four product teams. Tokens flow from Figma to typed CSS variables in CI; breaking changes are caught by visual regression before review.",
-        year: "2023",
-        role: "Senior Engineer · DX",
-        stack: ["TypeScript", "React", "Style Dictionary", "Storybook", "Playwright"],
-        outcome: "New-surface build time cut from weeks to days for 40 engineers",
+          "A devotional app for Potter's Hand Ministries: daily devotions, Bible studies, verses and prayer requests, with a website and an admin portal behind it. I contributed to the app as a software development intern.",
+        year: "2025 — 2026",
+        role: "Software development intern",
+        status: "Live",
+        stack: ["Mobile app", "Website", "Admin portal"],
+        outcome: "Published on the App Store and Google Play",
+        links: [
+          { label: "App Store", href: "https://apps.apple.com/us/app/phm-devotional/id6759655365" },
+          {
+            label: "Google Play",
+            href: "https://play.google.com/store/apps/details?id=com.pottershandministries.phmapp",
+          },
+          { label: "phm.rw", href: "https://phm.rw/" },
+        ],
+        hue: 150,
+      },
+      {
+        slug: "rex-plus",
+        title: "Rex Plus",
+        tagline: "Hospitality management, from table to payment",
+        description:
+          "A restaurant and hospitality platform at TV1 Rwanda, with separate experiences for owners, waiters and customers. On the mobile side, I built the booking, reservation, order and payment flows connected to the backend, including real-time updates.",
+        year: "2025 — 2026",
+        role: "Software development intern · TV1 Rwanda",
+        status: "Client work",
+        stack: ["React Native", "Expo", "Socket.IO", "Payments"],
+        outcome: "Booking-to-payment flows shipped in the mobile app",
+        links: [],
+        linkNote: "Client work · code private",
         hue: 280,
       },
       {
-        slug: "atlas-relay",
-        title: "Atlas Relay",
-        tagline: "An edge gateway migration nobody noticed",
+        slug: "guard",
+        title: "GUARD",
+        tagline: "Emergency braking, tested on the bench",
         description:
-          "Moved a monolith's public API behind an edge gateway — auth, rate-limiting and caching at 30 PoPs — with zero downtime over a four-month rollout. The best compliment: users never knew.",
-        year: "2022",
-        role: "Senior Engineer · Infra",
-        stack: ["Cloudflare Workers", "Redis", "OpenAPI", "Terraform"],
-        outcome: "Global p99 latency 610ms → 140ms · zero-downtime cutover",
+          "Guardian Utility for Automotive Roadway Defense: a road-safety prototype that uses an ESP32-CAM and sensors to decide when a vehicle should brake. We built and tested it on a bench rig with an Arduino, servo motors and sensors, not on a real car.",
+        year: "2024",
+        role: "Team member · System logic",
+        status: "Prototype",
+        stack: ["ESP32-CAM", "Arduino", "C", "Sensors & servos"],
+        outcome: "Bench-tested prototype · school hackathon project",
+        // TODO: add the public GitHub repo, e.g. { label: "GitHub", href: "https://github.com/arseneishimwe11/..." }
+        links: [],
+        linkNote: "Hardware prototype",
         hue: 45,
       },
-      {
-        slug: "fieldnotes",
-        title: "Fieldnotes",
-        tagline: "Local-first notes, open source",
-        description:
-          "A weekend project that grew: offline-first notes with CRDT sync, end-to-end encryption and a sub-50KB core. Maintained in the open with a small, opinionated contributor community.",
-        year: "2021 — Now",
-        role: "Creator · Maintainer",
-        stack: ["TypeScript", "CRDTs", "IndexedDB", "Vite"],
-        outcome: "4.1k GitHub stars · 99 contributors · used daily by yours truly",
-        hue: 150,
-      },
-    ] as Project[], // TODO: replace with real content
+    ] as Project[],
   },
 
   skills: {
     eyebrow: "Capabilities",
-    heading: "Depth where it counts, range where it helps.", // TODO: replace with real content
+    heading: "What I work with.",
     bento: [
       {
-        title: "Product engineering",
-        body: "Interfaces that stay fast under real data. React server components, streaming, optimistic UI, motion that respects the reader.",
-        items: ["TypeScript", "React / Next.js", "Tailwind", "Framer Motion"],
+        title: "Backend & APIs",
+        body: "Where I spend most of my time: the modules, data models and APIs the rest of a product depends on.",
+        items: ["NestJS", "Node.js", "TypeScript", "PostgreSQL"],
         size: "wide",
       },
       {
-        title: "Systems & data",
-        body: "Event pipelines, APIs and storage designed for the failure case first.",
-        items: ["Rust", "Go", "Postgres", "Kafka", "Redis"],
+        title: "Web & mobile",
+        body: "Interfaces for the people who actually use the system.",
+        items: ["Next.js", "React", "React Native / Expo"],
         size: "normal",
       },
       {
-        title: "Infrastructure",
-        body: "Boring, observable deploys. If it isn't graphed, it isn't done.",
-        items: ["Terraform", "Cloudflare", "AWS", "Grafana"],
+        title: "Servers & DevOps",
+        body: "Setting up and running the machines underneath, and writing down every step.",
+        items: ["Linux", "Nginx", "Docker", "SSL/TLS"],
         size: "normal",
+      },
+      {
+        title: "Cybersecurity",
+        body: "CTF competitor and team captain, ISC2 Certified in Cybersecurity. I like knowing how things break.",
+        items: ["CTFs", "Web exploitation", "ISC2 CC"],
+        size: "wide",
       },
       {
         title: "Currently exploring",
-        body: "Local-first sync engines, WebGPU compute, and how far the edge can carry application state.",
-        size: "normal",
-      },
-      {
-        title: "Principles",
-        body: "Latency is a feature. Delete more than you add. The team's speed is the architecture.",
+        body: "Information retrieval for languages the big tools ignore: inverted indexes, ranking, and how to teach a search engine Kinyarwanda morphology.",
         size: "wide",
       },
-    ] as BentoTile[], // TODO: replace with real content
+    ] as BentoTile[],
     marquee: [
       "TypeScript",
-      "Rust",
-      "React",
-      "Next.js",
-      "Go",
-      "Postgres",
-      "Kafka",
-      "GraphQL",
-      "Tailwind",
-      "Terraform",
-      "Cloudflare",
+      "NestJS",
       "Node.js",
-      "Redis",
-      "Playwright",
-    ], // TODO: replace with real content
+      "Next.js",
+      "React",
+      "React Native",
+      "Expo",
+      "PostgreSQL",
+      "Docker",
+      "Nginx",
+      "Linux",
+      "Socket.IO",
+      "ESP32",
+      "Git",
+    ],
     process: [
       {
         number: "01",
         title: "Understand",
-        body: "A week of listening before a line of code — constraints, users, the metric that actually matters.",
+        body: "Before writing code, I want to know who it's for and what failure would look like.",
       },
       {
         number: "02",
-        title: "Architect",
-        body: "The smallest system that survives success. Written down, argued over, then committed to.",
+        title: "Build small",
+        body: "The smallest version that actually works, then improve it with real feedback.",
       },
       {
         number: "03",
-        title: "Build",
-        body: "Vertical slices shipped weekly. Real data early, feature flags everywhere, demos over decks.",
+        title: "Try to break it",
+        body: "I test it the way an attacker would, or the way a tired user would.",
       },
       {
         number: "04",
-        title: "Harden",
-        body: "Load tests, chaos drills, accessibility passes and the unglamorous 10% that makes it production.",
+        title: "Write it down",
+        body: "Every setup, every fix, every command. A result I can't reproduce isn't finished.",
       },
-    ] as ProcessStep[], // TODO: replace with real content
+    ] as ProcessStep[],
   },
 
-  testimonials: {
-    eyebrow: "Kind words",
-    heading: "People I've shipped with.", // TODO: replace with real content
+  recognition: {
+    eyebrow: "Recognition",
+    heading: "Milestones, so far.",
     items: [
       {
-        quote:
-          "Adrian is the engineer you hand the scariest part of the roadmap to. He rebuilt our event pipeline mid-flight — traffic doubled, nobody outside the team ever knew.",
-        name: "Mara Lindqvist",
-        title: "VP Engineering, Northline Systems",
+        text: "First place at Cyberlympics Africa 2025 as team captain, a year after our team took bronze.",
+        name: "Cyberlympics Africa",
+        detail: "2025 · 1st place  ·  2024 · 3rd place",
       },
       {
-        quote:
-          "Rare combination: systems depth and genuine taste. Our incident tooling went from a wall of red text to something people actually trust at 3 a.m.",
-        name: "Deniz Okafor",
-        title: "Head of Platform, Helio Labs",
+        text: "Certified in Cybersecurity (CC) by ISC2, the global body behind the CISSP.",
+        name: "ISC2",
+        detail: "June 2026",
       },
       {
-        quote:
-          "He treats developer experience as a product. Loomline changed how four teams work — and he documented it well enough that it outlived his tenure.",
-        name: "Sofia Reyes",
-        title: "Design Director, Fathom Studio",
+        text: "One of the founders of the International Cybersecurity Community for Africa, launched in Kigali in March 2026.",
+        name: "ICCA",
+        detail: "Founding member · 2025 — Now",
       },
-    ] as Testimonial[], // TODO: replace with real content
+    ] as Milestone[],
   },
 
   faq: {
     eyebrow: "FAQ",
-    heading: "Questions, answered.", // TODO: replace with real content
+    heading: "Questions, answered.",
     items: [
       {
-        q: "What kind of work are you best suited for?",
-        a: "Ambitious product and platform work — real-time systems, performance-critical frontends, design systems, and the glue between them. If it needs to be fast, resilient and pleasant to use, that's my lane.",
+        q: "What are you working on right now?",
+        a: "Full-time at STARONLY Rwanda on business-management software for small businesses, the CTF platform for the International Cybersecurity Community for Africa, and KinyaSearch, my search engine for Kinyarwanda.",
       },
       {
-        q: "Do you work solo or embed with a team?",
-        a: "Both. I can own a slice end-to-end as an individual contributor, or embed with an existing team and lift its velocity — reviewing, mentoring and setting the architectural direction as I go.",
+        q: "Why build a search engine for Kinyarwanda?",
+        a: "Because normal search breaks on it. My father once searched for a government document that was online, in Kinyarwanda, and never found it: he typed the right word in the wrong form. Kinyarwanda changes the shape of words so much that exact-match search quietly misses relevant results.",
       },
       {
-        q: "What does a typical engagement look like?",
-        a: "A week of discovery to pin down constraints and the metric that matters, then vertical slices shipped weekly with real data early. You see working software, not decks, from the second week on.",
+        q: "Why is some of your code private?",
+        a: "Some projects are client work that belongs to the companies I built it for, like Rex Plus at TV1 Rwanda. Others, like KinyaSearch, are still in development. Where I can, I link to the live product instead.",
       },
       {
-        q: "Which stacks do you reach for?",
-        a: "TypeScript and React/Next.js on the front, Rust or Go for services, Postgres and event streaming for data, and boring, observable infrastructure underneath. I pick the tool the problem asks for, not the one on the sticker.",
+        q: "Do you work alone or in a team?",
+        a: "Both. KinyaSearch is a solo project. GUARD, the CTF platform and my internship work were team efforts, and I have captained CTF teams in competition.",
       },
       {
-        q: "Are you available right now?",
-        a: "I take on a small number of select projects at a time so each gets real attention. Reach out with what you're building and I'll tell you honestly where I'm at.",
+        q: "What do you want to study next?",
+        a: "Computer science, with a focus on software engineering and security: how to build systems that still hold up when someone tries to break them.",
       },
-    ], // TODO: replace with real content
+    ],
   },
 
   contact: {
     eyebrow: "Contact",
-    headline: ["Let's build", "something good."], // TODO: replace with real content
-    body: "Currently taking on select projects for 2026. If you're building something that needs to be fast, resilient and pleasant to use — tell me about it.", // TODO: replace with real content
+    headline: ["Get in", "touch."],
+    body: "Questions about my work, KinyaSearch, or CTFs? Email is the fastest way to reach me.",
     socials: [
-      { label: "GitHub", href: "https://github.com/username" }, // TODO: replace with real content
-      { label: "LinkedIn", href: "https://linkedin.com/in/username" }, // TODO: replace with real content
-      { label: "X / Twitter", href: "https://x.com/username" }, // TODO: replace with real content
-      { label: "CV / Résumé", href: "#" }, // TODO: replace with real content
+      { label: "GitHub", href: "https://github.com/arseneishimwe11" },
+      { label: "LinkedIn", href: "https://www.linkedin.com/in/ishimwe-arsene-08a301256/" },
+      { label: "ICCA CTF", href: "https://ctf.icca.africa" },
     ],
   },
 
   footer: {
-    colophon: "Designed & built by Ishimwe A", // TODO: replace with real content
-    note: "Next.js · Tailwind · GSAP · Lenis · R3F", // TODO: replace with real content
+    colophon: "Designed & built by Ishimwe Arsene",
+    note: "Next.js · Tailwind · GSAP · Lenis · R3F",
   },
 } as const;
 
