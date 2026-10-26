@@ -94,7 +94,6 @@ export default function ProjectCard({
                   href={link.href}
                   target="_blank"
                   rel="noreferrer noopener"
-                  data-cursor="view"
                   className="roll font-mono text-xs uppercase tracking-[0.16em] text-ink"
                 >
                   <span>{link.label} ↗</span>

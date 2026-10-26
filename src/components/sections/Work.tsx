@@ -15,7 +15,7 @@ gsap.registerPlugin(ScrollTrigger);
 /**
  * Sticky-stack case studies (the Lyniq sticky-scroll idea, rebuilt):
  * each card pins below the nav; as the next one slides over, the outgoing
- * card scales to 0.94 and dims (brightness filter, stays opaque), scrubbed.
+ * card scales to 0.94 and a black overlay fades in over it (card stays opaque).
  * Mobile (<768px) and reduced motion get a plain stacked list.
  */
 export default function Work() {
@@ -31,19 +31,23 @@ export default function Work() {
       const wrappers = gsap.utils.toArray<HTMLElement>("[data-card-wrapper]");
       wrappers.forEach((wrapper, i) => {
         if (i === wrappers.length - 1) return;
-        gsap.to(wrapper.querySelector("[data-card]"), {
-          scale: 0.94,
-          // Dim with a filter, not opacity: opacity made the card translucent,
-          // so the stacked card underneath showed through its text.
-          filter: "brightness(0.4)",
-          ease: "none",
+        // One timeline per outgoing card, scrubbed with a little smoothing so
+        // the motion eases instead of tracking every wheel tick.
+        // The card itself stays fully opaque (no opacity/filter on it, which
+        // caused bleed-through and flicker); a black overlay fades in instead.
+        const tl = gsap.timeline({
           scrollTrigger: {
             trigger: wrappers[i + 1],
-            start: "top 85%",
-            end: "top 15%",
-            scrub: true,
+            start: "top bottom",
+            end: "top 12%",
+            scrub: 0.6,
           },
         });
+        tl.to(wrapper.querySelector("[data-card]"), { scale: 0.94, ease: "none" }, 0).to(
+          wrapper.querySelector("[data-dim]"),
+          { opacity: 0.55, ease: "power1.in" },
+          0,
+        );
       });
     },
     { scope: root, dependencies: [stacked] },
@@ -72,8 +76,15 @@ export default function Work() {
             }
             style={stacked ? { zIndex: i + 1, height: "max(80vh, 640px)" } : undefined}
           >
-            <div data-card className="h-full origin-top will-change-transform">
+            <div data-card className="relative h-full origin-top will-change-transform">
               <ProjectCard project={project} index={i} />
+              {stacked && (
+                <div
+                  aria-hidden
+                  data-dim
+                  className="pointer-events-none absolute inset-0 rounded-card bg-black opacity-0 will-change-[opacity]"
+                />
+              )}
             </div>
           </div>
         ))}

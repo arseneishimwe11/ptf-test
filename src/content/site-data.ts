@@ -104,7 +104,7 @@ export const siteData = {
 
   about: {
     eyebrow: "About",
-    heading: "I build things, then try to break them.",
+    heading: "I build things, then test how they break.",
     paragraphs: [
       "I like understanding how things work, and how they fail. That curiosity took me from the classrooms of Rwanda Coding Academy to production servers, cybersecurity competitions, and a search engine for my own language.",
       "I studied software engineering and embedded systems at Rwanda Coding Academy. Since graduating in 2025, I have interned at TV1 Rwanda and Potter's Hand Ministries, joined STARONLY Rwanda as a full-stack and DevOps engineer, and helped found the International Cybersecurity Community for Africa, where I lead development of its CTF platform. I write down every step I take on a server, because what worked today has to work again tomorrow.",
@@ -119,7 +119,7 @@ export const siteData = {
         role: "Full-Stack & DevOps Engineer",
         company: "STARONLY Rwanda",
         period: "2026 — Now",
-        note: "Business-management software for small businesses. I build modules end to end and run the servers.",
+        note: "Enterprise Resource Planning (ERP) software for small businesses. I build modules end to end and run the servers.",
       },
       {
         role: "Founding Member · Lead CTF Platform Developer",
@@ -152,7 +152,7 @@ export const siteData = {
         tagline: "Search that understands Kinyarwanda",
         description:
           "Kinyarwanda builds words by attaching pieces to a root, so umuntu, abantu and ubuntu look unrelated to a normal search engine. KinyaSearch reduces every word to its root, matches on roots, and shows why each result matched. I'm starting with Rwandan law, where a missed word form means a missed provision.",
-        year: "2025 — Now",
+        year: "2026 — Now",
         role: "Solo · Design & engineering",
         status: "In progress",
         stack: ["Information retrieval", "Inverted index", "BM25 ranking", "Morphology"],
@@ -201,9 +201,9 @@ export const siteData = {
         title: "Rex Plus",
         tagline: "Hospitality management, from table to payment",
         description:
-          "A restaurant and hospitality platform at TV1 Rwanda, with separate experiences for owners, waiters and customers. On the mobile side, I built the booking, reservation, order and payment flows connected to the backend, including real-time updates.",
+          "During my internship at TV1 Rwanda, I was assigned to Rex Plus, a hospitality platform run by a sister company under the same ownership. It has separate experiences for owners, waiters and customers. On the mobile side, I built the booking, reservation, order and payment flows connected to the backend, including real-time updates.",
         year: "2025 — 2026",
-        role: "Software development intern · TV1 Rwanda",
+        role: "Software development intern (via TV1 Rwanda)",
         status: "Client work",
         stack: ["React Native", "Expo", "Socket.IO", "Payments"],
         outcome: "Booking-to-payment flows shipped in the mobile app",
@@ -332,7 +332,7 @@ export const siteData = {
     items: [
       {
         q: "What are you working on right now?",
-        a: "Full-time at STARONLY Rwanda on business-management software for small businesses, the CTF platform for the International Cybersecurity Community for Africa, and KinyaSearch, my search engine for Kinyarwanda.",
+        a: "Full-time at STARONLY Rwanda on Enterprise Resource Planning (ERP) software for small businesses, the CTF platform for the International Cybersecurity Community for Africa, and KinyaSearch, my search engine for Kinyarwanda.",
       },
       {
         q: "Why build a search engine for Kinyarwanda?",
