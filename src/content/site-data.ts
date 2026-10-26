@@ -1,10 +1,3 @@
-/**
- * SINGLE SOURCE OF CONTENT
- * ------------------------
- * Every piece of copy on the site lives here. Edit this file to change what
- * the page says; components only render it.
- */
-
 export interface Experience {
   role: string;
   company: string;
@@ -76,8 +69,7 @@ export const siteData = {
     timezone: "Africa/Kigali",
     availability: "Building KinyaSearch",
     email: "ishimwearsene11@gmail.com",
-    /** Portrait in /public. Replace public/portrait.jpg with your real photo (4:5). */
-    portrait: "/portrait.jpg",
+    portrait: "/portrait.jpeg",
     metaTitle: "Arsene Ishimwe Uganase — Software Engineer, Kigali",
     metaDescription:
       "Full-stack and DevOps engineer in Kigali, Rwanda. Lead developer of ICCA's CTF platform, building KinyaSearch, a search engine that understands Kinyarwanda.",
@@ -95,7 +87,6 @@ export const siteData = {
 
   hero: {
     eyebrow: "Portfolio — 2026",
-    // Rendered as two masked lines of display type.
     headline: ["Building software", "from Kigali."],
     subline:
       "Full-stack developer and cybersecurity competitor. I build backends, keep the servers under them running, and right now I'm teaching a search engine to understand Kinyarwanda.",
