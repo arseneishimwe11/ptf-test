@@ -153,6 +153,21 @@ export const siteData = {
         hue: 18,
       },
       {
+        slug: "veritas",
+        title: "Veritas",
+        tagline: "Proving the rules in a spreadsheet",
+        description:
+          "Spreadsheets drive real money decisions, and most tools only flag cells that look suspicious. In Veritas, you write a rule into the sheet, like \"this total equals the sum of these rows,\" and it either proves the rule holds for every valid input or returns the exact values that break it.",
+        year: "2026",
+        role: "Solo · Design & engineering",
+        status: "In progress",
+        stack: ["Formal verification", "Z3 (WASM)", "SMT-LIB", "Spreadsheets"],
+        outcome: "Full pipeline implemented and tested: a proof, or a concrete counterexample.",
+        links: [],
+        linkNote: "Code private while I keep improving it",
+        hue: 330,
+      },
+      {
         slug: "icca-ctf",
         title: "ICCA CTF Platform",
         tagline: "A practice ground for Africa's security students",
