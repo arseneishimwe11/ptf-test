@@ -101,7 +101,7 @@ export const siteData = {
       "I studied software engineering and embedded systems at Rwanda Coding Academy. Since graduating in 2025, I have interned at TV1 Rwanda and Potter's Hand Ministries, joined STARONLY Rwanda as a full-stack and DevOps engineer, and helped found the International Cybersecurity Community for Africa, where I lead development of its CTF platform. I write down every step I take on a server, because what worked today has to work again tomorrow.",
     ],
     stats: [
-      { value: 1, suffix: "st", label: "Cyberlympics Africa 2025, as team captain" },
+      { value: 1, suffix: "st", label: "Cyberlympics Rwanda 2025 (national), as team captain" },
       { value: 60, suffix: "", label: "Students practicing on the CTF platform I lead" },
       { value: 2, suffix: "", label: "Official competitions hosted on that platform" },
     ] as Stat[],
@@ -314,8 +314,8 @@ export const siteData = {
     heading: "Milestones, so far.",
     items: [
       {
-        text: "First place at Cyberlympics Africa 2025 as team captain, a year after our team took bronze.",
-        name: "Cyberlympics Africa",
+        text: "First place at Cyberlympics Rwanda 2025, the national competition held at the Africa Cyber Defense Forum, as team captain, a year after our team took bronze.",
+        name: "Cyberlympics Rwanda",
         detail: "2025 · 1st place  ·  2024 · 3rd place",
       },
       {
