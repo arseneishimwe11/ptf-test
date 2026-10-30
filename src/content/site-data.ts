@@ -161,7 +161,7 @@ export const siteData = {
         year: "2026 — Now",
         role: "Full-stack & DevOps engineer · STARONLY Rwanda",
         status: "Live",
-        stack: ["Sales & POS", "Inventory", "Accounting", "Payroll", "Mobile money"],
+        stack: ["Next.js", "NestJS", "Accounting", "Inventory", "Mobile money"],
         outcome: "10+ businesses running on it: hardware shops, salons, rental stores, cooperatives",
         links: [{ label: "ahwiix.com", href: "https://ahwiix.com/" }],
         hue: 250,
